@@ -1,0 +1,268 @@
+id,keyword,est_quantity,decision
+Bacardi,bacardi,2,keep
+Diplomático,diplomatico,2,keep
+Belvedere,belvedere,3,keep
+Casamigos,casamigos,4,keep
+Don Julio,don-julio,3,keep
+Patrón,patron,2,keep
+Malibu,malibu,6,keep
+Chartreuse,chartreuse,2,keep
+Menta,menta,3,keep
+Angostura,angostura,2,keep
+Buffalo Trace,buffalo-trace,3,keep
+Jack Daniels,jack-daniels,20,keep
+Jim Beam,jim-beam,2,keep
+Johnnie Walker,johnnie-walker,4,keep
+Teremana,teremana,2,keep
+Foursquare,foursquare,2,keep
+Hendricks,hendricks,4,keep
+Hennessy,hennessy,3,keep
+Bardstown,bardstown,3,keep
+Brothers Bond,brothers-bond,2,keep
+Elijah Craig,elijah-craig,2,keep
+Evan Williams,evan-williams,2,keep
+Four Roses,four-roses,5,keep
+Gentlemans Cut,gentlemans-cut,5,keep
+George Dickel,george-dickel,2,keep
+Heavens Door,heavens-door,2,keep
+Old Forester,old-forester,3,keep
+Penelope,penelope,2,keep
+W L Weller,w-l-weller,2,keep
+Weller,weller,5,keep
+Woodford Reserve,woodford-reserve,3,keep
+Irishman,irishman,2,keep
+Jameson,jameson,6,keep
+Teeling,teeling,2,keep
+Balvenie,balvenie,7,keep
+Dalmore,dalmore,2,keep
+Macallan,macallan,8,keep
+Speyside,speyside,3,keep
+Grolsch,grolsch,2,keep
+Guinness,guinness,3,keep
+Estrella Galicia,estrella-galicia,3,keep
+Dom Pérignon,dom-perignon,2,keep
+Budweiser,budweiser,19,keep
+Heineken,heineken,5,keep
+Santa Bárbara,santa-barbara,3,keep
+Prophecy,prophecy,2,keep
+Elodie,elodie,3,keep
+Gusto,gusto,3,keep
+Esse,esse,5,keep
+Santa Helena,santa-helena,2,keep
+Cata,cata,2,keep
+Mendoza,mendoza,2,keep
+Dandelion,dandelion,3,keep
+Pfeiffer,pfeiffer,2,keep
+Domenica,domenica,2,keep
+Kendall-Jackson,kendall-jackson,2,keep
+Napa,napa,12,keep
+Benziger,benziger,2,keep
+Copain,copain,2,keep
+Bello,bello,3,keep
+Sonoma Coast,sonoma-coast,2,keep
+Trellis,trellis,5,keep
+Sonoma,sonoma,9,keep
+Melrose,melrose,2,keep
+Peninsula,peninsula,2,keep
+Pugliese,pugliese,2,keep
+Ventimiglia,ventimiglia,2,keep
+Sherry-Lehmann,sherry-lehmann,3,keep
+Corkscrew,corkscrew,3,keep
+Jackson Estate,jackson-estate,4,keep
+Douloufakis,douloufakis,2,keep
+Andau,andau,2,keep
+Vini,vini,3,keep
+Cardinal,cardinal,5,keep
+Kirkland Signature,kirkland-signature,7,keep
+Anarchy,anarchy,2,keep
+Onyx,onyx,8,keep
+Arch,arch,2,keep
+Wildcat,wildcat,5,keep
+Dorado,dorado,2,keep
+Chai,chai,3,keep
+Goth,goth,3,keep
+Big Horn,big-horn,20,keep
+Seaside,seaside,7,keep
+Ginseng,ginseng,2,keep
+Rebellion,rebellion,2,keep
+Wildfire,wildfire,5,keep
+Jolly,jolly,10,keep
+Pit Bull,pit-bull,5,keep
+Fireball,fireball,2,keep
+West Coast,west-coast,2,keep
+Crimson,crimson,2,keep
+Gingerbread,gingerbread,3,keep
+Sparta,sparta,4,keep
+Strawberry Cream,strawberry-cream,2,keep
+Baron,baron,2,keep
+Peach Cobbler,peach-cobbler,2,keep
+Cesky,cesky,2,keep
+Jezebel,jezebel,3,keep
+Badger,badger,2,keep
+Coors,coors,11,keep
+Heartbeat,heartbeat,2,keep
+Hugh,hugh,3,keep
+Blackout,blackout,4,keep
+Ambrosia,ambrosia,4,keep
+Stein,stein,2,keep
+Keystone,keystone,2,keep
+Molson,molson,2,keep
+Blond,blond,2,keep
+Camo,camo,5,keep
+Welsh,welsh,2,keep
+Cocoa,cocoa,2,keep
+Howlin,howlin,3,keep
+Geante,geante,2,keep
+Brasserie,brasserie,3,keep
+Milkshake,milkshake,2,keep
+Mohawk,mohawk,2,keep
+Twelve,twelve,2,keep
+Patriot,patriot,3,keep
+Vernal,vernal,3,keep
+Ellis Island,ellis-island,2,keep
+Marble,marble,2,keep
+Olde,olde,5,keep
+Bully,bully,50,keep
+Heartland,heartland,2,keep
+Jaipur,jaipur,4,keep
+Raven,raven,3,keep
+Canterbury,canterbury,2,keep
+Moat,moat,2,keep
+Kilkenny,kilkenny,3,keep
+Thurn Und Taxis,thurn-und-taxis,2,keep
+Maxs,maxs,2,keep
+Ned,ned,3,keep
+Duet,duet,2,keep
+Gangster,gangster,18,keep
+Sarasota,sarasota,8,keep
+Praga,praga,4,keep
+Bavaria,bavaria,12,keep
+Rocker,rocker,3,keep
+Watermelon,watermelon,3,keep
+Aiken,aiken,6,keep
+Aberdeen,aberdeen,7,keep
+Bark,bark,3,keep
+Kiwi,kiwi,3,keep
+Hardcore,hardcore,2,keep
+Cheers,cheers,5,keep
+Berg,berg,3,keep
+Springer,springer,4,keep
+Saranac,saranac,2,keep
+Amazing Grace,amazing-grace,3,keep
+Captains,captains,3,keep
+Pear,pear,4,keep
+Formidable,formidable,2,keep
+Grizzly Bear,grizzly-bear,2,keep
+Jasper,jasper,2,keep
+Odell,odell,2,keep
+Sunflower,sunflower,5,keep
+Bells,bells,2,keep
+Bountiful,bountiful,3,keep
+Ossett,ossett,2,keep
+Possession,possession,2,keep
+Charles Bridge,charles-bridge,2,keep
+Farmhouse,farmhouse,3,keep
+Maplewood,maplewood,3,keep
+Avril,avril,3,keep
+Johnston,johnston,2,keep
+Dominion,dominion,10,keep
+Obsidian,obsidian,2,keep
+Resistance,resistance,7,keep
+Jacksons,jacksons,2,keep
+Quaker,quaker,2,keep
+Confession,confession,2,keep
+Regala,regala,10,keep
+Tesco,tesco,2,keep
+Dukes,dukes,2,keep
+Belgium,belgium,3,keep
+Dark Earth,dark-earth,2,keep
+Midwest,midwest,2,keep
+Kuchlbauer,kuchlbauer,3,keep
+Lighthouse,lighthouse,4,keep
+Chaotic,chaotic,2,keep
+Pivotal,pivotal,2,keep
+Next Door,next-door,2,keep
+Flyers,flyers,3,keep
+Proper,proper,2,keep
+Taps,taps,2,keep
+Joes,joes,2,keep
+Michelob,michelob,2,keep
+Busch,busch,17,keep
+Michelob Ultra,michelob-ultra,2,keep
+Anheuser,anheuser,15,keep
+Congo,congo,3,keep
+Beam,beam,2,keep
+Plum,plum,3,keep
+First Class,first-class,3,keep
+Chocolate Cherry,chocolate-cherry,2,keep
+Redhook,redhook,2,keep
+Nurnberger,nurnberger,2,keep
+Centurion,centurion,4,keep
+Chatham,chatham,3,keep
+Greens,greens,2,keep
+Brass,brass,4,keep
+Greed,greed,4,keep
+Biker,biker,2,keep
+Coleman,coleman,3,keep
+Single Malt,single-malt,3,keep
+Islander,islander,17,keep
+Idiot,idiot,3,keep
+Alaskan,alaskan,2,keep
+Wolverine,wolverine,3,keep
+Eugene,eugene,2,keep
+Absolut,absolut,2,keep
+Amstel,amstel,5,keep
+Aperol,aperol,25,keep
+Appleton,appleton,2,keep
+Asahi,asahi,1,keep
+Baileys,baileys,38,keep
+Ballantines,ballantines,1,keep
+Becks,becks,7,keep
+Beefeater,beefeater,1,keep
+Bollinger,bollinger,8,keep
+Bombay Sapphire,bombay-sapphire,1,keep
+Bushmills,bushmills,1,keep
+Campari,campari,1,keep
+Captain Morgan,captain-morgan,1,keep
+Carlsberg,carlsberg,5,keep
+Chambord,chambord,1,keep
+Chivas Regal,chivas-regal,3,keep
+Corona,corona,2,keep
+Crown Royal,crown-royal,6,keep
+Disaronno,disaronno,1,keep
+Erdinger,erdinger,1,keep
+Espolon,espolon,6,keep
+Estrella,estrella,2,keep
+Finlandia,finlandia,30,keep
+Fosters,fosters,1,keep
+Glenfiddich,glenfiddich,2,keep
+Glenlivet,glenlivet,1,keep
+Gordons,gordons,7,keep
+Grand Marnier,grand-marnier,3,keep
+Havana Club,havana-club,1,keep
+Herradura,herradura,1,keep
+Jägermeister,jagermeister,14,keep
+Jose Cuervo,jose-cuervo,1,keep
+Kahlúa,kahlua,1,keep
+Ketel One,ketel-one,1,keep
+Leffe,leffe,7,keep
+Limoncello,limoncello,1,keep
+Makers Mark,makers-mark,4,keep
+Martell,martell,15,keep
+Martini,martini,1,keep
+Midori,midori,18,keep
+Miller,miller,13,keep
+Monkey Shoulder,monkey-shoulder,1,keep
+Mumm,mumm,1,keep
+Peroni,peroni,5,keep
+Remy Martin,remy-martin,1,keep
+Ron Zacapa,ron-zacapa,1,keep
+Sambuca,sambuca,3,keep
+Sapporo,sapporo,16,keep
+SKYY,skyy,31,keep
+Smirnoff,smirnoff,5,keep
+Stella Artois,stella-artois,3,keep
+Tanqueray,tanqueray,1,keep
+Veuve Clicquot,veuve-clicquot,1,keep
+Wild Turkey,wild-turkey,1,keep
+Żubrówka,zubrowka,1,keep

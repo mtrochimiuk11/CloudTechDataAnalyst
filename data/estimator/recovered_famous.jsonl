@@ -1,0 +1,56 @@
+{"id": "Absolut", "required": [{"keyword": "absolut", "mode": "m"}], "optional": [{"keyword": "vodka", "mode": "m"}, {"keyword": "wodka", "mode": "m"}], "optionalThreshold": 1}
+{"id": "Amstel Brewery", "required": [{"keyword": "amstel", "mode": "m"}]}
+{"id": "Aperol", "required": [{"keyword": "aperol", "mode": "m"}]}
+{"id": "Appleton", "required": [{"keyword": "appleton", "mode": "m"}], "optional": [{"keyword": "rum", "mode": "m"}, {"keyword": "rhum", "mode": "m"}], "optionalThreshold": 1}
+{"id": "Asahi Black (Kuronama)", "required": [{"keyword": "asahi", "mode": "m"}], "optional": [{"keyword": "beer", "mode": "m"}, {"keyword": "cerveza", "mode": "m"}, {"keyword": "cerveja", "mode": "m"}, {"keyword": "bier", "mode": "m"}, {"keyword": "birra", "mode": "m"}, {"keyword": "biere", "mode": "m"}, {"keyword": "piwo", "mode": "m"}, {"keyword": "pivo", "mode": "m"}, {"keyword": "english", "mode": "m"}, {"keyword": "stout", "mode": "m"}], "optionalThreshold": 1}
+{"id": "Baileys", "required": [{"keyword": "baileys", "mode": "m"}]}
+{"id": "Ballantine's", "required": [{"keyword": "ballantines", "mode": "m"}], "optional": [{"keyword": "whisky", "mode": "m"}, {"keyword": "whiskey", "mode": "m"}, {"keyword": "scotch", "mode": "m"}, {"keyword": "bourbon", "mode": "m"}, {"keyword": "pernod", "mode": "m"}, {"keyword": "ricard", "mode": "m"}], "optionalThreshold": 1}
+{"id": "Beck's", "required": [{"keyword": "becks", "mode": "m"}]}
+{"id": "Beefeater", "required": [{"keyword": "beefeater", "mode": "m"}], "optional": [{"keyword": "gin", "mode": "m"}, {"keyword": "ginebra", "mode": "m"}], "optionalThreshold": 1}
+{"id": "Bollinger", "required": [{"keyword": "bollinger", "mode": "m"}]}
+{"id": "Bombay Sapphire", "required": [{"keyword": "bombay-sapphire", "mode": "m"}], "optional": [{"keyword": "gin", "mode": "m"}, {"keyword": "ginebra", "mode": "m"}], "optionalThreshold": 1}
+{"id": "Bushmills", "required": [{"keyword": "bushmills", "mode": "m"}]}
+{"id": "Campari", "required": [{"keyword": "campari", "mode": "m"}], "optional": [{"keyword": "liqueur", "mode": "m"}, {"keyword": "licor", "mode": "m"}, {"keyword": "likor", "mode": "m"}, {"keyword": "liquore", "mode": "m"}, {"keyword": "vermouth", "mode": "m"}, {"keyword": "vermut", "mode": "m"}, {"keyword": "group", "mode": "m"}], "optionalThreshold": 1}
+{"id": "Captain Morgan", "required": [{"keyword": "captain-morgan", "mode": "m"}]}
+{"id": "Carlsberg Group", "required": [{"keyword": "carlsberg", "mode": "m"}]}
+{"id": "Chambord", "required": [{"keyword": "chambord", "mode": "m"}], "optional": [{"keyword": "liqueur", "mode": "m"}, {"keyword": "licor", "mode": "m"}, {"keyword": "likor", "mode": "m"}, {"keyword": "liquore", "mode": "m"}], "optionalThreshold": 1}
+{"id": "Chivas Regal", "required": [{"keyword": "chivas-regal", "mode": "m"}]}
+{"id": "Corona", "required": [{"keyword": "corona", "mode": "m"}], "optional": [{"keyword": "beer", "mode": "m"}, {"keyword": "cerveza", "mode": "m"}, {"keyword": "cerveja", "mode": "m"}, {"keyword": "bier", "mode": "m"}, {"keyword": "birra", "mode": "m"}, {"keyword": "biere", "mode": "m"}, {"keyword": "piwo", "mode": "m"}, {"keyword": "pivo", "mode": "m"}, {"keyword": "grupo", "mode": "m"}, {"keyword": "modelo", "mode": "m"}], "optionalThreshold": 1}
+{"id": "Crown Royal", "required": [{"keyword": "crown-royal", "mode": "m"}]}
+{"id": "Disaronno", "required": [{"keyword": "disaronno", "mode": "m"}], "optional": [{"keyword": "liqueur", "mode": "m"}, {"keyword": "licor", "mode": "m"}, {"keyword": "likor", "mode": "m"}, {"keyword": "liquore", "mode": "m"}], "optionalThreshold": 1}
+{"id": "Erdinger", "required": [{"keyword": "erdinger", "mode": "m"}]}
+{"id": "Espolon", "required": [{"keyword": "espolon", "mode": "m"}]}
+{"id": "Estrella", "required": [{"keyword": "estrella", "mode": "m"}], "optional": [{"keyword": "beer", "mode": "m"}, {"keyword": "cerveza", "mode": "m"}, {"keyword": "cerveja", "mode": "m"}, {"keyword": "bier", "mode": "m"}, {"keyword": "birra", "mode": "m"}, {"keyword": "biere", "mode": "m"}, {"keyword": "piwo", "mode": "m"}, {"keyword": "pivo", "mode": "m"}, {"keyword": "american", "mode": "m"}, {"keyword": "adjunct", "mode": "m"}], "optionalThreshold": 1}
+{"id": "Finlandia", "required": [{"keyword": "finlandia", "mode": "m"}]}
+{"id": "Foster's Special Bitter", "required": [{"keyword": "fosters", "mode": "m"}], "optional": [{"keyword": "beer", "mode": "m"}, {"keyword": "cerveza", "mode": "m"}, {"keyword": "cerveja", "mode": "m"}, {"keyword": "bier", "mode": "m"}, {"keyword": "birra", "mode": "m"}, {"keyword": "biere", "mode": "m"}, {"keyword": "piwo", "mode": "m"}, {"keyword": "pivo", "mode": "m"}, {"keyword": "english", "mode": "m"}, {"keyword": "bitter", "mode": "m"}], "optionalThreshold": 1}
+{"id": "Glenfiddich", "required": [{"keyword": "glenfiddich", "mode": "m"}]}
+{"id": "Glenlivet", "required": [{"keyword": "glenlivet", "mode": "m"}], "optional": [{"keyword": "whisky", "mode": "m"}, {"keyword": "whiskey", "mode": "m"}, {"keyword": "scotch", "mode": "m"}, {"keyword": "bourbon", "mode": "m"}], "optionalThreshold": 1}
+{"id": "Gordon's", "required": [{"keyword": "gordons", "mode": "m"}]}
+{"id": "Grand Marnier", "required": [{"keyword": "grand-marnier", "mode": "m"}]}
+{"id": "Havana Club", "required": [{"keyword": "havana-club", "mode": "m"}], "optional": [{"keyword": "rum", "mode": "m"}, {"keyword": "rhum", "mode": "m"}, {"keyword": "liqueur", "mode": "m"}, {"keyword": "licor", "mode": "m"}, {"keyword": "likor", "mode": "m"}, {"keyword": "liquore", "mode": "m"}], "optionalThreshold": 1}
+{"id": "Herradura", "required": [{"keyword": "herradura", "mode": "m"}], "optional": [{"keyword": "tequila", "mode": "m"}, {"keyword": "mezcal", "mode": "m"}], "optionalThreshold": 1}
+{"id": "Jägermeister", "required": [{"keyword": "jagermeister", "mode": "m"}]}
+{"id": "Jose Cuervo", "required": [{"keyword": "jose-cuervo", "mode": "m"}]}
+{"id": "Kahlúa", "required": [{"keyword": "kahlua", "mode": "m"}], "optional": [{"keyword": "liqueur", "mode": "m"}, {"keyword": "licor", "mode": "m"}, {"keyword": "likor", "mode": "m"}, {"keyword": "liquore", "mode": "m"}, {"keyword": "pernod", "mode": "m"}, {"keyword": "ricard", "mode": "m"}], "optionalThreshold": 1}
+{"id": "Ketel One", "required": [{"keyword": "ketel-one", "mode": "m"}]}
+{"id": "Leffe", "required": [{"keyword": "leffe", "mode": "m"}]}
+{"id": "Limoncello", "required": [{"keyword": "limoncello", "mode": "m"}], "optional": [{"keyword": "liqueur", "mode": "m"}, {"keyword": "licor", "mode": "m"}, {"keyword": "likor", "mode": "m"}, {"keyword": "liquore", "mode": "m"}], "optionalThreshold": 1}
+{"id": "Maker's Mark", "required": [{"keyword": "makers-mark", "mode": "m"}]}
+{"id": "Martell", "required": [{"keyword": "martell", "mode": "m"}]}
+{"id": "Martini", "required": [{"keyword": "martini", "mode": "m"}], "optional": [{"keyword": "wine", "mode": "m"}, {"keyword": "vino", "mode": "m"}, {"keyword": "vinho", "mode": "m"}, {"keyword": "wein", "mode": "m"}, {"keyword": "vinos", "mode": "m"}, {"keyword": "sparkling", "mode": "m"}, {"keyword": "spumante", "mode": "m"}, {"keyword": "espumante", "mode": "m"}, {"keyword": "cava", "mode": "m"}, {"keyword": "prosecco", "mode": "m"}], "optionalThreshold": 1}
+{"id": "Midori", "required": [{"keyword": "midori", "mode": "m"}]}
+{"id": "Miller High Life Light", "required": [{"keyword": "miller", "mode": "m"}], "optional": [{"keyword": "beer", "mode": "m"}, {"keyword": "cerveza", "mode": "m"}, {"keyword": "cerveja", "mode": "m"}, {"keyword": "bier", "mode": "m"}, {"keyword": "birra", "mode": "m"}, {"keyword": "biere", "mode": "m"}, {"keyword": "piwo", "mode": "m"}, {"keyword": "pivo", "mode": "m"}, {"keyword": "light", "mode": "m"}, {"keyword": "lager", "mode": "m"}], "optionalThreshold": 1}
+{"id": "Monkey Shoulder", "required": [{"keyword": "monkey-shoulder", "mode": "m"}]}
+{"id": "G. H. Mumm", "required": [{"keyword": "mumm", "mode": "m"}]}
+{"id": "Peroni Brewery", "required": [{"keyword": "peroni", "mode": "m"}]}
+{"id": "Remy Martin", "required": [{"keyword": "remy-martin", "mode": "m"}]}
+{"id": "Ron Zacapa", "required": [{"keyword": "ron-zacapa", "mode": "m"}], "optional": [{"keyword": "rum", "mode": "m"}, {"keyword": "rhum", "mode": "m"}], "optionalThreshold": 1}
+{"id": "Sambuca", "required": [{"keyword": "sambuca", "mode": "m"}]}
+{"id": "Sapporo Breweries", "required": [{"keyword": "sapporo", "mode": "m"}]}
+{"id": "SKYY", "required": [{"keyword": "skyy", "mode": "m"}]}
+{"id": "Smirnoff", "required": [{"keyword": "smirnoff", "mode": "m"}]}
+{"id": "Stella Artois cider brand", "required": [{"keyword": "stella-artois", "mode": "m"}]}
+{"id": "Tanqueray", "required": [{"keyword": "tanqueray", "mode": "m"}], "optional": [{"keyword": "gin", "mode": "m"}, {"keyword": "ginebra", "mode": "m"}, {"keyword": "diageo", "mode": "m"}], "optionalThreshold": 1}
+{"id": "Veuve Clicquot", "required": [{"keyword": "veuve-clicquot", "mode": "m"}], "optional": [{"keyword": "champagne", "mode": "m"}], "optionalThreshold": 1}
+{"id": "Wild Turkey", "required": [{"keyword": "wild-turkey", "mode": "m"}], "optional": [{"keyword": "whisky", "mode": "m"}, {"keyword": "whiskey", "mode": "m"}, {"keyword": "scotch", "mode": "m"}, {"keyword": "bourbon", "mode": "m"}, {"keyword": "campari", "mode": "m"}, {"keyword": "group", "mode": "m"}], "optionalThreshold": 1}
+{"id": "Żubrówka", "required": [{"keyword": "zubrowka", "mode": "m"}]}

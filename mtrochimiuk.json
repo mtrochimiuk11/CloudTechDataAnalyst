@@ -1,0 +1,11013 @@
+{
+ "results": [
+  {
+   "id": "Bacardi",
+   "required": [
+    {
+     "keyword": "bacardi",
+     "mode": "m"
+    }
+   ],
+   "optional": [
+    {
+     "keyword": "rum",
+     "mode": "m"
+    },
+    {
+     "keyword": "rhum",
+     "mode": "m"
+    },
+    {
+     "keyword": "spirits",
+     "mode": "m"
+    },
+    {
+     "keyword": "spirit",
+     "mode": "m"
+    }
+   ],
+   "optionalThreshold": 1
+  },
+  {
+   "id": "Diplomático",
+   "required": [
+    {
+     "keyword": "diplomatico",
+     "mode": "m"
+    }
+   ],
+   "optional": [
+    {
+     "keyword": "rum",
+     "mode": "m"
+    },
+    {
+     "keyword": "rhum",
+     "mode": "m"
+    }
+   ],
+   "optionalThreshold": 1
+  },
+  {
+   "id": "Belvedere",
+   "required": [
+    {
+     "keyword": "belvedere",
+     "mode": "m"
+    }
+   ],
+   "optional": [
+    {
+     "keyword": "vodka",
+     "mode": "m"
+    },
+    {
+     "keyword": "wodka",
+     "mode": "m"
+    },
+    {
+     "keyword": "spirits",
+     "mode": "m"
+    },
+    {
+     "keyword": "spirit",
+     "mode": "m"
+    },
+    {
+     "keyword": "polmos",
+     "mode": "m"
+    }
+   ],
+   "optionalThreshold": 1
+  },
+  {
+   "id": "Casamigos",
+   "required": [
+    {
+     "keyword": "casamigos",
+     "mode": "m"
+    }
+   ],
+   "optional": [
+    {
+     "keyword": "tequila",
+     "mode": "m"
+    },
+    {
+     "keyword": "mezcal",
+     "mode": "m"
+    }
+   ],
+   "optionalThreshold": 1
+  },
+  {
+   "id": "Don Julio",
+   "required": [
+    {
+     "keyword": "don-julio",
+     "mode": "m"
+    }
+   ],
+   "optional": [
+    {
+     "keyword": "tequila",
+     "mode": "m"
+    },
+    {
+     "keyword": "mezcal",
+     "mode": "m"
+    }
+   ],
+   "optionalThreshold": 1
+  },
+  {
+   "id": "Patrón",
+   "required": [
+    {
+     "keyword": "patron",
+     "mode": "m"
+    }
+   ],
+   "optional": [
+    {
+     "keyword": "tequila",
+     "mode": "m"
+    },
+    {
+     "keyword": "mezcal",
+     "mode": "m"
+    },
+    {
+     "keyword": "liqueur",
+     "mode": "m"
+    },
+    {
+     "keyword": "licor",
+     "mode": "m"
+    },
+    {
+     "keyword": "likor",
+     "mode": "m"
+    },
+    {
+     "keyword": "liquore",
+     "mode": "m"
+    }
+   ],
+   "optionalThreshold": 1
+  },
+  {
+   "id": "Malibu",
+   "required": [
+    {
+     "keyword": "malibu",
+     "mode": "m"
+    }
+   ],
+   "optional": [
+    {
+     "keyword": "liqueur",
+     "mode": "m"
+    },
+    {
+     "keyword": "licor",
+     "mode": "m"
+    },
+    {
+     "keyword": "likor",
+     "mode": "m"
+    },
+    {
+     "keyword": "liquore",
+     "mode": "m"
+    },
+    {
+     "keyword": "west",
+     "mode": "m"
+    },
+    {
+     "keyword": "indies",
+     "mode": "m"
+    },
+    {
+     "keyword": "rum",
+     "mode": "m"
+    },
+    {
+     "keyword": "distillery",
+     "mode": "m"
+    },
+    {
+     "keyword": "allied",
+     "mode": "m"
+    },
+    {
+     "keyword": "domecq",
+     "mode": "m"
+    }
+   ],
+   "optionalThreshold": 1
+  },
+  {
+   "id": "Chartreuse",
+   "required": [
+    {
+     "keyword": "chartreuse",
+     "mode": "m"
+    }
+   ],
+   "optional": [
+    {
+     "keyword": "liqueur",
+     "mode": "m"
+    },
+    {
+     "keyword": "licor",
+     "mode": "m"
+    },
+    {
+     "keyword": "likor",
+     "mode": "m"
+    },
+    {
+     "keyword": "liquore",
+     "mode": "m"
+    }
+   ],
+   "optionalThreshold": 1
+  },
+  {
+   "id": "Menta",
+   "required": [
+    {
+     "keyword": "menta",
+     "mode": "m"
+    }
+   ],
+   "optional": [
+    {
+     "keyword": "liqueur",
+     "mode": "m"
+    },
+    {
+     "keyword": "licor",
+     "mode": "m"
+    },
+    {
+     "keyword": "likor",
+     "mode": "m"
+    },
+    {
+     "keyword": "liquore",
+     "mode": "m"
+    }
+   ],
+   "optionalThreshold": 1
+  },
+  {
+   "id": "Angostura",
+   "required": [
+    {
+     "keyword": "angostura",
+     "mode": "m"
+    }
+   ],
+   "optional": [
+    {
+     "keyword": "vermouth",
+     "mode": "m"
+    },
+    {
+     "keyword": "vermut",
+     "mode": "m"
+    },
+    {
+     "keyword": "bitters",
+     "mode": "m"
+    },
+    {
+     "keyword": "rum",
+     "mode": "m"
+    },
+    {
+     "keyword": "rhum",
+     "mode": "m"
+    }
+   ],
+   "optionalThreshold": 1
+  },
+  {
+   "id": "Buffalo Trace",
+   "required": [
+    {
+     "keyword": "buffalo-trace",
+     "mode": "m"
+    }
+   ],
+   "optional": [
+    {
+     "keyword": "liqueur",
+     "mode": "m"
+    },
+    {
+     "keyword": "licor",
+     "mode": "m"
+    },
+    {
+     "keyword": "likor",
+     "mode": "m"
+    },
+    {
+     "keyword": "liquore",
+     "mode": "m"
+    },
+    {
+     "keyword": "whisky",
+     "mode": "m"
+    },
+    {
+     "keyword": "whiskey",
+     "mode": "m"
+    },
+    {
+     "keyword": "scotch",
+     "mode": "m"
+    },
+    {
+     "keyword": "bourbon",
+     "mode": "m"
+    }
+   ],
+   "optionalThreshold": 1
+  },
+  {
+   "id": "Jack Daniels",
+   "required": [
+    {
+     "keyword": "jack-daniels",
+     "mode": "m"
+    }
+   ],
+   "optional": [
+    {
+     "keyword": "liqueur",
+     "mode": "m"
+    },
+    {
+     "keyword": "licor",
+     "mode": "m"
+    },
+    {
+     "keyword": "likor",
+     "mode": "m"
+    },
+    {
+     "keyword": "liquore",
+     "mode": "m"
+    },
+    {
+     "keyword": "whisky",
+     "mode": "m"
+    },
+    {
+     "keyword": "whiskey",
+     "mode": "m"
+    },
+    {
+     "keyword": "scotch",
+     "mode": "m"
+    },
+    {
+     "keyword": "bourbon",
+     "mode": "m"
+    },
+    {
+     "keyword": "brown",
+     "mode": "m"
+    },
+    {
+     "keyword": "forman",
+     "mode": "m"
+    }
+   ],
+   "optionalThreshold": 1
+  },
+  {
+   "id": "Jim Beam",
+   "required": [
+    {
+     "keyword": "jim-beam",
+     "mode": "m"
+    }
+   ],
+   "optional": [
+    {
+     "keyword": "liqueur",
+     "mode": "m"
+    },
+    {
+     "keyword": "licor",
+     "mode": "m"
+    },
+    {
+     "keyword": "likor",
+     "mode": "m"
+    },
+    {
+     "keyword": "liquore",
+     "mode": "m"
+    },
+    {
+     "keyword": "whisky",
+     "mode": "m"
+    },
+    {
+     "keyword": "whiskey",
+     "mode": "m"
+    },
+    {
+     "keyword": "scotch",
+     "mode": "m"
+    },
+    {
+     "keyword": "bourbon",
+     "mode": "m"
+    },
+    {
+     "keyword": "suntory",
+     "mode": "m"
+    },
+    {
+     "keyword": "global",
+     "mode": "m"
+    }
+   ],
+   "optionalThreshold": 1
+  },
+  {
+   "id": "Johnnie Walker",
+   "required": [
+    {
+     "keyword": "johnnie-walker",
+     "mode": "m"
+    }
+   ],
+   "optional": [
+    {
+     "keyword": "liqueur",
+     "mode": "m"
+    },
+    {
+     "keyword": "licor",
+     "mode": "m"
+    },
+    {
+     "keyword": "likor",
+     "mode": "m"
+    },
+    {
+     "keyword": "liquore",
+     "mode": "m"
+    },
+    {
+     "keyword": "whisky",
+     "mode": "m"
+    },
+    {
+     "keyword": "whiskey",
+     "mode": "m"
+    },
+    {
+     "keyword": "scotch",
+     "mode": "m"
+    },
+    {
+     "keyword": "bourbon",
+     "mode": "m"
+    },
+    {
+     "keyword": "john",
+     "mode": "m"
+    },
+    {
+     "keyword": "sons",
+     "mode": "m"
+    }
+   ],
+   "optionalThreshold": 1
+  },
+  {
+   "id": "Teremana",
+   "required": [
+    {
+     "keyword": "teremana",
+     "mode": "m"
+    }
+   ],
+   "optional": [
+    {
+     "keyword": "tequila",
+     "mode": "m"
+    },
+    {
+     "keyword": "mezcal",
+     "mode": "m"
+    }
+   ],
+   "optionalThreshold": 1
+  },
+  {
+   "id": "Foursquare",
+   "required": [
+    {
+     "keyword": "foursquare",
+     "mode": "m"
+    }
+   ],
+   "optional": [
+    {
+     "keyword": "rum",
+     "mode": "m"
+    },
+    {
+     "keyword": "rhum",
+     "mode": "m"
+    }
+   ],
+   "optionalThreshold": 1
+  },
+  {
+   "id": "Hendricks",
+   "required": [
+    {
+     "keyword": "hendricks",
+     "mode": "m"
+    }
+   ],
+   "optional": [
+    {
+     "keyword": "gin",
+     "mode": "m"
+    },
+    {
+     "keyword": "ginebra",
+     "mode": "m"
+    }
+   ],
+   "optionalThreshold": 1
+  },
+  {
+   "id": "Hennessy",
+   "required": [
+    {
+     "keyword": "hennessy",
+     "mode": "m"
+    }
+   ],
+   "optional": [
+    {
+     "keyword": "cognac",
+     "mode": "m"
+    },
+    {
+     "keyword": "brandy",
+     "mode": "m"
+    }
+   ],
+   "optionalThreshold": 1
+  },
+  {
+   "id": "Bardstown",
+   "required": [
+    {
+     "keyword": "bardstown",
+     "mode": "m"
+    }
+   ],
+   "optional": [
+    {
+     "keyword": "whisky",
+     "mode": "m"
+    },
+    {
+     "keyword": "whiskey",
+     "mode": "m"
+    },
+    {
+     "keyword": "scotch",
+     "mode": "m"
+    },
+    {
+     "keyword": "bourbon",
+     "mode": "m"
+    }
+   ],
+   "optionalThreshold": 1
+  },
+  {
+   "id": "Brothers Bond",
+   "required": [
+    {
+     "keyword": "brothers-bond",
+     "mode": "m"
+    }
+   ],
+   "optional": [
+    {
+     "keyword": "whisky",
+     "mode": "m"
+    },
+    {
+     "keyword": "whiskey",
+     "mode": "m"
+    },
+    {
+     "keyword": "scotch",
+     "mode": "m"
+    },
+    {
+     "keyword": "bourbon",
+     "mode": "m"
+    }
+   ],
+   "optionalThreshold": 1
+  },
+  {
+   "id": "Elijah Craig",
+   "required": [
+    {
+     "keyword": "elijah-craig",
+     "mode": "m"
+    }
+   ],
+   "optional": [
+    {
+     "keyword": "whisky",
+     "mode": "m"
+    },
+    {
+     "keyword": "whiskey",
+     "mode": "m"
+    },
+    {
+     "keyword": "scotch",
+     "mode": "m"
+    },
+    {
+     "keyword": "bourbon",
+     "mode": "m"
+    },
+    {
+     "keyword": "heaven",
+     "mode": "m"
+    },
+    {
+     "keyword": "hill",
+     "mode": "m"
+    }
+   ],
+   "optionalThreshold": 1
+  },
+  {
+   "id": "Evan Williams",
+   "required": [
+    {
+     "keyword": "evan-williams",
+     "mode": "m"
+    }
+   ],
+   "optional": [
+    {
+     "keyword": "whisky",
+     "mode": "m"
+    },
+    {
+     "keyword": "whiskey",
+     "mode": "m"
+    },
+    {
+     "keyword": "scotch",
+     "mode": "m"
+    },
+    {
+     "keyword": "bourbon",
+     "mode": "m"
+    },
+    {
+     "keyword": "heaven",
+     "mode": "m"
+    },
+    {
+     "keyword": "hill",
+     "mode": "m"
+    }
+   ],
+   "optionalThreshold": 1
+  },
+  {
+   "id": "Four Roses",
+   "required": [
+    {
+     "keyword": "four-roses",
+     "mode": "m"
+    }
+   ],
+   "optional": [
+    {
+     "keyword": "whisky",
+     "mode": "m"
+    },
+    {
+     "keyword": "whiskey",
+     "mode": "m"
+    },
+    {
+     "keyword": "scotch",
+     "mode": "m"
+    },
+    {
+     "keyword": "bourbon",
+     "mode": "m"
+    }
+   ],
+   "optionalThreshold": 1
+  },
+  {
+   "id": "Gentlemans Cut",
+   "required": [
+    {
+     "keyword": "gentlemans-cut",
+     "mode": "m"
+    }
+   ],
+   "optional": [
+    {
+     "keyword": "whisky",
+     "mode": "m"
+    },
+    {
+     "keyword": "whiskey",
+     "mode": "m"
+    },
+    {
+     "keyword": "scotch",
+     "mode": "m"
+    },
+    {
+     "keyword": "bourbon",
+     "mode": "m"
+    }
+   ],
+   "optionalThreshold": 1
+  },
+  {
+   "id": "George Dickel",
+   "required": [
+    {
+     "keyword": "george-dickel",
+     "mode": "m"
+    }
+   ],
+   "optional": [
+    {
+     "keyword": "whisky",
+     "mode": "m"
+    },
+    {
+     "keyword": "whiskey",
+     "mode": "m"
+    },
+    {
+     "keyword": "scotch",
+     "mode": "m"
+    },
+    {
+     "keyword": "bourbon",
+     "mode": "m"
+    },
+    {
+     "keyword": "diageo",
+     "mode": "m"
+    }
+   ],
+   "optionalThreshold": 1
+  },
+  {
+   "id": "Heavens Door",
+   "required": [
+    {
+     "keyword": "heavens-door",
+     "mode": "m"
+    }
+   ],
+   "optional": [
+    {
+     "keyword": "whisky",
+     "mode": "m"
+    },
+    {
+     "keyword": "whiskey",
+     "mode": "m"
+    },
+    {
+     "keyword": "scotch",
+     "mode": "m"
+    },
+    {
+     "keyword": "bourbon",
+     "mode": "m"
+    }
+   ],
+   "optionalThreshold": 1
+  },
+  {
+   "id": "Old Forester",
+   "required": [
+    {
+     "keyword": "old-forester",
+     "mode": "m"
+    }
+   ],
+   "optional": [
+    {
+     "keyword": "whisky",
+     "mode": "m"
+    },
+    {
+     "keyword": "whiskey",
+     "mode": "m"
+    },
+    {
+     "keyword": "scotch",
+     "mode": "m"
+    },
+    {
+     "keyword": "bourbon",
+     "mode": "m"
+    },
+    {
+     "keyword": "brown",
+     "mode": "m"
+    },
+    {
+     "keyword": "forman",
+     "mode": "m"
+    }
+   ],
+   "optionalThreshold": 1
+  },
+  {
+   "id": "Penelope",
+   "required": [
+    {
+     "keyword": "penelope",
+     "mode": "m"
+    }
+   ],
+   "optional": [
+    {
+     "keyword": "whisky",
+     "mode": "m"
+    },
+    {
+     "keyword": "whiskey",
+     "mode": "m"
+    },
+    {
+     "keyword": "scotch",
+     "mode": "m"
+    },
+    {
+     "keyword": "bourbon",
+     "mode": "m"
+    }
+   ],
+   "optionalThreshold": 1
+  },
+  {
+   "id": "W L Weller",
+   "required": [
+    {
+     "keyword": "w-l-weller",
+     "mode": "m"
+    }
+   ],
+   "optional": [
+    {
+     "keyword": "whisky",
+     "mode": "m"
+    },
+    {
+     "keyword": "whiskey",
+     "mode": "m"
+    },
+    {
+     "keyword": "scotch",
+     "mode": "m"
+    },
+    {
+     "keyword": "bourbon",
+     "mode": "m"
+    },
+    {
+     "keyword": "sazerac",
+     "mode": "m"
+    }
+   ],
+   "optionalThreshold": 1
+  },
+  {
+   "id": "Weller",
+   "required": [
+    {
+     "keyword": "weller",
+     "mode": "m"
+    }
+   ],
+   "optional": [
+    {
+     "keyword": "whisky",
+     "mode": "m"
+    },
+    {
+     "keyword": "whiskey",
+     "mode": "m"
+    },
+    {
+     "keyword": "scotch",
+     "mode": "m"
+    },
+    {
+     "keyword": "bourbon",
+     "mode": "m"
+    }
+   ],
+   "optionalThreshold": 1
+  },
+  {
+   "id": "Woodford Reserve",
+   "required": [
+    {
+     "keyword": "woodford-reserve",
+     "mode": "m"
+    }
+   ],
+   "optional": [
+    {
+     "keyword": "whisky",
+     "mode": "m"
+    },
+    {
+     "keyword": "whiskey",
+     "mode": "m"
+    },
+    {
+     "keyword": "scotch",
+     "mode": "m"
+    },
+    {
+     "keyword": "bourbon",
+     "mode": "m"
+    },
+    {
+     "keyword": "brown",
+     "mode": "m"
+    },
+    {
+     "keyword": "forman",
+     "mode": "m"
+    }
+   ],
+   "optionalThreshold": 1
+  },
+  {
+   "id": "Irishman",
+   "required": [
+    {
+     "keyword": "irishman",
+     "mode": "m"
+    }
+   ],
+   "optional": [
+    {
+     "keyword": "whisky",
+     "mode": "m"
+    },
+    {
+     "keyword": "whiskey",
+     "mode": "m"
+    },
+    {
+     "keyword": "scotch",
+     "mode": "m"
+    },
+    {
+     "keyword": "bourbon",
+     "mode": "m"
+    }
+   ],
+   "optionalThreshold": 1
+  },
+  {
+   "id": "Jameson",
+   "required": [
+    {
+     "keyword": "jameson",
+     "mode": "m"
+    }
+   ],
+   "optional": [
+    {
+     "keyword": "whisky",
+     "mode": "m"
+    },
+    {
+     "keyword": "whiskey",
+     "mode": "m"
+    },
+    {
+     "keyword": "scotch",
+     "mode": "m"
+    },
+    {
+     "keyword": "bourbon",
+     "mode": "m"
+    },
+    {
+     "keyword": "irish",
+     "mode": "m"
+    },
+    {
+     "keyword": "distillers",
+     "mode": "m"
+    },
+    {
+     "keyword": "pernod",
+     "mode": "m"
+    },
+    {
+     "keyword": "ricard",
+     "mode": "m"
+    }
+   ],
+   "optionalThreshold": 1
+  },
+  {
+   "id": "Teeling",
+   "required": [
+    {
+     "keyword": "teeling",
+     "mode": "m"
+    }
+   ],
+   "optional": [
+    {
+     "keyword": "whisky",
+     "mode": "m"
+    },
+    {
+     "keyword": "whiskey",
+     "mode": "m"
+    },
+    {
+     "keyword": "scotch",
+     "mode": "m"
+    },
+    {
+     "keyword": "bourbon",
+     "mode": "m"
+    }
+   ],
+   "optionalThreshold": 1
+  },
+  {
+   "id": "Balvenie",
+   "required": [
+    {
+     "keyword": "balvenie",
+     "mode": "m"
+    }
+   ],
+   "optional": [
+    {
+     "keyword": "whisky",
+     "mode": "m"
+    },
+    {
+     "keyword": "whiskey",
+     "mode": "m"
+    },
+    {
+     "keyword": "scotch",
+     "mode": "m"
+    },
+    {
+     "keyword": "bourbon",
+     "mode": "m"
+    }
+   ],
+   "optionalThreshold": 1
+  },
+  {
+   "id": "Dalmore",
+   "required": [
+    {
+     "keyword": "dalmore",
+     "mode": "m"
+    }
+   ],
+   "optional": [
+    {
+     "keyword": "whisky",
+     "mode": "m"
+    },
+    {
+     "keyword": "whiskey",
+     "mode": "m"
+    },
+    {
+     "keyword": "scotch",
+     "mode": "m"
+    },
+    {
+     "keyword": "bourbon",
+     "mode": "m"
+    }
+   ],
+   "optionalThreshold": 1
+  },
+  {
+   "id": "Macallan",
+   "required": [
+    {
+     "keyword": "macallan",
+     "mode": "m"
+    }
+   ],
+   "optional": [
+    {
+     "keyword": "whisky",
+     "mode": "m"
+    },
+    {
+     "keyword": "whiskey",
+     "mode": "m"
+    },
+    {
+     "keyword": "scotch",
+     "mode": "m"
+    },
+    {
+     "keyword": "bourbon",
+     "mode": "m"
+    }
+   ],
+   "optionalThreshold": 1
+  },
+  {
+   "id": "Speyside",
+   "required": [
+    {
+     "keyword": "speyside",
+     "mode": "m"
+    }
+   ],
+   "optional": [
+    {
+     "keyword": "whisky",
+     "mode": "m"
+    },
+    {
+     "keyword": "whiskey",
+     "mode": "m"
+    },
+    {
+     "keyword": "scotch",
+     "mode": "m"
+    },
+    {
+     "keyword": "bourbon",
+     "mode": "m"
+    }
+   ],
+   "optionalThreshold": 1
+  },
+  {
+   "id": "Grolsch",
+   "required": [
+    {
+     "keyword": "grolsch",
+     "mode": "m"
+    }
+   ],
+   "optional": [
+    {
+     "keyword": "beer",
+     "mode": "m"
+    },
+    {
+     "keyword": "cerveza",
+     "mode": "m"
+    },
+    {
+     "keyword": "cerveja",
+     "mode": "m"
+    },
+    {
+     "keyword": "bier",
+     "mode": "m"
+    },
+    {
+     "keyword": "birra",
+     "mode": "m"
+    },
+    {
+     "keyword": "biere",
+     "mode": "m"
+    },
+    {
+     "keyword": "piwo",
+     "mode": "m"
+    },
+    {
+     "keyword": "pivo",
+     "mode": "m"
+    },
+    {
+     "keyword": "euro",
+     "mode": "m"
+    },
+    {
+     "keyword": "pale",
+     "mode": "m"
+    }
+   ],
+   "optionalThreshold": 1
+  },
+  {
+   "id": "Guinness",
+   "required": [
+    {
+     "keyword": "guinness",
+     "mode": "m"
+    }
+   ],
+   "optional": [
+    {
+     "keyword": "beer",
+     "mode": "m"
+    },
+    {
+     "keyword": "cerveza",
+     "mode": "m"
+    },
+    {
+     "keyword": "cerveja",
+     "mode": "m"
+    },
+    {
+     "keyword": "bier",
+     "mode": "m"
+    },
+    {
+     "keyword": "birra",
+     "mode": "m"
+    },
+    {
+     "keyword": "biere",
+     "mode": "m"
+    },
+    {
+     "keyword": "piwo",
+     "mode": "m"
+    },
+    {
+     "keyword": "pivo",
+     "mode": "m"
+    },
+    {
+     "keyword": "stout",
+     "mode": "m"
+    },
+    {
+     "keyword": "diageo",
+     "mode": "m"
+    }
+   ],
+   "optionalThreshold": 1
+  },
+  {
+   "id": "Estrella Galicia",
+   "required": [
+    {
+     "keyword": "estrella-galicia",
+     "mode": "m"
+    }
+   ],
+   "optional": [
+    {
+     "keyword": "beer",
+     "mode": "m"
+    },
+    {
+     "keyword": "cerveza",
+     "mode": "m"
+    },
+    {
+     "keyword": "cerveja",
+     "mode": "m"
+    },
+    {
+     "keyword": "bier",
+     "mode": "m"
+    },
+    {
+     "keyword": "birra",
+     "mode": "m"
+    },
+    {
+     "keyword": "biere",
+     "mode": "m"
+    },
+    {
+     "keyword": "piwo",
+     "mode": "m"
+    },
+    {
+     "keyword": "pivo",
+     "mode": "m"
+    },
+    {
+     "keyword": "hijos",
+     "mode": "m"
+    },
+    {
+     "keyword": "rivera",
+     "mode": "m"
+    }
+   ],
+   "optionalThreshold": 1
+  },
+  {
+   "id": "Dom Pérignon",
+   "required": [
+    {
+     "keyword": "dom-perignon",
+     "mode": "m"
+    }
+   ],
+   "optional": [
+    {
+     "keyword": "wine",
+     "mode": "m"
+    },
+    {
+     "keyword": "vino",
+     "mode": "m"
+    },
+    {
+     "keyword": "vinho",
+     "mode": "m"
+    },
+    {
+     "keyword": "wein",
+     "mode": "m"
+    },
+    {
+     "keyword": "vinos",
+     "mode": "m"
+    },
+    {
+     "keyword": "champagne",
+     "mode": "m"
+    },
+    {
+     "keyword": "moet",
+     "mode": "m"
+    },
+    {
+     "keyword": "chandon",
+     "mode": "m"
+    }
+   ],
+   "optionalThreshold": 1
+  },
+  {
+   "id": "Budweiser",
+   "required": [
+    {
+     "keyword": "budweiser",
+     "mode": "m"
+    }
+   ],
+   "optional": [
+    {
+     "keyword": "beer",
+     "mode": "m"
+    },
+    {
+     "keyword": "cerveza",
+     "mode": "m"
+    },
+    {
+     "keyword": "cerveja",
+     "mode": "m"
+    },
+    {
+     "keyword": "bier",
+     "mode": "m"
+    },
+    {
+     "keyword": "birra",
+     "mode": "m"
+    },
+    {
+     "keyword": "biere",
+     "mode": "m"
+    },
+    {
+     "keyword": "piwo",
+     "mode": "m"
+    },
+    {
+     "keyword": "pivo",
+     "mode": "m"
+    },
+    {
+     "keyword": "lager",
+     "mode": "m"
+    },
+    {
+     "keyword": "anheuser",
+     "mode": "m"
+    }
+   ],
+   "optionalThreshold": 1
+  },
+  {
+   "id": "Heineken",
+   "required": [
+    {
+     "keyword": "heineken",
+     "mode": "m"
+    }
+   ],
+   "optional": [
+    {
+     "keyword": "beer",
+     "mode": "m"
+    },
+    {
+     "keyword": "cerveza",
+     "mode": "m"
+    },
+    {
+     "keyword": "cerveja",
+     "mode": "m"
+    },
+    {
+     "keyword": "bier",
+     "mode": "m"
+    },
+    {
+     "keyword": "birra",
+     "mode": "m"
+    },
+    {
+     "keyword": "biere",
+     "mode": "m"
+    },
+    {
+     "keyword": "piwo",
+     "mode": "m"
+    },
+    {
+     "keyword": "pivo",
+     "mode": "m"
+    },
+    {
+     "keyword": "lager",
+     "mode": "m"
+    },
+    {
+     "keyword": "international",
+     "mode": "m"
+    }
+   ],
+   "optionalThreshold": 1
+  },
+  {
+   "id": "Santa Bárbara",
+   "required": [
+    {
+     "keyword": "santa-barbara",
+     "mode": "m"
+    }
+   ],
+   "optional": [
+    {
+     "keyword": "wine",
+     "mode": "m"
+    },
+    {
+     "keyword": "vino",
+     "mode": "m"
+    },
+    {
+     "keyword": "vinho",
+     "mode": "m"
+    },
+    {
+     "keyword": "wein",
+     "mode": "m"
+    },
+    {
+     "keyword": "vinos",
+     "mode": "m"
+    },
+    {
+     "keyword": "cabernet-sauvignon",
+     "mode": "m"
+    },
+    {
+     "keyword": "riesling",
+     "mode": "m"
+    },
+    {
+     "keyword": "chardonnay",
+     "mode": "m"
+    },
+    {
+     "keyword": "grenache",
+     "mode": "m"
+    },
+    {
+     "keyword": "lagrein",
+     "mode": "m"
+    }
+   ],
+   "optionalThreshold": 1
+  },
+  {
+   "id": "Prophecy",
+   "required": [
+    {
+     "keyword": "prophecy",
+     "mode": "m"
+    }
+   ],
+   "optional": [
+    {
+     "keyword": "wine",
+     "mode": "m"
+    },
+    {
+     "keyword": "vino",
+     "mode": "m"
+    },
+    {
+     "keyword": "vinho",
+     "mode": "m"
+    },
+    {
+     "keyword": "wein",
+     "mode": "m"
+    },
+    {
+     "keyword": "vinos",
+     "mode": "m"
+    },
+    {
+     "keyword": "cabernet-sauvignon",
+     "mode": "m"
+    },
+    {
+     "keyword": "cinsault",
+     "mode": "m"
+    },
+    {
+     "keyword": "grenache",
+     "mode": "m"
+    },
+    {
+     "keyword": "merlot",
+     "mode": "m"
+    },
+    {
+     "keyword": "pinot-grigio",
+     "mode": "m"
+    }
+   ],
+   "optionalThreshold": 1
+  },
+  {
+   "id": "Elodie",
+   "required": [
+    {
+     "keyword": "elodie",
+     "mode": "m"
+    }
+   ],
+   "optional": [
+    {
+     "keyword": "wine",
+     "mode": "m"
+    },
+    {
+     "keyword": "vino",
+     "mode": "m"
+    },
+    {
+     "keyword": "vinho",
+     "mode": "m"
+    },
+    {
+     "keyword": "wein",
+     "mode": "m"
+    },
+    {
+     "keyword": "vinos",
+     "mode": "m"
+    },
+    {
+     "keyword": "muscat-blanc",
+     "mode": "m"
+    }
+   ],
+   "optionalThreshold": 1
+  },
+  {
+   "id": "Gusto",
+   "required": [
+    {
+     "keyword": "gusto",
+     "mode": "m"
+    }
+   ],
+   "optional": [
+    {
+     "keyword": "wine",
+     "mode": "m"
+    },
+    {
+     "keyword": "vino",
+     "mode": "m"
+    },
+    {
+     "keyword": "vinho",
+     "mode": "m"
+    },
+    {
+     "keyword": "wein",
+     "mode": "m"
+    },
+    {
+     "keyword": "vinos",
+     "mode": "m"
+    },
+    {
+     "keyword": "aligote",
+     "mode": "m"
+    },
+    {
+     "keyword": "cabernet-sauvignon",
+     "mode": "m"
+    },
+    {
+     "keyword": "chardonnay",
+     "mode": "m"
+    },
+    {
+     "keyword": "merlot",
+     "mode": "m"
+    }
+   ],
+   "optionalThreshold": 1
+  },
+  {
+   "id": "Esse",
+   "required": [
+    {
+     "keyword": "esse",
+     "mode": "m"
+    }
+   ],
+   "optional": [
+    {
+     "keyword": "wine",
+     "mode": "m"
+    },
+    {
+     "keyword": "vino",
+     "mode": "m"
+    },
+    {
+     "keyword": "vinho",
+     "mode": "m"
+    },
+    {
+     "keyword": "wein",
+     "mode": "m"
+    },
+    {
+     "keyword": "vinos",
+     "mode": "m"
+    },
+    {
+     "keyword": "gewurztraminer",
+     "mode": "m"
+    },
+    {
+     "keyword": "merlot",
+     "mode": "m"
+    },
+    {
+     "keyword": "rkatsiteli",
+     "mode": "m"
+    }
+   ],
+   "optionalThreshold": 1
+  },
+  {
+   "id": "Santa Helena",
+   "required": [
+    {
+     "keyword": "santa-helena",
+     "mode": "m"
+    }
+   ],
+   "optional": [
+    {
+     "keyword": "wine",
+     "mode": "m"
+    },
+    {
+     "keyword": "vino",
+     "mode": "m"
+    },
+    {
+     "keyword": "vinho",
+     "mode": "m"
+    },
+    {
+     "keyword": "wein",
+     "mode": "m"
+    },
+    {
+     "keyword": "vinos",
+     "mode": "m"
+    },
+    {
+     "keyword": "cabernet-sauvignon",
+     "mode": "m"
+    },
+    {
+     "keyword": "carmenere",
+     "mode": "m"
+    },
+    {
+     "keyword": "merlot",
+     "mode": "m"
+    },
+    {
+     "keyword": "chardonnay",
+     "mode": "m"
+    },
+    {
+     "keyword": "sauvignon-blanc",
+     "mode": "m"
+    }
+   ],
+   "optionalThreshold": 1
+  },
+  {
+   "id": "Cata",
+   "required": [
+    {
+     "keyword": "cata",
+     "mode": "m"
+    }
+   ],
+   "optional": [
+    {
+     "keyword": "wine",
+     "mode": "m"
+    },
+    {
+     "keyword": "vino",
+     "mode": "m"
+    },
+    {
+     "keyword": "vinho",
+     "mode": "m"
+    },
+    {
+     "keyword": "wein",
+     "mode": "m"
+    },
+    {
+     "keyword": "vinos",
+     "mode": "m"
+    },
+    {
+     "keyword": "cabernet-sauvignon",
+     "mode": "m"
+    },
+    {
+     "keyword": "syrah-shiraz",
+     "mode": "m"
+    }
+   ],
+   "optionalThreshold": 1
+  },
+  {
+   "id": "Mendoza",
+   "required": [
+    {
+     "keyword": "mendoza",
+     "mode": "m"
+    }
+   ],
+   "optional": [
+    {
+     "keyword": "wine",
+     "mode": "m"
+    },
+    {
+     "keyword": "vino",
+     "mode": "m"
+    },
+    {
+     "keyword": "vinho",
+     "mode": "m"
+    },
+    {
+     "keyword": "wein",
+     "mode": "m"
+    },
+    {
+     "keyword": "vinos",
+     "mode": "m"
+    },
+    {
+     "keyword": "malbec",
+     "mode": "m"
+    }
+   ],
+   "optionalThreshold": 1
+  },
+  {
+   "id": "Dandelion",
+   "required": [
+    {
+     "keyword": "dandelion",
+     "mode": "m"
+    }
+   ],
+   "optional": [
+    {
+     "keyword": "wine",
+     "mode": "m"
+    },
+    {
+     "keyword": "vino",
+     "mode": "m"
+    },
+    {
+     "keyword": "vinho",
+     "mode": "m"
+    },
+    {
+     "keyword": "wein",
+     "mode": "m"
+    },
+    {
+     "keyword": "vinos",
+     "mode": "m"
+    },
+    {
+     "keyword": "syrah-shiraz",
+     "mode": "m"
+    },
+    {
+     "keyword": "grenache",
+     "mode": "m"
+    },
+    {
+     "keyword": "mataro",
+     "mode": "m"
+    },
+    {
+     "keyword": "pedro-ximenez",
+     "mode": "m"
+    },
+    {
+     "keyword": "roussanne",
+     "mode": "m"
+    }
+   ],
+   "optionalThreshold": 1
+  },
+  {
+   "id": "Pfeiffer",
+   "required": [
+    {
+     "keyword": "pfeiffer",
+     "mode": "m"
+    }
+   ],
+   "optional": [
+    {
+     "keyword": "wine",
+     "mode": "m"
+    },
+    {
+     "keyword": "vino",
+     "mode": "m"
+    },
+    {
+     "keyword": "vinho",
+     "mode": "m"
+    },
+    {
+     "keyword": "wein",
+     "mode": "m"
+    },
+    {
+     "keyword": "vinos",
+     "mode": "m"
+    },
+    {
+     "keyword": "syrah-shiraz",
+     "mode": "m"
+    },
+    {
+     "keyword": "cabernet-sauvignon",
+     "mode": "m"
+    },
+    {
+     "keyword": "merlot",
+     "mode": "m"
+    },
+    {
+     "keyword": "chardonnay",
+     "mode": "m"
+    },
+    {
+     "keyword": "marsanne",
+     "mode": "m"
+    }
+   ],
+   "optionalThreshold": 1
+  },
+  {
+   "id": "Domenica",
+   "required": [
+    {
+     "keyword": "domenica",
+     "mode": "m"
+    }
+   ],
+   "optional": [
+    {
+     "keyword": "wine",
+     "mode": "m"
+    },
+    {
+     "keyword": "vino",
+     "mode": "m"
+    },
+    {
+     "keyword": "vinho",
+     "mode": "m"
+    },
+    {
+     "keyword": "wein",
+     "mode": "m"
+    },
+    {
+     "keyword": "vinos",
+     "mode": "m"
+    },
+    {
+     "keyword": "nebbiolo",
+     "mode": "m"
+    }
+   ],
+   "optionalThreshold": 1
+  },
+  {
+   "id": "Kendall-Jackson",
+   "required": [
+    {
+     "keyword": "kendall-jackson",
+     "mode": "m"
+    }
+   ],
+   "optional": [
+    {
+     "keyword": "wine",
+     "mode": "m"
+    },
+    {
+     "keyword": "vino",
+     "mode": "m"
+    },
+    {
+     "keyword": "vinho",
+     "mode": "m"
+    },
+    {
+     "keyword": "wein",
+     "mode": "m"
+    },
+    {
+     "keyword": "vinos",
+     "mode": "m"
+    },
+    {
+     "keyword": "chardonnay",
+     "mode": "m"
+    },
+    {
+     "keyword": "cabernet-sauvignon",
+     "mode": "m"
+    },
+    {
+     "keyword": "merlot",
+     "mode": "m"
+    },
+    {
+     "keyword": "pinot-noir",
+     "mode": "m"
+    },
+    {
+     "keyword": "cabernet-franc",
+     "mode": "m"
+    }
+   ],
+   "optionalThreshold": 1
+  },
+  {
+   "id": "Napa",
+   "required": [
+    {
+     "keyword": "napa",
+     "mode": "m"
+    }
+   ],
+   "optional": [
+    {
+     "keyword": "wine",
+     "mode": "m"
+    },
+    {
+     "keyword": "vino",
+     "mode": "m"
+    },
+    {
+     "keyword": "vinho",
+     "mode": "m"
+    },
+    {
+     "keyword": "wein",
+     "mode": "m"
+    },
+    {
+     "keyword": "vinos",
+     "mode": "m"
+    },
+    {
+     "keyword": "cabernet-sauvignon",
+     "mode": "m"
+    },
+    {
+     "keyword": "chardonnay",
+     "mode": "m"
+    },
+    {
+     "keyword": "malbec",
+     "mode": "m"
+    },
+    {
+     "keyword": "merlot",
+     "mode": "m"
+    },
+    {
+     "keyword": "petit-verdot",
+     "mode": "m"
+    }
+   ],
+   "optionalThreshold": 1
+  },
+  {
+   "id": "Benziger",
+   "required": [
+    {
+     "keyword": "benziger",
+     "mode": "m"
+    }
+   ],
+   "optional": [
+    {
+     "keyword": "wine",
+     "mode": "m"
+    },
+    {
+     "keyword": "vino",
+     "mode": "m"
+    },
+    {
+     "keyword": "vinho",
+     "mode": "m"
+    },
+    {
+     "keyword": "wein",
+     "mode": "m"
+    },
+    {
+     "keyword": "vinos",
+     "mode": "m"
+    },
+    {
+     "keyword": "cabernet-sauvignon",
+     "mode": "m"
+    },
+    {
+     "keyword": "chardonnay",
+     "mode": "m"
+    },
+    {
+     "keyword": "merlot",
+     "mode": "m"
+    },
+    {
+     "keyword": "pinot-noir",
+     "mode": "m"
+    },
+    {
+     "keyword": "touriga-nacional",
+     "mode": "m"
+    }
+   ],
+   "optionalThreshold": 1
+  },
+  {
+   "id": "Copain",
+   "required": [
+    {
+     "keyword": "copain",
+     "mode": "m"
+    }
+   ],
+   "optional": [
+    {
+     "keyword": "wine",
+     "mode": "m"
+    },
+    {
+     "keyword": "vino",
+     "mode": "m"
+    },
+    {
+     "keyword": "vinho",
+     "mode": "m"
+    },
+    {
+     "keyword": "wein",
+     "mode": "m"
+    },
+    {
+     "keyword": "vinos",
+     "mode": "m"
+    },
+    {
+     "keyword": "pinot-noir",
+     "mode": "m"
+    },
+    {
+     "keyword": "syrah-shiraz",
+     "mode": "m"
+    },
+    {
+     "keyword": "viognier",
+     "mode": "m"
+    }
+   ],
+   "optionalThreshold": 1
+  },
+  {
+   "id": "Bello",
+   "required": [
+    {
+     "keyword": "bello",
+     "mode": "m"
+    }
+   ],
+   "optional": [
+    {
+     "keyword": "wine",
+     "mode": "m"
+    },
+    {
+     "keyword": "vino",
+     "mode": "m"
+    },
+    {
+     "keyword": "vinho",
+     "mode": "m"
+    },
+    {
+     "keyword": "wein",
+     "mode": "m"
+    },
+    {
+     "keyword": "vinos",
+     "mode": "m"
+    },
+    {
+     "keyword": "cabernet-sauvignon",
+     "mode": "m"
+    }
+   ],
+   "optionalThreshold": 1
+  },
+  {
+   "id": "Sonoma Coast",
+   "required": [
+    {
+     "keyword": "sonoma-coast",
+     "mode": "m"
+    }
+   ],
+   "optional": [
+    {
+     "keyword": "wine",
+     "mode": "m"
+    },
+    {
+     "keyword": "vino",
+     "mode": "m"
+    },
+    {
+     "keyword": "vinho",
+     "mode": "m"
+    },
+    {
+     "keyword": "wein",
+     "mode": "m"
+    },
+    {
+     "keyword": "vinos",
+     "mode": "m"
+    },
+    {
+     "keyword": "pinot-noir",
+     "mode": "m"
+    },
+    {
+     "keyword": "sauvignon-blanc",
+     "mode": "m"
+    }
+   ],
+   "optionalThreshold": 1
+  },
+  {
+   "id": "Trellis",
+   "required": [
+    {
+     "keyword": "trellis",
+     "mode": "m"
+    }
+   ],
+   "optional": [
+    {
+     "keyword": "wine",
+     "mode": "m"
+    },
+    {
+     "keyword": "vino",
+     "mode": "m"
+    },
+    {
+     "keyword": "vinho",
+     "mode": "m"
+    },
+    {
+     "keyword": "wein",
+     "mode": "m"
+    },
+    {
+     "keyword": "vinos",
+     "mode": "m"
+    },
+    {
+     "keyword": "merlot",
+     "mode": "m"
+    }
+   ],
+   "optionalThreshold": 1
+  },
+  {
+   "id": "Sonoma",
+   "required": [
+    {
+     "keyword": "sonoma",
+     "mode": "m"
+    }
+   ],
+   "optional": [
+    {
+     "keyword": "wine",
+     "mode": "m"
+    },
+    {
+     "keyword": "vino",
+     "mode": "m"
+    },
+    {
+     "keyword": "vinho",
+     "mode": "m"
+    },
+    {
+     "keyword": "wein",
+     "mode": "m"
+    },
+    {
+     "keyword": "vinos",
+     "mode": "m"
+    },
+    {
+     "keyword": "chardonnay",
+     "mode": "m"
+    },
+    {
+     "keyword": "merlot",
+     "mode": "m"
+    }
+   ],
+   "optionalThreshold": 1
+  },
+  {
+   "id": "Melrose",
+   "required": [
+    {
+     "keyword": "melrose",
+     "mode": "m"
+    }
+   ],
+   "optional": [
+    {
+     "keyword": "wine",
+     "mode": "m"
+    },
+    {
+     "keyword": "vino",
+     "mode": "m"
+    },
+    {
+     "keyword": "vinho",
+     "mode": "m"
+    },
+    {
+     "keyword": "wein",
+     "mode": "m"
+    },
+    {
+     "keyword": "vinos",
+     "mode": "m"
+    },
+    {
+     "keyword": "baco-noir",
+     "mode": "m"
+    },
+    {
+     "keyword": "chardonnay",
+     "mode": "m"
+    },
+    {
+     "keyword": "pinot-gris",
+     "mode": "m"
+    },
+    {
+     "keyword": "pinot-noir",
+     "mode": "m"
+    },
+    {
+     "keyword": "riesling",
+     "mode": "m"
+    }
+   ],
+   "optionalThreshold": 1
+  },
+  {
+   "id": "Peninsula",
+   "required": [
+    {
+     "keyword": "peninsula",
+     "mode": "m"
+    }
+   ],
+   "optional": [
+    {
+     "keyword": "wine",
+     "mode": "m"
+    },
+    {
+     "keyword": "vino",
+     "mode": "m"
+    },
+    {
+     "keyword": "vinho",
+     "mode": "m"
+    },
+    {
+     "keyword": "wein",
+     "mode": "m"
+    },
+    {
+     "keyword": "vinos",
+     "mode": "m"
+    },
+    {
+     "keyword": "gewurztraminer",
+     "mode": "m"
+    },
+    {
+     "keyword": "riesling",
+     "mode": "m"
+    },
+    {
+     "keyword": "baco-noir",
+     "mode": "m"
+    },
+    {
+     "keyword": "cabernet-franc",
+     "mode": "m"
+    },
+    {
+     "keyword": "chardonnay",
+     "mode": "m"
+    }
+   ],
+   "optionalThreshold": 1
+  },
+  {
+   "id": "Pugliese",
+   "required": [
+    {
+     "keyword": "pugliese",
+     "mode": "m"
+    }
+   ],
+   "optional": [
+    {
+     "keyword": "wine",
+     "mode": "m"
+    },
+    {
+     "keyword": "vino",
+     "mode": "m"
+    },
+    {
+     "keyword": "vinho",
+     "mode": "m"
+    },
+    {
+     "keyword": "wein",
+     "mode": "m"
+    },
+    {
+     "keyword": "vinos",
+     "mode": "m"
+    },
+    {
+     "keyword": "sangiovese",
+     "mode": "m"
+    }
+   ],
+   "optionalThreshold": 1
+  },
+  {
+   "id": "Ventimiglia",
+   "required": [
+    {
+     "keyword": "ventimiglia",
+     "mode": "m"
+    }
+   ],
+   "optional": [
+    {
+     "keyword": "wine",
+     "mode": "m"
+    },
+    {
+     "keyword": "vino",
+     "mode": "m"
+    },
+    {
+     "keyword": "vinho",
+     "mode": "m"
+    },
+    {
+     "keyword": "wein",
+     "mode": "m"
+    },
+    {
+     "keyword": "vinos",
+     "mode": "m"
+    },
+    {
+     "keyword": "chambourcin",
+     "mode": "m"
+    }
+   ],
+   "optionalThreshold": 1
+  },
+  {
+   "id": "Sherry-Lehmann",
+   "required": [
+    {
+     "keyword": "sherry-lehmann",
+     "mode": "m"
+    }
+   ],
+   "optional": [
+    {
+     "keyword": "wine",
+     "mode": "m"
+    },
+    {
+     "keyword": "vino",
+     "mode": "m"
+    },
+    {
+     "keyword": "vinho",
+     "mode": "m"
+    },
+    {
+     "keyword": "wein",
+     "mode": "m"
+    },
+    {
+     "keyword": "vinos",
+     "mode": "m"
+    },
+    {
+     "keyword": "pinot-noir",
+     "mode": "m"
+    }
+   ],
+   "optionalThreshold": 1
+  },
+  {
+   "id": "Corkscrew",
+   "required": [
+    {
+     "keyword": "corkscrew",
+     "mode": "m"
+    }
+   ],
+   "optional": [
+    {
+     "keyword": "wine",
+     "mode": "m"
+    },
+    {
+     "keyword": "vino",
+     "mode": "m"
+    },
+    {
+     "keyword": "vinho",
+     "mode": "m"
+    },
+    {
+     "keyword": "wein",
+     "mode": "m"
+    },
+    {
+     "keyword": "vinos",
+     "mode": "m"
+    },
+    {
+     "keyword": "cabernet-sauvignon",
+     "mode": "m"
+    }
+   ],
+   "optionalThreshold": 1
+  },
+  {
+   "id": "Jackson Estate",
+   "required": [
+    {
+     "keyword": "jackson-estate",
+     "mode": "m"
+    }
+   ],
+   "optional": [
+    {
+     "keyword": "wine",
+     "mode": "m"
+    },
+    {
+     "keyword": "vino",
+     "mode": "m"
+    },
+    {
+     "keyword": "vinho",
+     "mode": "m"
+    },
+    {
+     "keyword": "wein",
+     "mode": "m"
+    },
+    {
+     "keyword": "vinos",
+     "mode": "m"
+    },
+    {
+     "keyword": "sauvignon-blanc",
+     "mode": "m"
+    },
+    {
+     "keyword": "pinot-noir",
+     "mode": "m"
+    },
+    {
+     "keyword": "chardonnay",
+     "mode": "m"
+    },
+    {
+     "keyword": "riesling",
+     "mode": "m"
+    }
+   ],
+   "optionalThreshold": 1
+  },
+  {
+   "id": "Douloufakis",
+   "required": [
+    {
+     "keyword": "douloufakis",
+     "mode": "m"
+    }
+   ],
+   "optional": [
+    {
+     "keyword": "wine",
+     "mode": "m"
+    },
+    {
+     "keyword": "vino",
+     "mode": "m"
+    },
+    {
+     "keyword": "vinho",
+     "mode": "m"
+    },
+    {
+     "keyword": "wein",
+     "mode": "m"
+    },
+    {
+     "keyword": "vinos",
+     "mode": "m"
+    },
+    {
+     "keyword": "cabernet-sauvignon",
+     "mode": "m"
+    },
+    {
+     "keyword": "assyrtiko",
+     "mode": "m"
+    },
+    {
+     "keyword": "liatiko",
+     "mode": "m"
+    },
+    {
+     "keyword": "sangiovese",
+     "mode": "m"
+    }
+   ],
+   "optionalThreshold": 1
+  },
+  {
+   "id": "Andau",
+   "required": [
+    {
+     "keyword": "andau",
+     "mode": "m"
+    }
+   ],
+   "optional": [
+    {
+     "keyword": "wine",
+     "mode": "m"
+    },
+    {
+     "keyword": "vino",
+     "mode": "m"
+    },
+    {
+     "keyword": "vinho",
+     "mode": "m"
+    },
+    {
+     "keyword": "wein",
+     "mode": "m"
+    },
+    {
+     "keyword": "vinos",
+     "mode": "m"
+    },
+    {
+     "keyword": "zweigelt",
+     "mode": "m"
+    }
+   ],
+   "optionalThreshold": 1
+  },
+  {
+   "id": "Vini",
+   "required": [
+    {
+     "keyword": "vini",
+     "mode": "m"
+    }
+   ],
+   "optional": [
+    {
+     "keyword": "wine",
+     "mode": "m"
+    },
+    {
+     "keyword": "vino",
+     "mode": "m"
+    },
+    {
+     "keyword": "vinho",
+     "mode": "m"
+    },
+    {
+     "keyword": "wein",
+     "mode": "m"
+    },
+    {
+     "keyword": "vinos",
+     "mode": "m"
+    },
+    {
+     "keyword": "pinot-noir",
+     "mode": "m"
+    },
+    {
+     "keyword": "syrah-shiraz",
+     "mode": "m"
+    }
+   ],
+   "optionalThreshold": 1
+  },
+  {
+   "id": "Cardinal",
+   "required": [
+    {
+     "keyword": "cardinal",
+     "mode": "m"
+    }
+   ],
+   "optional": [
+    {
+     "keyword": "beer",
+     "mode": "m"
+    },
+    {
+     "keyword": "cerveza",
+     "mode": "m"
+    },
+    {
+     "keyword": "cerveja",
+     "mode": "m"
+    },
+    {
+     "keyword": "bier",
+     "mode": "m"
+    },
+    {
+     "keyword": "birra",
+     "mode": "m"
+    },
+    {
+     "keyword": "biere",
+     "mode": "m"
+    },
+    {
+     "keyword": "piwo",
+     "mode": "m"
+    },
+    {
+     "keyword": "pivo",
+     "mode": "m"
+    },
+    {
+     "keyword": "irish",
+     "mode": "m"
+    },
+    {
+     "keyword": "red",
+     "mode": "m"
+    }
+   ],
+   "optionalThreshold": 1
+  },
+  {
+   "id": "Kirkland Signature",
+   "required": [
+    {
+     "keyword": "kirkland-signature",
+     "mode": "m"
+    }
+   ],
+   "optional": [
+    {
+     "keyword": "beer",
+     "mode": "m"
+    },
+    {
+     "keyword": "cerveza",
+     "mode": "m"
+    },
+    {
+     "keyword": "cerveja",
+     "mode": "m"
+    },
+    {
+     "keyword": "bier",
+     "mode": "m"
+    },
+    {
+     "keyword": "birra",
+     "mode": "m"
+    },
+    {
+     "keyword": "biere",
+     "mode": "m"
+    },
+    {
+     "keyword": "piwo",
+     "mode": "m"
+    },
+    {
+     "keyword": "pivo",
+     "mode": "m"
+    },
+    {
+     "keyword": "hefeweizen",
+     "mode": "m"
+    },
+    {
+     "keyword": "costco",
+     "mode": "m"
+    }
+   ],
+   "optionalThreshold": 1
+  },
+  {
+   "id": "Anarchy",
+   "required": [
+    {
+     "keyword": "anarchy",
+     "mode": "m"
+    }
+   ],
+   "optional": [
+    {
+     "keyword": "beer",
+     "mode": "m"
+    },
+    {
+     "keyword": "cerveza",
+     "mode": "m"
+    },
+    {
+     "keyword": "cerveja",
+     "mode": "m"
+    },
+    {
+     "keyword": "bier",
+     "mode": "m"
+    },
+    {
+     "keyword": "birra",
+     "mode": "m"
+    },
+    {
+     "keyword": "biere",
+     "mode": "m"
+    },
+    {
+     "keyword": "piwo",
+     "mode": "m"
+    },
+    {
+     "keyword": "pivo",
+     "mode": "m"
+    },
+    {
+     "keyword": "american",
+     "mode": "m"
+    },
+    {
+     "keyword": "double",
+     "mode": "m"
+    }
+   ],
+   "optionalThreshold": 1
+  },
+  {
+   "id": "Onyx",
+   "required": [
+    {
+     "keyword": "onyx",
+     "mode": "m"
+    }
+   ],
+   "optional": [
+    {
+     "keyword": "beer",
+     "mode": "m"
+    },
+    {
+     "keyword": "cerveza",
+     "mode": "m"
+    },
+    {
+     "keyword": "cerveja",
+     "mode": "m"
+    },
+    {
+     "keyword": "bier",
+     "mode": "m"
+    },
+    {
+     "keyword": "birra",
+     "mode": "m"
+    },
+    {
+     "keyword": "biere",
+     "mode": "m"
+    },
+    {
+     "keyword": "piwo",
+     "mode": "m"
+    },
+    {
+     "keyword": "pivo",
+     "mode": "m"
+    },
+    {
+     "keyword": "american",
+     "mode": "m"
+    },
+    {
+     "keyword": "black",
+     "mode": "m"
+    }
+   ],
+   "optionalThreshold": 1
+  },
+  {
+   "id": "Arch",
+   "required": [
+    {
+     "keyword": "arch",
+     "mode": "m"
+    }
+   ],
+   "optional": [
+    {
+     "keyword": "beer",
+     "mode": "m"
+    },
+    {
+     "keyword": "cerveza",
+     "mode": "m"
+    },
+    {
+     "keyword": "cerveja",
+     "mode": "m"
+    },
+    {
+     "keyword": "bier",
+     "mode": "m"
+    },
+    {
+     "keyword": "birra",
+     "mode": "m"
+    },
+    {
+     "keyword": "biere",
+     "mode": "m"
+    },
+    {
+     "keyword": "piwo",
+     "mode": "m"
+    },
+    {
+     "keyword": "pivo",
+     "mode": "m"
+    },
+    {
+     "keyword": "american",
+     "mode": "m"
+    },
+    {
+     "keyword": "amber",
+     "mode": "m"
+    }
+   ],
+   "optionalThreshold": 1
+  },
+  {
+   "id": "Wildcat",
+   "required": [
+    {
+     "keyword": "wildcat",
+     "mode": "m"
+    }
+   ],
+   "optional": [
+    {
+     "keyword": "beer",
+     "mode": "m"
+    },
+    {
+     "keyword": "cerveza",
+     "mode": "m"
+    },
+    {
+     "keyword": "cerveja",
+     "mode": "m"
+    },
+    {
+     "keyword": "bier",
+     "mode": "m"
+    },
+    {
+     "keyword": "birra",
+     "mode": "m"
+    },
+    {
+     "keyword": "biere",
+     "mode": "m"
+    },
+    {
+     "keyword": "piwo",
+     "mode": "m"
+    },
+    {
+     "keyword": "pivo",
+     "mode": "m"
+    },
+    {
+     "keyword": "scottish",
+     "mode": "m"
+    },
+    {
+     "keyword": "ale",
+     "mode": "m"
+    }
+   ],
+   "optionalThreshold": 1
+  },
+  {
+   "id": "Dorado",
+   "required": [
+    {
+     "keyword": "dorado",
+     "mode": "m"
+    }
+   ],
+   "optional": [
+    {
+     "keyword": "beer",
+     "mode": "m"
+    },
+    {
+     "keyword": "cerveza",
+     "mode": "m"
+    },
+    {
+     "keyword": "cerveja",
+     "mode": "m"
+    },
+    {
+     "keyword": "bier",
+     "mode": "m"
+    },
+    {
+     "keyword": "birra",
+     "mode": "m"
+    },
+    {
+     "keyword": "biere",
+     "mode": "m"
+    },
+    {
+     "keyword": "piwo",
+     "mode": "m"
+    },
+    {
+     "keyword": "pivo",
+     "mode": "m"
+    },
+    {
+     "keyword": "american",
+     "mode": "m"
+    },
+    {
+     "keyword": "blonde",
+     "mode": "m"
+    }
+   ],
+   "optionalThreshold": 1
+  },
+  {
+   "id": "Chai",
+   "required": [
+    {
+     "keyword": "chai",
+     "mode": "m"
+    }
+   ],
+   "optional": [
+    {
+     "keyword": "beer",
+     "mode": "m"
+    },
+    {
+     "keyword": "cerveza",
+     "mode": "m"
+    },
+    {
+     "keyword": "cerveja",
+     "mode": "m"
+    },
+    {
+     "keyword": "bier",
+     "mode": "m"
+    },
+    {
+     "keyword": "birra",
+     "mode": "m"
+    },
+    {
+     "keyword": "biere",
+     "mode": "m"
+    },
+    {
+     "keyword": "piwo",
+     "mode": "m"
+    },
+    {
+     "keyword": "pivo",
+     "mode": "m"
+    },
+    {
+     "keyword": "herbed",
+     "mode": "m"
+    },
+    {
+     "keyword": "spiced",
+     "mode": "m"
+    }
+   ],
+   "optionalThreshold": 1
+  },
+  {
+   "id": "Goth",
+   "required": [
+    {
+     "keyword": "goth",
+     "mode": "m"
+    }
+   ],
+   "optional": [
+    {
+     "keyword": "beer",
+     "mode": "m"
+    },
+    {
+     "keyword": "cerveza",
+     "mode": "m"
+    },
+    {
+     "keyword": "cerveja",
+     "mode": "m"
+    },
+    {
+     "keyword": "bier",
+     "mode": "m"
+    },
+    {
+     "keyword": "birra",
+     "mode": "m"
+    },
+    {
+     "keyword": "biere",
+     "mode": "m"
+    },
+    {
+     "keyword": "piwo",
+     "mode": "m"
+    },
+    {
+     "keyword": "pivo",
+     "mode": "m"
+    },
+    {
+     "keyword": "english",
+     "mode": "m"
+    },
+    {
+     "keyword": "dark",
+     "mode": "m"
+    }
+   ],
+   "optionalThreshold": 1
+  },
+  {
+   "id": "Big Horn",
+   "required": [
+    {
+     "keyword": "big-horn",
+     "mode": "m"
+    }
+   ],
+   "optional": [
+    {
+     "keyword": "beer",
+     "mode": "m"
+    },
+    {
+     "keyword": "cerveza",
+     "mode": "m"
+    },
+    {
+     "keyword": "cerveja",
+     "mode": "m"
+    },
+    {
+     "keyword": "bier",
+     "mode": "m"
+    },
+    {
+     "keyword": "birra",
+     "mode": "m"
+    },
+    {
+     "keyword": "biere",
+     "mode": "m"
+    },
+    {
+     "keyword": "piwo",
+     "mode": "m"
+    },
+    {
+     "keyword": "pivo",
+     "mode": "m"
+    },
+    {
+     "keyword": "hefeweizen",
+     "mode": "m"
+    },
+    {
+     "keyword": "ram",
+     "mode": "m"
+    }
+   ],
+   "optionalThreshold": 1
+  },
+  {
+   "id": "Seaside",
+   "required": [
+    {
+     "keyword": "seaside",
+     "mode": "m"
+    }
+   ],
+   "optional": [
+    {
+     "keyword": "beer",
+     "mode": "m"
+    },
+    {
+     "keyword": "cerveza",
+     "mode": "m"
+    },
+    {
+     "keyword": "cerveja",
+     "mode": "m"
+    },
+    {
+     "keyword": "bier",
+     "mode": "m"
+    },
+    {
+     "keyword": "birra",
+     "mode": "m"
+    },
+    {
+     "keyword": "biere",
+     "mode": "m"
+    },
+    {
+     "keyword": "piwo",
+     "mode": "m"
+    },
+    {
+     "keyword": "pivo",
+     "mode": "m"
+    },
+    {
+     "keyword": "irish",
+     "mode": "m"
+    },
+    {
+     "keyword": "dry",
+     "mode": "m"
+    }
+   ],
+   "optionalThreshold": 1
+  },
+  {
+   "id": "Ginseng",
+   "required": [
+    {
+     "keyword": "ginseng",
+     "mode": "m"
+    }
+   ],
+   "optional": [
+    {
+     "keyword": "beer",
+     "mode": "m"
+    },
+    {
+     "keyword": "cerveza",
+     "mode": "m"
+    },
+    {
+     "keyword": "cerveja",
+     "mode": "m"
+    },
+    {
+     "keyword": "bier",
+     "mode": "m"
+    },
+    {
+     "keyword": "birra",
+     "mode": "m"
+    },
+    {
+     "keyword": "biere",
+     "mode": "m"
+    },
+    {
+     "keyword": "piwo",
+     "mode": "m"
+    },
+    {
+     "keyword": "pivo",
+     "mode": "m"
+    },
+    {
+     "keyword": "american",
+     "mode": "m"
+    },
+    {
+     "keyword": "porter",
+     "mode": "m"
+    }
+   ],
+   "optionalThreshold": 1
+  },
+  {
+   "id": "Rebellion",
+   "required": [
+    {
+     "keyword": "rebellion",
+     "mode": "m"
+    }
+   ],
+   "optional": [
+    {
+     "keyword": "beer",
+     "mode": "m"
+    },
+    {
+     "keyword": "cerveza",
+     "mode": "m"
+    },
+    {
+     "keyword": "cerveja",
+     "mode": "m"
+    },
+    {
+     "keyword": "bier",
+     "mode": "m"
+    },
+    {
+     "keyword": "birra",
+     "mode": "m"
+    },
+    {
+     "keyword": "biere",
+     "mode": "m"
+    },
+    {
+     "keyword": "piwo",
+     "mode": "m"
+    },
+    {
+     "keyword": "pivo",
+     "mode": "m"
+    },
+    {
+     "keyword": "irish",
+     "mode": "m"
+    },
+    {
+     "keyword": "red",
+     "mode": "m"
+    }
+   ],
+   "optionalThreshold": 1
+  },
+  {
+   "id": "Wildfire",
+   "required": [
+    {
+     "keyword": "wildfire",
+     "mode": "m"
+    }
+   ],
+   "optional": [
+    {
+     "keyword": "beer",
+     "mode": "m"
+    },
+    {
+     "keyword": "cerveza",
+     "mode": "m"
+    },
+    {
+     "keyword": "cerveja",
+     "mode": "m"
+    },
+    {
+     "keyword": "bier",
+     "mode": "m"
+    },
+    {
+     "keyword": "birra",
+     "mode": "m"
+    },
+    {
+     "keyword": "biere",
+     "mode": "m"
+    },
+    {
+     "keyword": "piwo",
+     "mode": "m"
+    },
+    {
+     "keyword": "pivo",
+     "mode": "m"
+    },
+    {
+     "keyword": "american",
+     "mode": "m"
+    },
+    {
+     "keyword": "amber",
+     "mode": "m"
+    }
+   ],
+   "optionalThreshold": 1
+  },
+  {
+   "id": "Jolly",
+   "required": [
+    {
+     "keyword": "jolly",
+     "mode": "m"
+    }
+   ],
+   "optional": [
+    {
+     "keyword": "beer",
+     "mode": "m"
+    },
+    {
+     "keyword": "cerveza",
+     "mode": "m"
+    },
+    {
+     "keyword": "cerveja",
+     "mode": "m"
+    },
+    {
+     "keyword": "bier",
+     "mode": "m"
+    },
+    {
+     "keyword": "birra",
+     "mode": "m"
+    },
+    {
+     "keyword": "biere",
+     "mode": "m"
+    },
+    {
+     "keyword": "piwo",
+     "mode": "m"
+    },
+    {
+     "keyword": "pivo",
+     "mode": "m"
+    },
+    {
+     "keyword": "bock",
+     "mode": "m"
+    },
+    {
+     "keyword": "new",
+     "mode": "m"
+    }
+   ],
+   "optionalThreshold": 1
+  },
+  {
+   "id": "Pit Bull",
+   "required": [
+    {
+     "keyword": "pit-bull",
+     "mode": "m"
+    }
+   ],
+   "optional": [
+    {
+     "keyword": "beer",
+     "mode": "m"
+    },
+    {
+     "keyword": "cerveza",
+     "mode": "m"
+    },
+    {
+     "keyword": "cerveja",
+     "mode": "m"
+    },
+    {
+     "keyword": "bier",
+     "mode": "m"
+    },
+    {
+     "keyword": "birra",
+     "mode": "m"
+    },
+    {
+     "keyword": "biere",
+     "mode": "m"
+    },
+    {
+     "keyword": "piwo",
+     "mode": "m"
+    },
+    {
+     "keyword": "pivo",
+     "mode": "m"
+    },
+    {
+     "keyword": "american",
+     "mode": "m"
+    },
+    {
+     "keyword": "malt",
+     "mode": "m"
+    }
+   ],
+   "optionalThreshold": 1
+  },
+  {
+   "id": "Fireball",
+   "required": [
+    {
+     "keyword": "fireball",
+     "mode": "m"
+    }
+   ],
+   "optional": [
+    {
+     "keyword": "beer",
+     "mode": "m"
+    },
+    {
+     "keyword": "cerveza",
+     "mode": "m"
+    },
+    {
+     "keyword": "cerveja",
+     "mode": "m"
+    },
+    {
+     "keyword": "bier",
+     "mode": "m"
+    },
+    {
+     "keyword": "birra",
+     "mode": "m"
+    },
+    {
+     "keyword": "biere",
+     "mode": "m"
+    },
+    {
+     "keyword": "piwo",
+     "mode": "m"
+    },
+    {
+     "keyword": "pivo",
+     "mode": "m"
+    },
+    {
+     "keyword": "english",
+     "mode": "m"
+    },
+    {
+     "keyword": "pale",
+     "mode": "m"
+    }
+   ],
+   "optionalThreshold": 1
+  },
+  {
+   "id": "West Coast",
+   "required": [
+    {
+     "keyword": "west-coast",
+     "mode": "m"
+    }
+   ],
+   "optional": [
+    {
+     "keyword": "beer",
+     "mode": "m"
+    },
+    {
+     "keyword": "cerveza",
+     "mode": "m"
+    },
+    {
+     "keyword": "cerveja",
+     "mode": "m"
+    },
+    {
+     "keyword": "bier",
+     "mode": "m"
+    },
+    {
+     "keyword": "birra",
+     "mode": "m"
+    },
+    {
+     "keyword": "biere",
+     "mode": "m"
+    },
+    {
+     "keyword": "piwo",
+     "mode": "m"
+    },
+    {
+     "keyword": "pivo",
+     "mode": "m"
+    },
+    {
+     "keyword": "american",
+     "mode": "m"
+    },
+    {
+     "keyword": "ipa",
+     "mode": "m"
+    }
+   ],
+   "optionalThreshold": 1
+  },
+  {
+   "id": "Crimson",
+   "required": [
+    {
+     "keyword": "crimson",
+     "mode": "m"
+    }
+   ],
+   "optional": [
+    {
+     "keyword": "beer",
+     "mode": "m"
+    },
+    {
+     "keyword": "cerveza",
+     "mode": "m"
+    },
+    {
+     "keyword": "cerveja",
+     "mode": "m"
+    },
+    {
+     "keyword": "bier",
+     "mode": "m"
+    },
+    {
+     "keyword": "birra",
+     "mode": "m"
+    },
+    {
+     "keyword": "biere",
+     "mode": "m"
+    },
+    {
+     "keyword": "piwo",
+     "mode": "m"
+    },
+    {
+     "keyword": "pivo",
+     "mode": "m"
+    },
+    {
+     "keyword": "american",
+     "mode": "m"
+    },
+    {
+     "keyword": "amber",
+     "mode": "m"
+    }
+   ],
+   "optionalThreshold": 1
+  },
+  {
+   "id": "Gingerbread",
+   "required": [
+    {
+     "keyword": "gingerbread",
+     "mode": "m"
+    }
+   ],
+   "optional": [
+    {
+     "keyword": "beer",
+     "mode": "m"
+    },
+    {
+     "keyword": "cerveza",
+     "mode": "m"
+    },
+    {
+     "keyword": "cerveja",
+     "mode": "m"
+    },
+    {
+     "keyword": "bier",
+     "mode": "m"
+    },
+    {
+     "keyword": "birra",
+     "mode": "m"
+    },
+    {
+     "keyword": "biere",
+     "mode": "m"
+    },
+    {
+     "keyword": "piwo",
+     "mode": "m"
+    },
+    {
+     "keyword": "pivo",
+     "mode": "m"
+    },
+    {
+     "keyword": "milk",
+     "mode": "m"
+    },
+    {
+     "keyword": "sweet",
+     "mode": "m"
+    }
+   ],
+   "optionalThreshold": 1
+  },
+  {
+   "id": "Sparta",
+   "required": [
+    {
+     "keyword": "sparta",
+     "mode": "m"
+    }
+   ],
+   "optional": [
+    {
+     "keyword": "beer",
+     "mode": "m"
+    },
+    {
+     "keyword": "cerveza",
+     "mode": "m"
+    },
+    {
+     "keyword": "cerveja",
+     "mode": "m"
+    },
+    {
+     "keyword": "bier",
+     "mode": "m"
+    },
+    {
+     "keyword": "birra",
+     "mode": "m"
+    },
+    {
+     "keyword": "biere",
+     "mode": "m"
+    },
+    {
+     "keyword": "piwo",
+     "mode": "m"
+    },
+    {
+     "keyword": "pivo",
+     "mode": "m"
+    },
+    {
+     "keyword": "czech",
+     "mode": "m"
+    },
+    {
+     "keyword": "pilsener",
+     "mode": "m"
+    }
+   ],
+   "optionalThreshold": 1
+  },
+  {
+   "id": "Strawberry Cream",
+   "required": [
+    {
+     "keyword": "strawberry-cream",
+     "mode": "m"
+    }
+   ],
+   "optional": [
+    {
+     "keyword": "beer",
+     "mode": "m"
+    },
+    {
+     "keyword": "cerveza",
+     "mode": "m"
+    },
+    {
+     "keyword": "cerveja",
+     "mode": "m"
+    },
+    {
+     "keyword": "bier",
+     "mode": "m"
+    },
+    {
+     "keyword": "birra",
+     "mode": "m"
+    },
+    {
+     "keyword": "biere",
+     "mode": "m"
+    },
+    {
+     "keyword": "piwo",
+     "mode": "m"
+    },
+    {
+     "keyword": "pivo",
+     "mode": "m"
+    },
+    {
+     "keyword": "fruit",
+     "mode": "m"
+    },
+    {
+     "keyword": "vegetable",
+     "mode": "m"
+    }
+   ],
+   "optionalThreshold": 1
+  },
+  {
+   "id": "Baron",
+   "required": [
+    {
+     "keyword": "baron",
+     "mode": "m"
+    }
+   ],
+   "optional": [
+    {
+     "keyword": "beer",
+     "mode": "m"
+    },
+    {
+     "keyword": "cerveza",
+     "mode": "m"
+    },
+    {
+     "keyword": "cerveja",
+     "mode": "m"
+    },
+    {
+     "keyword": "bier",
+     "mode": "m"
+    },
+    {
+     "keyword": "birra",
+     "mode": "m"
+    },
+    {
+     "keyword": "biere",
+     "mode": "m"
+    },
+    {
+     "keyword": "piwo",
+     "mode": "m"
+    },
+    {
+     "keyword": "pivo",
+     "mode": "m"
+    },
+    {
+     "keyword": "bock",
+     "mode": "m"
+    },
+    {
+     "keyword": "bushwakker",
+     "mode": "m"
+    }
+   ],
+   "optionalThreshold": 1
+  },
+  {
+   "id": "Peach Cobbler",
+   "required": [
+    {
+     "keyword": "peach-cobbler",
+     "mode": "m"
+    }
+   ],
+   "optional": [
+    {
+     "keyword": "beer",
+     "mode": "m"
+    },
+    {
+     "keyword": "cerveza",
+     "mode": "m"
+    },
+    {
+     "keyword": "cerveja",
+     "mode": "m"
+    },
+    {
+     "keyword": "bier",
+     "mode": "m"
+    },
+    {
+     "keyword": "birra",
+     "mode": "m"
+    },
+    {
+     "keyword": "biere",
+     "mode": "m"
+    },
+    {
+     "keyword": "piwo",
+     "mode": "m"
+    },
+    {
+     "keyword": "pivo",
+     "mode": "m"
+    },
+    {
+     "keyword": "fruit",
+     "mode": "m"
+    },
+    {
+     "keyword": "vegetable",
+     "mode": "m"
+    }
+   ],
+   "optionalThreshold": 1
+  },
+  {
+   "id": "Cesky",
+   "required": [
+    {
+     "keyword": "cesky",
+     "mode": "m"
+    }
+   ],
+   "optional": [
+    {
+     "keyword": "beer",
+     "mode": "m"
+    },
+    {
+     "keyword": "cerveza",
+     "mode": "m"
+    },
+    {
+     "keyword": "cerveja",
+     "mode": "m"
+    },
+    {
+     "keyword": "bier",
+     "mode": "m"
+    },
+    {
+     "keyword": "birra",
+     "mode": "m"
+    },
+    {
+     "keyword": "biere",
+     "mode": "m"
+    },
+    {
+     "keyword": "piwo",
+     "mode": "m"
+    },
+    {
+     "keyword": "pivo",
+     "mode": "m"
+    },
+    {
+     "keyword": "czech",
+     "mode": "m"
+    },
+    {
+     "keyword": "pilsener",
+     "mode": "m"
+    }
+   ],
+   "optionalThreshold": 1
+  },
+  {
+   "id": "Jezebel",
+   "required": [
+    {
+     "keyword": "jezebel",
+     "mode": "m"
+    }
+   ],
+   "optional": [
+    {
+     "keyword": "beer",
+     "mode": "m"
+    },
+    {
+     "keyword": "cerveza",
+     "mode": "m"
+    },
+    {
+     "keyword": "cerveja",
+     "mode": "m"
+    },
+    {
+     "keyword": "bier",
+     "mode": "m"
+    },
+    {
+     "keyword": "birra",
+     "mode": "m"
+    },
+    {
+     "keyword": "biere",
+     "mode": "m"
+    },
+    {
+     "keyword": "piwo",
+     "mode": "m"
+    },
+    {
+     "keyword": "pivo",
+     "mode": "m"
+    },
+    {
+     "keyword": "american",
+     "mode": "m"
+    },
+    {
+     "keyword": "double",
+     "mode": "m"
+    }
+   ],
+   "optionalThreshold": 1
+  },
+  {
+   "id": "Badger",
+   "required": [
+    {
+     "keyword": "badger",
+     "mode": "m"
+    }
+   ],
+   "optional": [
+    {
+     "keyword": "beer",
+     "mode": "m"
+    },
+    {
+     "keyword": "cerveza",
+     "mode": "m"
+    },
+    {
+     "keyword": "cerveja",
+     "mode": "m"
+    },
+    {
+     "keyword": "bier",
+     "mode": "m"
+    },
+    {
+     "keyword": "birra",
+     "mode": "m"
+    },
+    {
+     "keyword": "biere",
+     "mode": "m"
+    },
+    {
+     "keyword": "piwo",
+     "mode": "m"
+    },
+    {
+     "keyword": "pivo",
+     "mode": "m"
+    },
+    {
+     "keyword": "american",
+     "mode": "m"
+    },
+    {
+     "keyword": "porter",
+     "mode": "m"
+    }
+   ],
+   "optionalThreshold": 1
+  },
+  {
+   "id": "Coors",
+   "required": [
+    {
+     "keyword": "coors",
+     "mode": "m"
+    }
+   ],
+   "optional": [
+    {
+     "keyword": "beer",
+     "mode": "m"
+    },
+    {
+     "keyword": "cerveza",
+     "mode": "m"
+    },
+    {
+     "keyword": "cerveja",
+     "mode": "m"
+    },
+    {
+     "keyword": "bier",
+     "mode": "m"
+    },
+    {
+     "keyword": "birra",
+     "mode": "m"
+    },
+    {
+     "keyword": "biere",
+     "mode": "m"
+    },
+    {
+     "keyword": "piwo",
+     "mode": "m"
+    },
+    {
+     "keyword": "pivo",
+     "mode": "m"
+    },
+    {
+     "keyword": "light",
+     "mode": "m"
+    },
+    {
+     "keyword": "lager",
+     "mode": "m"
+    }
+   ],
+   "optionalThreshold": 1
+  },
+  {
+   "id": "Heartbeat",
+   "required": [
+    {
+     "keyword": "heartbeat",
+     "mode": "m"
+    }
+   ],
+   "optional": [
+    {
+     "keyword": "beer",
+     "mode": "m"
+    },
+    {
+     "keyword": "cerveza",
+     "mode": "m"
+    },
+    {
+     "keyword": "cerveja",
+     "mode": "m"
+    },
+    {
+     "keyword": "bier",
+     "mode": "m"
+    },
+    {
+     "keyword": "birra",
+     "mode": "m"
+    },
+    {
+     "keyword": "biere",
+     "mode": "m"
+    },
+    {
+     "keyword": "piwo",
+     "mode": "m"
+    },
+    {
+     "keyword": "pivo",
+     "mode": "m"
+    },
+    {
+     "keyword": "english",
+     "mode": "m"
+    },
+    {
+     "keyword": "bitter",
+     "mode": "m"
+    }
+   ],
+   "optionalThreshold": 1
+  },
+  {
+   "id": "Hugh",
+   "required": [
+    {
+     "keyword": "hugh",
+     "mode": "m"
+    }
+   ],
+   "optional": [
+    {
+     "keyword": "beer",
+     "mode": "m"
+    },
+    {
+     "keyword": "cerveza",
+     "mode": "m"
+    },
+    {
+     "keyword": "cerveja",
+     "mode": "m"
+    },
+    {
+     "keyword": "bier",
+     "mode": "m"
+    },
+    {
+     "keyword": "birra",
+     "mode": "m"
+    },
+    {
+     "keyword": "biere",
+     "mode": "m"
+    },
+    {
+     "keyword": "piwo",
+     "mode": "m"
+    },
+    {
+     "keyword": "pivo",
+     "mode": "m"
+    },
+    {
+     "keyword": "hefeweizen",
+     "mode": "m"
+    },
+    {
+     "keyword": "john",
+     "mode": "m"
+    }
+   ],
+   "optionalThreshold": 1
+  },
+  {
+   "id": "Blackout",
+   "required": [
+    {
+     "keyword": "blackout",
+     "mode": "m"
+    }
+   ],
+   "optional": [
+    {
+     "keyword": "beer",
+     "mode": "m"
+    },
+    {
+     "keyword": "cerveza",
+     "mode": "m"
+    },
+    {
+     "keyword": "cerveja",
+     "mode": "m"
+    },
+    {
+     "keyword": "bier",
+     "mode": "m"
+    },
+    {
+     "keyword": "birra",
+     "mode": "m"
+    },
+    {
+     "keyword": "biere",
+     "mode": "m"
+    },
+    {
+     "keyword": "piwo",
+     "mode": "m"
+    },
+    {
+     "keyword": "pivo",
+     "mode": "m"
+    },
+    {
+     "keyword": "american",
+     "mode": "m"
+    },
+    {
+     "keyword": "black",
+     "mode": "m"
+    }
+   ],
+   "optionalThreshold": 1
+  },
+  {
+   "id": "Ambrosia",
+   "required": [
+    {
+     "keyword": "ambrosia",
+     "mode": "m"
+    }
+   ],
+   "optional": [
+    {
+     "keyword": "beer",
+     "mode": "m"
+    },
+    {
+     "keyword": "cerveza",
+     "mode": "m"
+    },
+    {
+     "keyword": "cerveja",
+     "mode": "m"
+    },
+    {
+     "keyword": "bier",
+     "mode": "m"
+    },
+    {
+     "keyword": "birra",
+     "mode": "m"
+    },
+    {
+     "keyword": "biere",
+     "mode": "m"
+    },
+    {
+     "keyword": "piwo",
+     "mode": "m"
+    },
+    {
+     "keyword": "pivo",
+     "mode": "m"
+    },
+    {
+     "keyword": "fruit",
+     "mode": "m"
+    },
+    {
+     "keyword": "vegetable",
+     "mode": "m"
+    }
+   ],
+   "optionalThreshold": 1
+  },
+  {
+   "id": "Stein",
+   "required": [
+    {
+     "keyword": "stein",
+     "mode": "m"
+    }
+   ],
+   "optional": [
+    {
+     "keyword": "beer",
+     "mode": "m"
+    },
+    {
+     "keyword": "cerveza",
+     "mode": "m"
+    },
+    {
+     "keyword": "cerveja",
+     "mode": "m"
+    },
+    {
+     "keyword": "bier",
+     "mode": "m"
+    },
+    {
+     "keyword": "birra",
+     "mode": "m"
+    },
+    {
+     "keyword": "biere",
+     "mode": "m"
+    },
+    {
+     "keyword": "piwo",
+     "mode": "m"
+    },
+    {
+     "keyword": "pivo",
+     "mode": "m"
+    },
+    {
+     "keyword": "american",
+     "mode": "m"
+    },
+    {
+     "keyword": "pale",
+     "mode": "m"
+    }
+   ],
+   "optionalThreshold": 1
+  },
+  {
+   "id": "Keystone",
+   "required": [
+    {
+     "keyword": "keystone",
+     "mode": "m"
+    }
+   ],
+   "optional": [
+    {
+     "keyword": "beer",
+     "mode": "m"
+    },
+    {
+     "keyword": "cerveza",
+     "mode": "m"
+    },
+    {
+     "keyword": "cerveja",
+     "mode": "m"
+    },
+    {
+     "keyword": "bier",
+     "mode": "m"
+    },
+    {
+     "keyword": "birra",
+     "mode": "m"
+    },
+    {
+     "keyword": "biere",
+     "mode": "m"
+    },
+    {
+     "keyword": "piwo",
+     "mode": "m"
+    },
+    {
+     "keyword": "pivo",
+     "mode": "m"
+    },
+    {
+     "keyword": "light",
+     "mode": "m"
+    },
+    {
+     "keyword": "lager",
+     "mode": "m"
+    }
+   ],
+   "optionalThreshold": 1
+  },
+  {
+   "id": "Molson",
+   "required": [
+    {
+     "keyword": "molson",
+     "mode": "m"
+    }
+   ],
+   "optional": [
+    {
+     "keyword": "beer",
+     "mode": "m"
+    },
+    {
+     "keyword": "cerveza",
+     "mode": "m"
+    },
+    {
+     "keyword": "cerveja",
+     "mode": "m"
+    },
+    {
+     "keyword": "bier",
+     "mode": "m"
+    },
+    {
+     "keyword": "birra",
+     "mode": "m"
+    },
+    {
+     "keyword": "biere",
+     "mode": "m"
+    },
+    {
+     "keyword": "piwo",
+     "mode": "m"
+    },
+    {
+     "keyword": "pivo",
+     "mode": "m"
+    },
+    {
+     "keyword": "bock",
+     "mode": "m"
+    },
+    {
+     "keyword": "coors",
+     "mode": "m"
+    }
+   ],
+   "optionalThreshold": 1
+  },
+  {
+   "id": "Blond",
+   "required": [
+    {
+     "keyword": "blond",
+     "mode": "m"
+    }
+   ],
+   "optional": [
+    {
+     "keyword": "beer",
+     "mode": "m"
+    },
+    {
+     "keyword": "cerveza",
+     "mode": "m"
+    },
+    {
+     "keyword": "cerveja",
+     "mode": "m"
+    },
+    {
+     "keyword": "bier",
+     "mode": "m"
+    },
+    {
+     "keyword": "birra",
+     "mode": "m"
+    },
+    {
+     "keyword": "biere",
+     "mode": "m"
+    },
+    {
+     "keyword": "piwo",
+     "mode": "m"
+    },
+    {
+     "keyword": "pivo",
+     "mode": "m"
+    },
+    {
+     "keyword": "american",
+     "mode": "m"
+    },
+    {
+     "keyword": "blonde",
+     "mode": "m"
+    }
+   ],
+   "optionalThreshold": 1
+  },
+  {
+   "id": "Camo",
+   "required": [
+    {
+     "keyword": "camo",
+     "mode": "m"
+    }
+   ],
+   "optional": [
+    {
+     "keyword": "beer",
+     "mode": "m"
+    },
+    {
+     "keyword": "cerveza",
+     "mode": "m"
+    },
+    {
+     "keyword": "cerveja",
+     "mode": "m"
+    },
+    {
+     "keyword": "bier",
+     "mode": "m"
+    },
+    {
+     "keyword": "birra",
+     "mode": "m"
+    },
+    {
+     "keyword": "biere",
+     "mode": "m"
+    },
+    {
+     "keyword": "piwo",
+     "mode": "m"
+    },
+    {
+     "keyword": "pivo",
+     "mode": "m"
+    },
+    {
+     "keyword": "american",
+     "mode": "m"
+    },
+    {
+     "keyword": "double",
+     "mode": "m"
+    }
+   ],
+   "optionalThreshold": 1
+  },
+  {
+   "id": "Welsh",
+   "required": [
+    {
+     "keyword": "welsh",
+     "mode": "m"
+    }
+   ],
+   "optional": [
+    {
+     "keyword": "beer",
+     "mode": "m"
+    },
+    {
+     "keyword": "cerveza",
+     "mode": "m"
+    },
+    {
+     "keyword": "cerveja",
+     "mode": "m"
+    },
+    {
+     "keyword": "bier",
+     "mode": "m"
+    },
+    {
+     "keyword": "birra",
+     "mode": "m"
+    },
+    {
+     "keyword": "biere",
+     "mode": "m"
+    },
+    {
+     "keyword": "piwo",
+     "mode": "m"
+    },
+    {
+     "keyword": "pivo",
+     "mode": "m"
+    },
+    {
+     "keyword": "english",
+     "mode": "m"
+    },
+    {
+     "keyword": "bitter",
+     "mode": "m"
+    }
+   ],
+   "optionalThreshold": 1
+  },
+  {
+   "id": "Cocoa",
+   "required": [
+    {
+     "keyword": "cocoa",
+     "mode": "m"
+    }
+   ],
+   "optional": [
+    {
+     "keyword": "beer",
+     "mode": "m"
+    },
+    {
+     "keyword": "cerveza",
+     "mode": "m"
+    },
+    {
+     "keyword": "cerveja",
+     "mode": "m"
+    },
+    {
+     "keyword": "bier",
+     "mode": "m"
+    },
+    {
+     "keyword": "birra",
+     "mode": "m"
+    },
+    {
+     "keyword": "biere",
+     "mode": "m"
+    },
+    {
+     "keyword": "piwo",
+     "mode": "m"
+    },
+    {
+     "keyword": "pivo",
+     "mode": "m"
+    },
+    {
+     "keyword": "milk",
+     "mode": "m"
+    },
+    {
+     "keyword": "sweet",
+     "mode": "m"
+    }
+   ],
+   "optionalThreshold": 1
+  },
+  {
+   "id": "Howlin",
+   "required": [
+    {
+     "keyword": "howlin",
+     "mode": "m"
+    }
+   ],
+   "optional": [
+    {
+     "keyword": "beer",
+     "mode": "m"
+    },
+    {
+     "keyword": "cerveza",
+     "mode": "m"
+    },
+    {
+     "keyword": "cerveja",
+     "mode": "m"
+    },
+    {
+     "keyword": "bier",
+     "mode": "m"
+    },
+    {
+     "keyword": "birra",
+     "mode": "m"
+    },
+    {
+     "keyword": "biere",
+     "mode": "m"
+    },
+    {
+     "keyword": "piwo",
+     "mode": "m"
+    },
+    {
+     "keyword": "pivo",
+     "mode": "m"
+    },
+    {
+     "keyword": "hefeweizen",
+     "mode": "m"
+    },
+    {
+     "keyword": "wolf",
+     "mode": "m"
+    }
+   ],
+   "optionalThreshold": 1
+  },
+  {
+   "id": "Geante",
+   "required": [
+    {
+     "keyword": "geante",
+     "mode": "m"
+    }
+   ],
+   "optional": [
+    {
+     "keyword": "beer",
+     "mode": "m"
+    },
+    {
+     "keyword": "cerveza",
+     "mode": "m"
+    },
+    {
+     "keyword": "cerveja",
+     "mode": "m"
+    },
+    {
+     "keyword": "bier",
+     "mode": "m"
+    },
+    {
+     "keyword": "birra",
+     "mode": "m"
+    },
+    {
+     "keyword": "biere",
+     "mode": "m"
+    },
+    {
+     "keyword": "piwo",
+     "mode": "m"
+    },
+    {
+     "keyword": "pivo",
+     "mode": "m"
+    },
+    {
+     "keyword": "garde",
+     "mode": "m"
+    },
+    {
+     "keyword": "grain",
+     "mode": "m"
+    }
+   ],
+   "optionalThreshold": 1
+  },
+  {
+   "id": "Brasserie",
+   "required": [
+    {
+     "keyword": "brasserie",
+     "mode": "m"
+    }
+   ],
+   "optional": [
+    {
+     "keyword": "beer",
+     "mode": "m"
+    },
+    {
+     "keyword": "cerveza",
+     "mode": "m"
+    },
+    {
+     "keyword": "cerveja",
+     "mode": "m"
+    },
+    {
+     "keyword": "bier",
+     "mode": "m"
+    },
+    {
+     "keyword": "birra",
+     "mode": "m"
+    },
+    {
+     "keyword": "biere",
+     "mode": "m"
+    },
+    {
+     "keyword": "piwo",
+     "mode": "m"
+    },
+    {
+     "keyword": "pivo",
+     "mode": "m"
+    },
+    {
+     "keyword": "belgian",
+     "mode": "m"
+    },
+    {
+     "keyword": "strong",
+     "mode": "m"
+    }
+   ],
+   "optionalThreshold": 1
+  },
+  {
+   "id": "Milkshake",
+   "required": [
+    {
+     "keyword": "milkshake",
+     "mode": "m"
+    }
+   ],
+   "optional": [
+    {
+     "keyword": "beer",
+     "mode": "m"
+    },
+    {
+     "keyword": "cerveza",
+     "mode": "m"
+    },
+    {
+     "keyword": "cerveja",
+     "mode": "m"
+    },
+    {
+     "keyword": "bier",
+     "mode": "m"
+    },
+    {
+     "keyword": "birra",
+     "mode": "m"
+    },
+    {
+     "keyword": "biere",
+     "mode": "m"
+    },
+    {
+     "keyword": "piwo",
+     "mode": "m"
+    },
+    {
+     "keyword": "pivo",
+     "mode": "m"
+    },
+    {
+     "keyword": "milk",
+     "mode": "m"
+    },
+    {
+     "keyword": "sweet",
+     "mode": "m"
+    }
+   ],
+   "optionalThreshold": 1
+  },
+  {
+   "id": "Mohawk",
+   "required": [
+    {
+     "keyword": "mohawk",
+     "mode": "m"
+    }
+   ],
+   "optional": [
+    {
+     "keyword": "beer",
+     "mode": "m"
+    },
+    {
+     "keyword": "cerveza",
+     "mode": "m"
+    },
+    {
+     "keyword": "cerveja",
+     "mode": "m"
+    },
+    {
+     "keyword": "bier",
+     "mode": "m"
+    },
+    {
+     "keyword": "birra",
+     "mode": "m"
+    },
+    {
+     "keyword": "biere",
+     "mode": "m"
+    },
+    {
+     "keyword": "piwo",
+     "mode": "m"
+    },
+    {
+     "keyword": "pivo",
+     "mode": "m"
+    },
+    {
+     "keyword": "american",
+     "mode": "m"
+    },
+    {
+     "keyword": "black",
+     "mode": "m"
+    }
+   ],
+   "optionalThreshold": 1
+  },
+  {
+   "id": "Twelve",
+   "required": [
+    {
+     "keyword": "twelve",
+     "mode": "m"
+    }
+   ],
+   "optional": [
+    {
+     "keyword": "beer",
+     "mode": "m"
+    },
+    {
+     "keyword": "cerveza",
+     "mode": "m"
+    },
+    {
+     "keyword": "cerveja",
+     "mode": "m"
+    },
+    {
+     "keyword": "bier",
+     "mode": "m"
+    },
+    {
+     "keyword": "birra",
+     "mode": "m"
+    },
+    {
+     "keyword": "biere",
+     "mode": "m"
+    },
+    {
+     "keyword": "piwo",
+     "mode": "m"
+    },
+    {
+     "keyword": "pivo",
+     "mode": "m"
+    },
+    {
+     "keyword": "american",
+     "mode": "m"
+    },
+    {
+     "keyword": "barleywine",
+     "mode": "m"
+    }
+   ],
+   "optionalThreshold": 1
+  },
+  {
+   "id": "Patriot",
+   "required": [
+    {
+     "keyword": "patriot",
+     "mode": "m"
+    }
+   ],
+   "optional": [
+    {
+     "keyword": "beer",
+     "mode": "m"
+    },
+    {
+     "keyword": "cerveza",
+     "mode": "m"
+    },
+    {
+     "keyword": "cerveja",
+     "mode": "m"
+    },
+    {
+     "keyword": "bier",
+     "mode": "m"
+    },
+    {
+     "keyword": "birra",
+     "mode": "m"
+    },
+    {
+     "keyword": "biere",
+     "mode": "m"
+    },
+    {
+     "keyword": "piwo",
+     "mode": "m"
+    },
+    {
+     "keyword": "pivo",
+     "mode": "m"
+    },
+    {
+     "keyword": "american",
+     "mode": "m"
+    },
+    {
+     "keyword": "black",
+     "mode": "m"
+    }
+   ],
+   "optionalThreshold": 1
+  },
+  {
+   "id": "Vernal",
+   "required": [
+    {
+     "keyword": "vernal",
+     "mode": "m"
+    }
+   ],
+   "optional": [
+    {
+     "keyword": "beer",
+     "mode": "m"
+    },
+    {
+     "keyword": "cerveza",
+     "mode": "m"
+    },
+    {
+     "keyword": "cerveja",
+     "mode": "m"
+    },
+    {
+     "keyword": "bier",
+     "mode": "m"
+    },
+    {
+     "keyword": "birra",
+     "mode": "m"
+    },
+    {
+     "keyword": "biere",
+     "mode": "m"
+    },
+    {
+     "keyword": "piwo",
+     "mode": "m"
+    },
+    {
+     "keyword": "pivo",
+     "mode": "m"
+    },
+    {
+     "keyword": "hefeweizen",
+     "mode": "m"
+    },
+    {
+     "keyword": "equinox",
+     "mode": "m"
+    }
+   ],
+   "optionalThreshold": 1
+  },
+  {
+   "id": "Ellis Island",
+   "required": [
+    {
+     "keyword": "ellis-island",
+     "mode": "m"
+    }
+   ],
+   "optional": [
+    {
+     "keyword": "beer",
+     "mode": "m"
+    },
+    {
+     "keyword": "cerveza",
+     "mode": "m"
+    },
+    {
+     "keyword": "cerveja",
+     "mode": "m"
+    },
+    {
+     "keyword": "bier",
+     "mode": "m"
+    },
+    {
+     "keyword": "birra",
+     "mode": "m"
+    },
+    {
+     "keyword": "biere",
+     "mode": "m"
+    },
+    {
+     "keyword": "piwo",
+     "mode": "m"
+    },
+    {
+     "keyword": "pivo",
+     "mode": "m"
+    },
+    {
+     "keyword": "euro",
+     "mode": "m"
+    },
+    {
+     "keyword": "dark",
+     "mode": "m"
+    }
+   ],
+   "optionalThreshold": 1
+  },
+  {
+   "id": "Marble",
+   "required": [
+    {
+     "keyword": "marble",
+     "mode": "m"
+    }
+   ],
+   "optional": [
+    {
+     "keyword": "beer",
+     "mode": "m"
+    },
+    {
+     "keyword": "cerveza",
+     "mode": "m"
+    },
+    {
+     "keyword": "cerveja",
+     "mode": "m"
+    },
+    {
+     "keyword": "bier",
+     "mode": "m"
+    },
+    {
+     "keyword": "birra",
+     "mode": "m"
+    },
+    {
+     "keyword": "biere",
+     "mode": "m"
+    },
+    {
+     "keyword": "piwo",
+     "mode": "m"
+    },
+    {
+     "keyword": "pivo",
+     "mode": "m"
+    },
+    {
+     "keyword": "english",
+     "mode": "m"
+    },
+    {
+     "keyword": "india",
+     "mode": "m"
+    }
+   ],
+   "optionalThreshold": 1
+  },
+  {
+   "id": "Olde",
+   "required": [
+    {
+     "keyword": "olde",
+     "mode": "m"
+    }
+   ],
+   "optional": [
+    {
+     "keyword": "beer",
+     "mode": "m"
+    },
+    {
+     "keyword": "cerveza",
+     "mode": "m"
+    },
+    {
+     "keyword": "cerveja",
+     "mode": "m"
+    },
+    {
+     "keyword": "bier",
+     "mode": "m"
+    },
+    {
+     "keyword": "birra",
+     "mode": "m"
+    },
+    {
+     "keyword": "biere",
+     "mode": "m"
+    },
+    {
+     "keyword": "piwo",
+     "mode": "m"
+    },
+    {
+     "keyword": "pivo",
+     "mode": "m"
+    },
+    {
+     "keyword": "english",
+     "mode": "m"
+    },
+    {
+     "keyword": "brown",
+     "mode": "m"
+    }
+   ],
+   "optionalThreshold": 1
+  },
+  {
+   "id": "Bully",
+   "required": [
+    {
+     "keyword": "bully",
+     "mode": "m"
+    }
+   ],
+   "optional": [
+    {
+     "keyword": "beer",
+     "mode": "m"
+    },
+    {
+     "keyword": "cerveza",
+     "mode": "m"
+    },
+    {
+     "keyword": "cerveja",
+     "mode": "m"
+    },
+    {
+     "keyword": "bier",
+     "mode": "m"
+    },
+    {
+     "keyword": "birra",
+     "mode": "m"
+    },
+    {
+     "keyword": "biere",
+     "mode": "m"
+    },
+    {
+     "keyword": "piwo",
+     "mode": "m"
+    },
+    {
+     "keyword": "pivo",
+     "mode": "m"
+    },
+    {
+     "keyword": "american",
+     "mode": "m"
+    },
+    {
+     "keyword": "porter",
+     "mode": "m"
+    }
+   ],
+   "optionalThreshold": 1
+  },
+  {
+   "id": "Heartland",
+   "required": [
+    {
+     "keyword": "heartland",
+     "mode": "m"
+    }
+   ],
+   "optional": [
+    {
+     "keyword": "beer",
+     "mode": "m"
+    },
+    {
+     "keyword": "cerveza",
+     "mode": "m"
+    },
+    {
+     "keyword": "cerveja",
+     "mode": "m"
+    },
+    {
+     "keyword": "bier",
+     "mode": "m"
+    },
+    {
+     "keyword": "birra",
+     "mode": "m"
+    },
+    {
+     "keyword": "biere",
+     "mode": "m"
+    },
+    {
+     "keyword": "piwo",
+     "mode": "m"
+    },
+    {
+     "keyword": "pivo",
+     "mode": "m"
+    },
+    {
+     "keyword": "american",
+     "mode": "m"
+    },
+    {
+     "keyword": "black",
+     "mode": "m"
+    }
+   ],
+   "optionalThreshold": 1
+  },
+  {
+   "id": "Jaipur",
+   "required": [
+    {
+     "keyword": "jaipur",
+     "mode": "m"
+    }
+   ],
+   "optional": [
+    {
+     "keyword": "beer",
+     "mode": "m"
+    },
+    {
+     "keyword": "cerveza",
+     "mode": "m"
+    },
+    {
+     "keyword": "cerveja",
+     "mode": "m"
+    },
+    {
+     "keyword": "bier",
+     "mode": "m"
+    },
+    {
+     "keyword": "birra",
+     "mode": "m"
+    },
+    {
+     "keyword": "biere",
+     "mode": "m"
+    },
+    {
+     "keyword": "piwo",
+     "mode": "m"
+    },
+    {
+     "keyword": "pivo",
+     "mode": "m"
+    },
+    {
+     "keyword": "english",
+     "mode": "m"
+    },
+    {
+     "keyword": "india",
+     "mode": "m"
+    }
+   ],
+   "optionalThreshold": 1
+  },
+  {
+   "id": "Raven",
+   "required": [
+    {
+     "keyword": "raven",
+     "mode": "m"
+    }
+   ],
+   "optional": [
+    {
+     "keyword": "beer",
+     "mode": "m"
+    },
+    {
+     "keyword": "cerveza",
+     "mode": "m"
+    },
+    {
+     "keyword": "cerveja",
+     "mode": "m"
+    },
+    {
+     "keyword": "bier",
+     "mode": "m"
+    },
+    {
+     "keyword": "birra",
+     "mode": "m"
+    },
+    {
+     "keyword": "biere",
+     "mode": "m"
+    },
+    {
+     "keyword": "piwo",
+     "mode": "m"
+    },
+    {
+     "keyword": "pivo",
+     "mode": "m"
+    },
+    {
+     "keyword": "american",
+     "mode": "m"
+    },
+    {
+     "keyword": "black",
+     "mode": "m"
+    }
+   ],
+   "optionalThreshold": 1
+  },
+  {
+   "id": "Canterbury",
+   "required": [
+    {
+     "keyword": "canterbury",
+     "mode": "m"
+    }
+   ],
+   "optional": [
+    {
+     "keyword": "beer",
+     "mode": "m"
+    },
+    {
+     "keyword": "cerveza",
+     "mode": "m"
+    },
+    {
+     "keyword": "cerveja",
+     "mode": "m"
+    },
+    {
+     "keyword": "bier",
+     "mode": "m"
+    },
+    {
+     "keyword": "birra",
+     "mode": "m"
+    },
+    {
+     "keyword": "biere",
+     "mode": "m"
+    },
+    {
+     "keyword": "piwo",
+     "mode": "m"
+    },
+    {
+     "keyword": "pivo",
+     "mode": "m"
+    },
+    {
+     "keyword": "euro",
+     "mode": "m"
+    },
+    {
+     "keyword": "dark",
+     "mode": "m"
+    }
+   ],
+   "optionalThreshold": 1
+  },
+  {
+   "id": "Moat",
+   "required": [
+    {
+     "keyword": "moat",
+     "mode": "m"
+    }
+   ],
+   "optional": [
+    {
+     "keyword": "beer",
+     "mode": "m"
+    },
+    {
+     "keyword": "cerveza",
+     "mode": "m"
+    },
+    {
+     "keyword": "cerveja",
+     "mode": "m"
+    },
+    {
+     "keyword": "bier",
+     "mode": "m"
+    },
+    {
+     "keyword": "birra",
+     "mode": "m"
+    },
+    {
+     "keyword": "biere",
+     "mode": "m"
+    },
+    {
+     "keyword": "piwo",
+     "mode": "m"
+    },
+    {
+     "keyword": "pivo",
+     "mode": "m"
+    },
+    {
+     "keyword": "english",
+     "mode": "m"
+    },
+    {
+     "keyword": "brown",
+     "mode": "m"
+    }
+   ],
+   "optionalThreshold": 1
+  },
+  {
+   "id": "Kilkenny",
+   "required": [
+    {
+     "keyword": "kilkenny",
+     "mode": "m"
+    }
+   ],
+   "optional": [
+    {
+     "keyword": "beer",
+     "mode": "m"
+    },
+    {
+     "keyword": "cerveza",
+     "mode": "m"
+    },
+    {
+     "keyword": "cerveja",
+     "mode": "m"
+    },
+    {
+     "keyword": "bier",
+     "mode": "m"
+    },
+    {
+     "keyword": "birra",
+     "mode": "m"
+    },
+    {
+     "keyword": "biere",
+     "mode": "m"
+    },
+    {
+     "keyword": "piwo",
+     "mode": "m"
+    },
+    {
+     "keyword": "pivo",
+     "mode": "m"
+    },
+    {
+     "keyword": "irish",
+     "mode": "m"
+    },
+    {
+     "keyword": "red",
+     "mode": "m"
+    }
+   ],
+   "optionalThreshold": 1
+  },
+  {
+   "id": "Thurn Und Taxis",
+   "required": [
+    {
+     "keyword": "thurn-und-taxis",
+     "mode": "m"
+    }
+   ],
+   "optional": [
+    {
+     "keyword": "beer",
+     "mode": "m"
+    },
+    {
+     "keyword": "cerveza",
+     "mode": "m"
+    },
+    {
+     "keyword": "cerveja",
+     "mode": "m"
+    },
+    {
+     "keyword": "bier",
+     "mode": "m"
+    },
+    {
+     "keyword": "birra",
+     "mode": "m"
+    },
+    {
+     "keyword": "biere",
+     "mode": "m"
+    },
+    {
+     "keyword": "piwo",
+     "mode": "m"
+    },
+    {
+     "keyword": "pivo",
+     "mode": "m"
+    },
+    {
+     "keyword": "roggenbier",
+     "mode": "m"
+    },
+    {
+     "keyword": "regensburg",
+     "mode": "m"
+    }
+   ],
+   "optionalThreshold": 1
+  },
+  {
+   "id": "Maxs",
+   "required": [
+    {
+     "keyword": "maxs",
+     "mode": "m"
+    }
+   ],
+   "optional": [
+    {
+     "keyword": "beer",
+     "mode": "m"
+    },
+    {
+     "keyword": "cerveza",
+     "mode": "m"
+    },
+    {
+     "keyword": "cerveja",
+     "mode": "m"
+    },
+    {
+     "keyword": "bier",
+     "mode": "m"
+    },
+    {
+     "keyword": "birra",
+     "mode": "m"
+    },
+    {
+     "keyword": "biere",
+     "mode": "m"
+    },
+    {
+     "keyword": "piwo",
+     "mode": "m"
+    },
+    {
+     "keyword": "pivo",
+     "mode": "m"
+    },
+    {
+     "keyword": "witbier",
+     "mode": "m"
+    },
+    {
+     "keyword": "max",
+     "mode": "m"
+    }
+   ],
+   "optionalThreshold": 1
+  },
+  {
+   "id": "Ned",
+   "required": [
+    {
+     "keyword": "ned",
+     "mode": "m"
+    }
+   ],
+   "optional": [
+    {
+     "keyword": "beer",
+     "mode": "m"
+    },
+    {
+     "keyword": "cerveza",
+     "mode": "m"
+    },
+    {
+     "keyword": "cerveja",
+     "mode": "m"
+    },
+    {
+     "keyword": "bier",
+     "mode": "m"
+    },
+    {
+     "keyword": "birra",
+     "mode": "m"
+    },
+    {
+     "keyword": "biere",
+     "mode": "m"
+    },
+    {
+     "keyword": "piwo",
+     "mode": "m"
+    },
+    {
+     "keyword": "pivo",
+     "mode": "m"
+    },
+    {
+     "keyword": "flanders",
+     "mode": "m"
+    },
+    {
+     "keyword": "red",
+     "mode": "m"
+    }
+   ],
+   "optionalThreshold": 1
+  },
+  {
+   "id": "Duet",
+   "required": [
+    {
+     "keyword": "duet",
+     "mode": "m"
+    }
+   ],
+   "optional": [
+    {
+     "keyword": "beer",
+     "mode": "m"
+    },
+    {
+     "keyword": "cerveza",
+     "mode": "m"
+    },
+    {
+     "keyword": "cerveja",
+     "mode": "m"
+    },
+    {
+     "keyword": "bier",
+     "mode": "m"
+    },
+    {
+     "keyword": "birra",
+     "mode": "m"
+    },
+    {
+     "keyword": "biere",
+     "mode": "m"
+    },
+    {
+     "keyword": "piwo",
+     "mode": "m"
+    },
+    {
+     "keyword": "pivo",
+     "mode": "m"
+    },
+    {
+     "keyword": "american",
+     "mode": "m"
+    },
+    {
+     "keyword": "ipa",
+     "mode": "m"
+    }
+   ],
+   "optionalThreshold": 1
+  },
+  {
+   "id": "Gangster",
+   "required": [
+    {
+     "keyword": "gangster",
+     "mode": "m"
+    }
+   ],
+   "optional": [
+    {
+     "keyword": "beer",
+     "mode": "m"
+    },
+    {
+     "keyword": "cerveza",
+     "mode": "m"
+    },
+    {
+     "keyword": "cerveja",
+     "mode": "m"
+    },
+    {
+     "keyword": "bier",
+     "mode": "m"
+    },
+    {
+     "keyword": "birra",
+     "mode": "m"
+    },
+    {
+     "keyword": "biere",
+     "mode": "m"
+    },
+    {
+     "keyword": "piwo",
+     "mode": "m"
+    },
+    {
+     "keyword": "pivo",
+     "mode": "m"
+    },
+    {
+     "keyword": "american",
+     "mode": "m"
+    },
+    {
+     "keyword": "amber",
+     "mode": "m"
+    }
+   ],
+   "optionalThreshold": 1
+  },
+  {
+   "id": "Sarasota",
+   "required": [
+    {
+     "keyword": "sarasota",
+     "mode": "m"
+    }
+   ],
+   "optional": [
+    {
+     "keyword": "beer",
+     "mode": "m"
+    },
+    {
+     "keyword": "cerveza",
+     "mode": "m"
+    },
+    {
+     "keyword": "cerveja",
+     "mode": "m"
+    },
+    {
+     "keyword": "bier",
+     "mode": "m"
+    },
+    {
+     "keyword": "birra",
+     "mode": "m"
+    },
+    {
+     "keyword": "biere",
+     "mode": "m"
+    },
+    {
+     "keyword": "piwo",
+     "mode": "m"
+    },
+    {
+     "keyword": "pivo",
+     "mode": "m"
+    },
+    {
+     "keyword": "american",
+     "mode": "m"
+    },
+    {
+     "keyword": "ipa",
+     "mode": "m"
+    }
+   ],
+   "optionalThreshold": 1
+  },
+  {
+   "id": "Praga",
+   "required": [
+    {
+     "keyword": "praga",
+     "mode": "m"
+    }
+   ],
+   "optional": [
+    {
+     "keyword": "beer",
+     "mode": "m"
+    },
+    {
+     "keyword": "cerveza",
+     "mode": "m"
+    },
+    {
+     "keyword": "cerveja",
+     "mode": "m"
+    },
+    {
+     "keyword": "bier",
+     "mode": "m"
+    },
+    {
+     "keyword": "birra",
+     "mode": "m"
+    },
+    {
+     "keyword": "biere",
+     "mode": "m"
+    },
+    {
+     "keyword": "piwo",
+     "mode": "m"
+    },
+    {
+     "keyword": "pivo",
+     "mode": "m"
+    },
+    {
+     "keyword": "czech",
+     "mode": "m"
+    },
+    {
+     "keyword": "pilsener",
+     "mode": "m"
+    }
+   ],
+   "optionalThreshold": 1
+  },
+  {
+   "id": "Bavaria",
+   "required": [
+    {
+     "keyword": "bavaria",
+     "mode": "m"
+    }
+   ],
+   "optional": [
+    {
+     "keyword": "beer",
+     "mode": "m"
+    },
+    {
+     "keyword": "cerveza",
+     "mode": "m"
+    },
+    {
+     "keyword": "cerveja",
+     "mode": "m"
+    },
+    {
+     "keyword": "bier",
+     "mode": "m"
+    },
+    {
+     "keyword": "birra",
+     "mode": "m"
+    },
+    {
+     "keyword": "biere",
+     "mode": "m"
+    },
+    {
+     "keyword": "piwo",
+     "mode": "m"
+    },
+    {
+     "keyword": "pivo",
+     "mode": "m"
+    },
+    {
+     "keyword": "munich",
+     "mode": "m"
+    },
+    {
+     "keyword": "dunkel",
+     "mode": "m"
+    }
+   ],
+   "optionalThreshold": 1
+  },
+  {
+   "id": "Rocker",
+   "required": [
+    {
+     "keyword": "rocker",
+     "mode": "m"
+    }
+   ],
+   "optional": [
+    {
+     "keyword": "beer",
+     "mode": "m"
+    },
+    {
+     "keyword": "cerveza",
+     "mode": "m"
+    },
+    {
+     "keyword": "cerveja",
+     "mode": "m"
+    },
+    {
+     "keyword": "bier",
+     "mode": "m"
+    },
+    {
+     "keyword": "birra",
+     "mode": "m"
+    },
+    {
+     "keyword": "biere",
+     "mode": "m"
+    },
+    {
+     "keyword": "piwo",
+     "mode": "m"
+    },
+    {
+     "keyword": "pivo",
+     "mode": "m"
+    },
+    {
+     "keyword": "rye",
+     "mode": "m"
+    },
+    {
+     "keyword": "dark",
+     "mode": "m"
+    }
+   ],
+   "optionalThreshold": 1
+  },
+  {
+   "id": "Watermelon",
+   "required": [
+    {
+     "keyword": "watermelon",
+     "mode": "m"
+    }
+   ],
+   "optional": [
+    {
+     "keyword": "beer",
+     "mode": "m"
+    },
+    {
+     "keyword": "cerveza",
+     "mode": "m"
+    },
+    {
+     "keyword": "cerveja",
+     "mode": "m"
+    },
+    {
+     "keyword": "bier",
+     "mode": "m"
+    },
+    {
+     "keyword": "birra",
+     "mode": "m"
+    },
+    {
+     "keyword": "biere",
+     "mode": "m"
+    },
+    {
+     "keyword": "piwo",
+     "mode": "m"
+    },
+    {
+     "keyword": "pivo",
+     "mode": "m"
+    },
+    {
+     "keyword": "fruit",
+     "mode": "m"
+    },
+    {
+     "keyword": "vegetable",
+     "mode": "m"
+    }
+   ],
+   "optionalThreshold": 1
+  },
+  {
+   "id": "Aiken",
+   "required": [
+    {
+     "keyword": "aiken",
+     "mode": "m"
+    }
+   ],
+   "optional": [
+    {
+     "keyword": "beer",
+     "mode": "m"
+    },
+    {
+     "keyword": "cerveza",
+     "mode": "m"
+    },
+    {
+     "keyword": "cerveja",
+     "mode": "m"
+    },
+    {
+     "keyword": "bier",
+     "mode": "m"
+    },
+    {
+     "keyword": "birra",
+     "mode": "m"
+    },
+    {
+     "keyword": "biere",
+     "mode": "m"
+    },
+    {
+     "keyword": "piwo",
+     "mode": "m"
+    },
+    {
+     "keyword": "pivo",
+     "mode": "m"
+    },
+    {
+     "keyword": "american",
+     "mode": "m"
+    },
+    {
+     "keyword": "amber",
+     "mode": "m"
+    }
+   ],
+   "optionalThreshold": 1
+  },
+  {
+   "id": "Aberdeen",
+   "required": [
+    {
+     "keyword": "aberdeen",
+     "mode": "m"
+    }
+   ],
+   "optional": [
+    {
+     "keyword": "beer",
+     "mode": "m"
+    },
+    {
+     "keyword": "cerveza",
+     "mode": "m"
+    },
+    {
+     "keyword": "cerveja",
+     "mode": "m"
+    },
+    {
+     "keyword": "bier",
+     "mode": "m"
+    },
+    {
+     "keyword": "birra",
+     "mode": "m"
+    },
+    {
+     "keyword": "biere",
+     "mode": "m"
+    },
+    {
+     "keyword": "piwo",
+     "mode": "m"
+    },
+    {
+     "keyword": "pivo",
+     "mode": "m"
+    },
+    {
+     "keyword": "scottish",
+     "mode": "m"
+    },
+    {
+     "keyword": "ale",
+     "mode": "m"
+    }
+   ],
+   "optionalThreshold": 1
+  },
+  {
+   "id": "Bark",
+   "required": [
+    {
+     "keyword": "bark",
+     "mode": "m"
+    }
+   ],
+   "optional": [
+    {
+     "keyword": "beer",
+     "mode": "m"
+    },
+    {
+     "keyword": "cerveza",
+     "mode": "m"
+    },
+    {
+     "keyword": "cerveja",
+     "mode": "m"
+    },
+    {
+     "keyword": "bier",
+     "mode": "m"
+    },
+    {
+     "keyword": "birra",
+     "mode": "m"
+    },
+    {
+     "keyword": "biere",
+     "mode": "m"
+    },
+    {
+     "keyword": "piwo",
+     "mode": "m"
+    },
+    {
+     "keyword": "pivo",
+     "mode": "m"
+    },
+    {
+     "keyword": "extra",
+     "mode": "m"
+    },
+    {
+     "keyword": "special",
+     "mode": "m"
+    }
+   ],
+   "optionalThreshold": 1
+  },
+  {
+   "id": "Kiwi",
+   "required": [
+    {
+     "keyword": "kiwi",
+     "mode": "m"
+    }
+   ],
+   "optional": [
+    {
+     "keyword": "beer",
+     "mode": "m"
+    },
+    {
+     "keyword": "cerveza",
+     "mode": "m"
+    },
+    {
+     "keyword": "cerveja",
+     "mode": "m"
+    },
+    {
+     "keyword": "bier",
+     "mode": "m"
+    },
+    {
+     "keyword": "birra",
+     "mode": "m"
+    },
+    {
+     "keyword": "biere",
+     "mode": "m"
+    },
+    {
+     "keyword": "piwo",
+     "mode": "m"
+    },
+    {
+     "keyword": "pivo",
+     "mode": "m"
+    },
+    {
+     "keyword": "lambic",
+     "mode": "m"
+    },
+    {
+     "keyword": "fruit",
+     "mode": "m"
+    }
+   ],
+   "optionalThreshold": 1
+  },
+  {
+   "id": "Hardcore",
+   "required": [
+    {
+     "keyword": "hardcore",
+     "mode": "m"
+    }
+   ],
+   "optional": [
+    {
+     "keyword": "beer",
+     "mode": "m"
+    },
+    {
+     "keyword": "cerveza",
+     "mode": "m"
+    },
+    {
+     "keyword": "cerveja",
+     "mode": "m"
+    },
+    {
+     "keyword": "bier",
+     "mode": "m"
+    },
+    {
+     "keyword": "birra",
+     "mode": "m"
+    },
+    {
+     "keyword": "biere",
+     "mode": "m"
+    },
+    {
+     "keyword": "piwo",
+     "mode": "m"
+    },
+    {
+     "keyword": "pivo",
+     "mode": "m"
+    },
+    {
+     "keyword": "american",
+     "mode": "m"
+    },
+    {
+     "keyword": "double",
+     "mode": "m"
+    }
+   ],
+   "optionalThreshold": 1
+  },
+  {
+   "id": "Cheers",
+   "required": [
+    {
+     "keyword": "cheers",
+     "mode": "m"
+    }
+   ],
+   "optional": [
+    {
+     "keyword": "beer",
+     "mode": "m"
+    },
+    {
+     "keyword": "cerveza",
+     "mode": "m"
+    },
+    {
+     "keyword": "cerveja",
+     "mode": "m"
+    },
+    {
+     "keyword": "bier",
+     "mode": "m"
+    },
+    {
+     "keyword": "birra",
+     "mode": "m"
+    },
+    {
+     "keyword": "biere",
+     "mode": "m"
+    },
+    {
+     "keyword": "piwo",
+     "mode": "m"
+    },
+    {
+     "keyword": "pivo",
+     "mode": "m"
+    },
+    {
+     "keyword": "american",
+     "mode": "m"
+    },
+    {
+     "keyword": "adjunct",
+     "mode": "m"
+    }
+   ],
+   "optionalThreshold": 1
+  },
+  {
+   "id": "Berg",
+   "required": [
+    {
+     "keyword": "berg",
+     "mode": "m"
+    }
+   ],
+   "optional": [
+    {
+     "keyword": "beer",
+     "mode": "m"
+    },
+    {
+     "keyword": "cerveza",
+     "mode": "m"
+    },
+    {
+     "keyword": "cerveja",
+     "mode": "m"
+    },
+    {
+     "keyword": "bier",
+     "mode": "m"
+    },
+    {
+     "keyword": "birra",
+     "mode": "m"
+    },
+    {
+     "keyword": "biere",
+     "mode": "m"
+    },
+    {
+     "keyword": "piwo",
+     "mode": "m"
+    },
+    {
+     "keyword": "pivo",
+     "mode": "m"
+    },
+    {
+     "keyword": "german",
+     "mode": "m"
+    },
+    {
+     "keyword": "pilsener",
+     "mode": "m"
+    }
+   ],
+   "optionalThreshold": 1
+  },
+  {
+   "id": "Springer",
+   "required": [
+    {
+     "keyword": "springer",
+     "mode": "m"
+    }
+   ],
+   "optional": [
+    {
+     "keyword": "beer",
+     "mode": "m"
+    },
+    {
+     "keyword": "cerveza",
+     "mode": "m"
+    },
+    {
+     "keyword": "cerveja",
+     "mode": "m"
+    },
+    {
+     "keyword": "bier",
+     "mode": "m"
+    },
+    {
+     "keyword": "birra",
+     "mode": "m"
+    },
+    {
+     "keyword": "biere",
+     "mode": "m"
+    },
+    {
+     "keyword": "piwo",
+     "mode": "m"
+    },
+    {
+     "keyword": "pivo",
+     "mode": "m"
+    },
+    {
+     "keyword": "english",
+     "mode": "m"
+    },
+    {
+     "keyword": "bitter",
+     "mode": "m"
+    }
+   ],
+   "optionalThreshold": 1
+  },
+  {
+   "id": "Saranac",
+   "required": [
+    {
+     "keyword": "saranac",
+     "mode": "m"
+    }
+   ],
+   "optional": [
+    {
+     "keyword": "beer",
+     "mode": "m"
+    },
+    {
+     "keyword": "cerveza",
+     "mode": "m"
+    },
+    {
+     "keyword": "cerveja",
+     "mode": "m"
+    },
+    {
+     "keyword": "bier",
+     "mode": "m"
+    },
+    {
+     "keyword": "birra",
+     "mode": "m"
+    },
+    {
+     "keyword": "biere",
+     "mode": "m"
+    },
+    {
+     "keyword": "piwo",
+     "mode": "m"
+    },
+    {
+     "keyword": "pivo",
+     "mode": "m"
+    },
+    {
+     "keyword": "hefeweizen",
+     "mode": "m"
+    },
+    {
+     "keyword": "matt",
+     "mode": "m"
+    }
+   ],
+   "optionalThreshold": 1
+  },
+  {
+   "id": "Amazing Grace",
+   "required": [
+    {
+     "keyword": "amazing-grace",
+     "mode": "m"
+    }
+   ],
+   "optional": [
+    {
+     "keyword": "beer",
+     "mode": "m"
+    },
+    {
+     "keyword": "cerveza",
+     "mode": "m"
+    },
+    {
+     "keyword": "cerveja",
+     "mode": "m"
+    },
+    {
+     "keyword": "bier",
+     "mode": "m"
+    },
+    {
+     "keyword": "birra",
+     "mode": "m"
+    },
+    {
+     "keyword": "biere",
+     "mode": "m"
+    },
+    {
+     "keyword": "piwo",
+     "mode": "m"
+    },
+    {
+     "keyword": "pivo",
+     "mode": "m"
+    },
+    {
+     "keyword": "american",
+     "mode": "m"
+    },
+    {
+     "keyword": "wild",
+     "mode": "m"
+    }
+   ],
+   "optionalThreshold": 1
+  },
+  {
+   "id": "Captains",
+   "required": [
+    {
+     "keyword": "captains",
+     "mode": "m"
+    }
+   ],
+   "optional": [
+    {
+     "keyword": "beer",
+     "mode": "m"
+    },
+    {
+     "keyword": "cerveza",
+     "mode": "m"
+    },
+    {
+     "keyword": "cerveja",
+     "mode": "m"
+    },
+    {
+     "keyword": "bier",
+     "mode": "m"
+    },
+    {
+     "keyword": "birra",
+     "mode": "m"
+    },
+    {
+     "keyword": "biere",
+     "mode": "m"
+    },
+    {
+     "keyword": "piwo",
+     "mode": "m"
+    },
+    {
+     "keyword": "pivo",
+     "mode": "m"
+    },
+    {
+     "keyword": "kolsch",
+     "mode": "m"
+    },
+    {
+     "keyword": "captain",
+     "mode": "m"
+    }
+   ],
+   "optionalThreshold": 1
+  },
+  {
+   "id": "Pear",
+   "required": [
+    {
+     "keyword": "pear",
+     "mode": "m"
+    }
+   ],
+   "optional": [
+    {
+     "keyword": "beer",
+     "mode": "m"
+    },
+    {
+     "keyword": "cerveza",
+     "mode": "m"
+    },
+    {
+     "keyword": "cerveja",
+     "mode": "m"
+    },
+    {
+     "keyword": "bier",
+     "mode": "m"
+    },
+    {
+     "keyword": "birra",
+     "mode": "m"
+    },
+    {
+     "keyword": "biere",
+     "mode": "m"
+    },
+    {
+     "keyword": "piwo",
+     "mode": "m"
+    },
+    {
+     "keyword": "pivo",
+     "mode": "m"
+    },
+    {
+     "keyword": "lambic",
+     "mode": "m"
+    },
+    {
+     "keyword": "fruit",
+     "mode": "m"
+    }
+   ],
+   "optionalThreshold": 1
+  },
+  {
+   "id": "Formidable",
+   "required": [
+    {
+     "keyword": "formidable",
+     "mode": "m"
+    }
+   ],
+   "optional": [
+    {
+     "keyword": "beer",
+     "mode": "m"
+    },
+    {
+     "keyword": "cerveza",
+     "mode": "m"
+    },
+    {
+     "keyword": "cerveja",
+     "mode": "m"
+    },
+    {
+     "keyword": "bier",
+     "mode": "m"
+    },
+    {
+     "keyword": "birra",
+     "mode": "m"
+    },
+    {
+     "keyword": "biere",
+     "mode": "m"
+    },
+    {
+     "keyword": "piwo",
+     "mode": "m"
+    },
+    {
+     "keyword": "pivo",
+     "mode": "m"
+    },
+    {
+     "keyword": "english",
+     "mode": "m"
+    },
+    {
+     "keyword": "strong",
+     "mode": "m"
+    }
+   ],
+   "optionalThreshold": 1
+  },
+  {
+   "id": "Grizzly Bear",
+   "required": [
+    {
+     "keyword": "grizzly-bear",
+     "mode": "m"
+    }
+   ],
+   "optional": [
+    {
+     "keyword": "beer",
+     "mode": "m"
+    },
+    {
+     "keyword": "cerveza",
+     "mode": "m"
+    },
+    {
+     "keyword": "cerveja",
+     "mode": "m"
+    },
+    {
+     "keyword": "bier",
+     "mode": "m"
+    },
+    {
+     "keyword": "birra",
+     "mode": "m"
+    },
+    {
+     "keyword": "biere",
+     "mode": "m"
+    },
+    {
+     "keyword": "piwo",
+     "mode": "m"
+    },
+    {
+     "keyword": "pivo",
+     "mode": "m"
+    },
+    {
+     "keyword": "doppelbock",
+     "mode": "m"
+    },
+    {
+     "keyword": "big",
+     "mode": "m"
+    }
+   ],
+   "optionalThreshold": 1
+  },
+  {
+   "id": "Jasper",
+   "required": [
+    {
+     "keyword": "jasper",
+     "mode": "m"
+    }
+   ],
+   "optional": [
+    {
+     "keyword": "beer",
+     "mode": "m"
+    },
+    {
+     "keyword": "cerveza",
+     "mode": "m"
+    },
+    {
+     "keyword": "cerveja",
+     "mode": "m"
+    },
+    {
+     "keyword": "bier",
+     "mode": "m"
+    },
+    {
+     "keyword": "birra",
+     "mode": "m"
+    },
+    {
+     "keyword": "biere",
+     "mode": "m"
+    },
+    {
+     "keyword": "piwo",
+     "mode": "m"
+    },
+    {
+     "keyword": "pivo",
+     "mode": "m"
+    },
+    {
+     "keyword": "english",
+     "mode": "m"
+    },
+    {
+     "keyword": "brown",
+     "mode": "m"
+    }
+   ],
+   "optionalThreshold": 1
+  },
+  {
+   "id": "Odell",
+   "required": [
+    {
+     "keyword": "odell",
+     "mode": "m"
+    }
+   ],
+   "optional": [
+    {
+     "keyword": "beer",
+     "mode": "m"
+    },
+    {
+     "keyword": "cerveza",
+     "mode": "m"
+    },
+    {
+     "keyword": "cerveja",
+     "mode": "m"
+    },
+    {
+     "keyword": "bier",
+     "mode": "m"
+    },
+    {
+     "keyword": "birra",
+     "mode": "m"
+    },
+    {
+     "keyword": "biere",
+     "mode": "m"
+    },
+    {
+     "keyword": "piwo",
+     "mode": "m"
+    },
+    {
+     "keyword": "pivo",
+     "mode": "m"
+    },
+    {
+     "keyword": "american",
+     "mode": "m"
+    },
+    {
+     "keyword": "double",
+     "mode": "m"
+    }
+   ],
+   "optionalThreshold": 1
+  },
+  {
+   "id": "Sunflower",
+   "required": [
+    {
+     "keyword": "sunflower",
+     "mode": "m"
+    }
+   ],
+   "optional": [
+    {
+     "keyword": "beer",
+     "mode": "m"
+    },
+    {
+     "keyword": "cerveza",
+     "mode": "m"
+    },
+    {
+     "keyword": "cerveja",
+     "mode": "m"
+    },
+    {
+     "keyword": "bier",
+     "mode": "m"
+    },
+    {
+     "keyword": "birra",
+     "mode": "m"
+    },
+    {
+     "keyword": "biere",
+     "mode": "m"
+    },
+    {
+     "keyword": "piwo",
+     "mode": "m"
+    },
+    {
+     "keyword": "pivo",
+     "mode": "m"
+    },
+    {
+     "keyword": "american",
+     "mode": "m"
+    },
+    {
+     "keyword": "ipa",
+     "mode": "m"
+    }
+   ],
+   "optionalThreshold": 1
+  },
+  {
+   "id": "Bells",
+   "required": [
+    {
+     "keyword": "bells",
+     "mode": "m"
+    }
+   ],
+   "optional": [
+    {
+     "keyword": "beer",
+     "mode": "m"
+    },
+    {
+     "keyword": "cerveza",
+     "mode": "m"
+    },
+    {
+     "keyword": "cerveja",
+     "mode": "m"
+    },
+    {
+     "keyword": "bier",
+     "mode": "m"
+    },
+    {
+     "keyword": "birra",
+     "mode": "m"
+    },
+    {
+     "keyword": "biere",
+     "mode": "m"
+    },
+    {
+     "keyword": "piwo",
+     "mode": "m"
+    },
+    {
+     "keyword": "pivo",
+     "mode": "m"
+    },
+    {
+     "keyword": "american",
+     "mode": "m"
+    },
+    {
+     "keyword": "amber",
+     "mode": "m"
+    }
+   ],
+   "optionalThreshold": 1
+  },
+  {
+   "id": "Bountiful",
+   "required": [
+    {
+     "keyword": "bountiful",
+     "mode": "m"
+    }
+   ],
+   "optional": [
+    {
+     "keyword": "beer",
+     "mode": "m"
+    },
+    {
+     "keyword": "cerveza",
+     "mode": "m"
+    },
+    {
+     "keyword": "cerveja",
+     "mode": "m"
+    },
+    {
+     "keyword": "bier",
+     "mode": "m"
+    },
+    {
+     "keyword": "birra",
+     "mode": "m"
+    },
+    {
+     "keyword": "biere",
+     "mode": "m"
+    },
+    {
+     "keyword": "piwo",
+     "mode": "m"
+    },
+    {
+     "keyword": "pivo",
+     "mode": "m"
+    },
+    {
+     "keyword": "english",
+     "mode": "m"
+    },
+    {
+     "keyword": "bitter",
+     "mode": "m"
+    }
+   ],
+   "optionalThreshold": 1
+  },
+  {
+   "id": "Ossett",
+   "required": [
+    {
+     "keyword": "ossett",
+     "mode": "m"
+    }
+   ],
+   "optional": [
+    {
+     "keyword": "beer",
+     "mode": "m"
+    },
+    {
+     "keyword": "cerveza",
+     "mode": "m"
+    },
+    {
+     "keyword": "cerveja",
+     "mode": "m"
+    },
+    {
+     "keyword": "bier",
+     "mode": "m"
+    },
+    {
+     "keyword": "birra",
+     "mode": "m"
+    },
+    {
+     "keyword": "biere",
+     "mode": "m"
+    },
+    {
+     "keyword": "piwo",
+     "mode": "m"
+    },
+    {
+     "keyword": "pivo",
+     "mode": "m"
+    },
+    {
+     "keyword": "english",
+     "mode": "m"
+    },
+    {
+     "keyword": "pale",
+     "mode": "m"
+    }
+   ],
+   "optionalThreshold": 1
+  },
+  {
+   "id": "Possession",
+   "required": [
+    {
+     "keyword": "possession",
+     "mode": "m"
+    }
+   ],
+   "optional": [
+    {
+     "keyword": "beer",
+     "mode": "m"
+    },
+    {
+     "keyword": "cerveza",
+     "mode": "m"
+    },
+    {
+     "keyword": "cerveja",
+     "mode": "m"
+    },
+    {
+     "keyword": "bier",
+     "mode": "m"
+    },
+    {
+     "keyword": "birra",
+     "mode": "m"
+    },
+    {
+     "keyword": "biere",
+     "mode": "m"
+    },
+    {
+     "keyword": "piwo",
+     "mode": "m"
+    },
+    {
+     "keyword": "pivo",
+     "mode": "m"
+    },
+    {
+     "keyword": "american",
+     "mode": "m"
+    },
+    {
+     "keyword": "porter",
+     "mode": "m"
+    }
+   ],
+   "optionalThreshold": 1
+  },
+  {
+   "id": "Charles Bridge",
+   "required": [
+    {
+     "keyword": "charles-bridge",
+     "mode": "m"
+    }
+   ],
+   "optional": [
+    {
+     "keyword": "beer",
+     "mode": "m"
+    },
+    {
+     "keyword": "cerveza",
+     "mode": "m"
+    },
+    {
+     "keyword": "cerveja",
+     "mode": "m"
+    },
+    {
+     "keyword": "bier",
+     "mode": "m"
+    },
+    {
+     "keyword": "birra",
+     "mode": "m"
+    },
+    {
+     "keyword": "biere",
+     "mode": "m"
+    },
+    {
+     "keyword": "piwo",
+     "mode": "m"
+    },
+    {
+     "keyword": "pivo",
+     "mode": "m"
+    },
+    {
+     "keyword": "czech",
+     "mode": "m"
+    },
+    {
+     "keyword": "pilsener",
+     "mode": "m"
+    }
+   ],
+   "optionalThreshold": 1
+  },
+  {
+   "id": "Farmhouse",
+   "required": [
+    {
+     "keyword": "farmhouse",
+     "mode": "m"
+    }
+   ],
+   "optional": [
+    {
+     "keyword": "beer",
+     "mode": "m"
+    },
+    {
+     "keyword": "cerveza",
+     "mode": "m"
+    },
+    {
+     "keyword": "cerveja",
+     "mode": "m"
+    },
+    {
+     "keyword": "bier",
+     "mode": "m"
+    },
+    {
+     "keyword": "birra",
+     "mode": "m"
+    },
+    {
+     "keyword": "biere",
+     "mode": "m"
+    },
+    {
+     "keyword": "piwo",
+     "mode": "m"
+    },
+    {
+     "keyword": "pivo",
+     "mode": "m"
+    },
+    {
+     "keyword": "american",
+     "mode": "m"
+    },
+    {
+     "keyword": "pale",
+     "mode": "m"
+    }
+   ],
+   "optionalThreshold": 1
+  },
+  {
+   "id": "Maplewood",
+   "required": [
+    {
+     "keyword": "maplewood",
+     "mode": "m"
+    }
+   ],
+   "optional": [
+    {
+     "keyword": "beer",
+     "mode": "m"
+    },
+    {
+     "keyword": "cerveza",
+     "mode": "m"
+    },
+    {
+     "keyword": "cerveja",
+     "mode": "m"
+    },
+    {
+     "keyword": "bier",
+     "mode": "m"
+    },
+    {
+     "keyword": "birra",
+     "mode": "m"
+    },
+    {
+     "keyword": "biere",
+     "mode": "m"
+    },
+    {
+     "keyword": "piwo",
+     "mode": "m"
+    },
+    {
+     "keyword": "pivo",
+     "mode": "m"
+    },
+    {
+     "keyword": "american",
+     "mode": "m"
+    },
+    {
+     "keyword": "stout",
+     "mode": "m"
+    }
+   ],
+   "optionalThreshold": 1
+  },
+  {
+   "id": "Avril",
+   "required": [
+    {
+     "keyword": "avril",
+     "mode": "m"
+    }
+   ],
+   "optional": [
+    {
+     "keyword": "beer",
+     "mode": "m"
+    },
+    {
+     "keyword": "cerveza",
+     "mode": "m"
+    },
+    {
+     "keyword": "cerveja",
+     "mode": "m"
+    },
+    {
+     "keyword": "bier",
+     "mode": "m"
+    },
+    {
+     "keyword": "birra",
+     "mode": "m"
+    },
+    {
+     "keyword": "biere",
+     "mode": "m"
+    },
+    {
+     "keyword": "piwo",
+     "mode": "m"
+    },
+    {
+     "keyword": "pivo",
+     "mode": "m"
+    },
+    {
+     "keyword": "saison",
+     "mode": "m"
+    },
+    {
+     "keyword": "farmhouse",
+     "mode": "m"
+    }
+   ],
+   "optionalThreshold": 1
+  },
+  {
+   "id": "Johnston",
+   "required": [
+    {
+     "keyword": "johnston",
+     "mode": "m"
+    }
+   ],
+   "optional": [
+    {
+     "keyword": "beer",
+     "mode": "m"
+    },
+    {
+     "keyword": "cerveza",
+     "mode": "m"
+    },
+    {
+     "keyword": "cerveja",
+     "mode": "m"
+    },
+    {
+     "keyword": "bier",
+     "mode": "m"
+    },
+    {
+     "keyword": "birra",
+     "mode": "m"
+    },
+    {
+     "keyword": "biere",
+     "mode": "m"
+    },
+    {
+     "keyword": "piwo",
+     "mode": "m"
+    },
+    {
+     "keyword": "pivo",
+     "mode": "m"
+    },
+    {
+     "keyword": "czech",
+     "mode": "m"
+    },
+    {
+     "keyword": "pilsener",
+     "mode": "m"
+    }
+   ],
+   "optionalThreshold": 1
+  },
+  {
+   "id": "Dominion",
+   "required": [
+    {
+     "keyword": "dominion",
+     "mode": "m"
+    }
+   ],
+   "optional": [
+    {
+     "keyword": "beer",
+     "mode": "m"
+    },
+    {
+     "keyword": "cerveza",
+     "mode": "m"
+    },
+    {
+     "keyword": "cerveja",
+     "mode": "m"
+    },
+    {
+     "keyword": "bier",
+     "mode": "m"
+    },
+    {
+     "keyword": "birra",
+     "mode": "m"
+    },
+    {
+     "keyword": "biere",
+     "mode": "m"
+    },
+    {
+     "keyword": "piwo",
+     "mode": "m"
+    },
+    {
+     "keyword": "pivo",
+     "mode": "m"
+    },
+    {
+     "keyword": "doppelbock",
+     "mode": "m"
+    },
+    {
+     "keyword": "old",
+     "mode": "m"
+    }
+   ],
+   "optionalThreshold": 1
+  },
+  {
+   "id": "Obsidian",
+   "required": [
+    {
+     "keyword": "obsidian",
+     "mode": "m"
+    }
+   ],
+   "optional": [
+    {
+     "keyword": "beer",
+     "mode": "m"
+    },
+    {
+     "keyword": "cerveza",
+     "mode": "m"
+    },
+    {
+     "keyword": "cerveja",
+     "mode": "m"
+    },
+    {
+     "keyword": "bier",
+     "mode": "m"
+    },
+    {
+     "keyword": "birra",
+     "mode": "m"
+    },
+    {
+     "keyword": "biere",
+     "mode": "m"
+    },
+    {
+     "keyword": "piwo",
+     "mode": "m"
+    },
+    {
+     "keyword": "pivo",
+     "mode": "m"
+    },
+    {
+     "keyword": "american",
+     "mode": "m"
+    },
+    {
+     "keyword": "black",
+     "mode": "m"
+    }
+   ],
+   "optionalThreshold": 1
+  },
+  {
+   "id": "Resistance",
+   "required": [
+    {
+     "keyword": "resistance",
+     "mode": "m"
+    }
+   ],
+   "optional": [
+    {
+     "keyword": "beer",
+     "mode": "m"
+    },
+    {
+     "keyword": "cerveza",
+     "mode": "m"
+    },
+    {
+     "keyword": "cerveja",
+     "mode": "m"
+    },
+    {
+     "keyword": "bier",
+     "mode": "m"
+    },
+    {
+     "keyword": "birra",
+     "mode": "m"
+    },
+    {
+     "keyword": "biere",
+     "mode": "m"
+    },
+    {
+     "keyword": "piwo",
+     "mode": "m"
+    },
+    {
+     "keyword": "pivo",
+     "mode": "m"
+    },
+    {
+     "keyword": "american",
+     "mode": "m"
+    },
+    {
+     "keyword": "wild",
+     "mode": "m"
+    }
+   ],
+   "optionalThreshold": 1
+  },
+  {
+   "id": "Jacksons",
+   "required": [
+    {
+     "keyword": "jacksons",
+     "mode": "m"
+    }
+   ],
+   "optional": [
+    {
+     "keyword": "beer",
+     "mode": "m"
+    },
+    {
+     "keyword": "cerveza",
+     "mode": "m"
+    },
+    {
+     "keyword": "cerveja",
+     "mode": "m"
+    },
+    {
+     "keyword": "bier",
+     "mode": "m"
+    },
+    {
+     "keyword": "birra",
+     "mode": "m"
+    },
+    {
+     "keyword": "biere",
+     "mode": "m"
+    },
+    {
+     "keyword": "piwo",
+     "mode": "m"
+    },
+    {
+     "keyword": "pivo",
+     "mode": "m"
+    },
+    {
+     "keyword": "extra",
+     "mode": "m"
+    },
+    {
+     "keyword": "special",
+     "mode": "m"
+    }
+   ],
+   "optionalThreshold": 1
+  },
+  {
+   "id": "Quaker",
+   "required": [
+    {
+     "keyword": "quaker",
+     "mode": "m"
+    }
+   ],
+   "optional": [
+    {
+     "keyword": "beer",
+     "mode": "m"
+    },
+    {
+     "keyword": "cerveza",
+     "mode": "m"
+    },
+    {
+     "keyword": "cerveja",
+     "mode": "m"
+    },
+    {
+     "keyword": "bier",
+     "mode": "m"
+    },
+    {
+     "keyword": "birra",
+     "mode": "m"
+    },
+    {
+     "keyword": "biere",
+     "mode": "m"
+    },
+    {
+     "keyword": "piwo",
+     "mode": "m"
+    },
+    {
+     "keyword": "pivo",
+     "mode": "m"
+    },
+    {
+     "keyword": "oatmeal",
+     "mode": "m"
+    },
+    {
+     "keyword": "stout",
+     "mode": "m"
+    }
+   ],
+   "optionalThreshold": 1
+  },
+  {
+   "id": "Confession",
+   "required": [
+    {
+     "keyword": "confession",
+     "mode": "m"
+    }
+   ],
+   "optional": [
+    {
+     "keyword": "beer",
+     "mode": "m"
+    },
+    {
+     "keyword": "cerveza",
+     "mode": "m"
+    },
+    {
+     "keyword": "cerveja",
+     "mode": "m"
+    },
+    {
+     "keyword": "bier",
+     "mode": "m"
+    },
+    {
+     "keyword": "birra",
+     "mode": "m"
+    },
+    {
+     "keyword": "biere",
+     "mode": "m"
+    },
+    {
+     "keyword": "piwo",
+     "mode": "m"
+    },
+    {
+     "keyword": "pivo",
+     "mode": "m"
+    },
+    {
+     "keyword": "american",
+     "mode": "m"
+    },
+    {
+     "keyword": "dark",
+     "mode": "m"
+    }
+   ],
+   "optionalThreshold": 1
+  },
+  {
+   "id": "Regala",
+   "required": [
+    {
+     "keyword": "regala",
+     "mode": "m"
+    }
+   ],
+   "optional": [
+    {
+     "keyword": "beer",
+     "mode": "m"
+    },
+    {
+     "keyword": "cerveza",
+     "mode": "m"
+    },
+    {
+     "keyword": "cerveja",
+     "mode": "m"
+    },
+    {
+     "keyword": "bier",
+     "mode": "m"
+    },
+    {
+     "keyword": "birra",
+     "mode": "m"
+    },
+    {
+     "keyword": "biere",
+     "mode": "m"
+    },
+    {
+     "keyword": "piwo",
+     "mode": "m"
+    },
+    {
+     "keyword": "pivo",
+     "mode": "m"
+    },
+    {
+     "keyword": "euro",
+     "mode": "m"
+    },
+    {
+     "keyword": "pale",
+     "mode": "m"
+    }
+   ],
+   "optionalThreshold": 1
+  },
+  {
+   "id": "Tesco",
+   "required": [
+    {
+     "keyword": "tesco",
+     "mode": "m"
+    }
+   ],
+   "optional": [
+    {
+     "keyword": "beer",
+     "mode": "m"
+    },
+    {
+     "keyword": "cerveza",
+     "mode": "m"
+    },
+    {
+     "keyword": "cerveja",
+     "mode": "m"
+    },
+    {
+     "keyword": "bier",
+     "mode": "m"
+    },
+    {
+     "keyword": "birra",
+     "mode": "m"
+    },
+    {
+     "keyword": "biere",
+     "mode": "m"
+    },
+    {
+     "keyword": "piwo",
+     "mode": "m"
+    },
+    {
+     "keyword": "pivo",
+     "mode": "m"
+    },
+    {
+     "keyword": "euro",
+     "mode": "m"
+    },
+    {
+     "keyword": "pale",
+     "mode": "m"
+    }
+   ],
+   "optionalThreshold": 1
+  },
+  {
+   "id": "Dukes",
+   "required": [
+    {
+     "keyword": "dukes",
+     "mode": "m"
+    }
+   ],
+   "optional": [
+    {
+     "keyword": "beer",
+     "mode": "m"
+    },
+    {
+     "keyword": "cerveza",
+     "mode": "m"
+    },
+    {
+     "keyword": "cerveja",
+     "mode": "m"
+    },
+    {
+     "keyword": "bier",
+     "mode": "m"
+    },
+    {
+     "keyword": "birra",
+     "mode": "m"
+    },
+    {
+     "keyword": "biere",
+     "mode": "m"
+    },
+    {
+     "keyword": "piwo",
+     "mode": "m"
+    },
+    {
+     "keyword": "pivo",
+     "mode": "m"
+    },
+    {
+     "keyword": "english",
+     "mode": "m"
+    },
+    {
+     "keyword": "strong",
+     "mode": "m"
+    }
+   ],
+   "optionalThreshold": 1
+  },
+  {
+   "id": "Belgium",
+   "required": [
+    {
+     "keyword": "belgium",
+     "mode": "m"
+    }
+   ],
+   "optional": [
+    {
+     "keyword": "beer",
+     "mode": "m"
+    },
+    {
+     "keyword": "cerveza",
+     "mode": "m"
+    },
+    {
+     "keyword": "cerveja",
+     "mode": "m"
+    },
+    {
+     "keyword": "bier",
+     "mode": "m"
+    },
+    {
+     "keyword": "birra",
+     "mode": "m"
+    },
+    {
+     "keyword": "biere",
+     "mode": "m"
+    },
+    {
+     "keyword": "piwo",
+     "mode": "m"
+    },
+    {
+     "keyword": "pivo",
+     "mode": "m"
+    },
+    {
+     "keyword": "witbier",
+     "mode": "m"
+    },
+    {
+     "keyword": "square",
+     "mode": "m"
+    }
+   ],
+   "optionalThreshold": 1
+  },
+  {
+   "id": "Dark Earth",
+   "required": [
+    {
+     "keyword": "dark-earth",
+     "mode": "m"
+    }
+   ],
+   "optional": [
+    {
+     "keyword": "beer",
+     "mode": "m"
+    },
+    {
+     "keyword": "cerveza",
+     "mode": "m"
+    },
+    {
+     "keyword": "cerveja",
+     "mode": "m"
+    },
+    {
+     "keyword": "bier",
+     "mode": "m"
+    },
+    {
+     "keyword": "birra",
+     "mode": "m"
+    },
+    {
+     "keyword": "biere",
+     "mode": "m"
+    },
+    {
+     "keyword": "piwo",
+     "mode": "m"
+    },
+    {
+     "keyword": "pivo",
+     "mode": "m"
+    },
+    {
+     "keyword": "american",
+     "mode": "m"
+    },
+    {
+     "keyword": "stout",
+     "mode": "m"
+    }
+   ],
+   "optionalThreshold": 1
+  },
+  {
+   "id": "Midwest",
+   "required": [
+    {
+     "keyword": "midwest",
+     "mode": "m"
+    }
+   ],
+   "optional": [
+    {
+     "keyword": "beer",
+     "mode": "m"
+    },
+    {
+     "keyword": "cerveza",
+     "mode": "m"
+    },
+    {
+     "keyword": "cerveja",
+     "mode": "m"
+    },
+    {
+     "keyword": "bier",
+     "mode": "m"
+    },
+    {
+     "keyword": "birra",
+     "mode": "m"
+    },
+    {
+     "keyword": "biere",
+     "mode": "m"
+    },
+    {
+     "keyword": "piwo",
+     "mode": "m"
+    },
+    {
+     "keyword": "pivo",
+     "mode": "m"
+    },
+    {
+     "keyword": "american",
+     "mode": "m"
+    },
+    {
+     "keyword": "ipa",
+     "mode": "m"
+    }
+   ],
+   "optionalThreshold": 1
+  },
+  {
+   "id": "Kuchlbauer",
+   "required": [
+    {
+     "keyword": "kuchlbauer",
+     "mode": "m"
+    }
+   ],
+   "optional": [
+    {
+     "keyword": "beer",
+     "mode": "m"
+    },
+    {
+     "keyword": "cerveza",
+     "mode": "m"
+    },
+    {
+     "keyword": "cerveja",
+     "mode": "m"
+    },
+    {
+     "keyword": "bier",
+     "mode": "m"
+    },
+    {
+     "keyword": "birra",
+     "mode": "m"
+    },
+    {
+     "keyword": "biere",
+     "mode": "m"
+    },
+    {
+     "keyword": "piwo",
+     "mode": "m"
+    },
+    {
+     "keyword": "pivo",
+     "mode": "m"
+    },
+    {
+     "keyword": "hefeweizen",
+     "mode": "m"
+    },
+    {
+     "keyword": "weissbierbrauerei",
+     "mode": "m"
+    }
+   ],
+   "optionalThreshold": 1
+  },
+  {
+   "id": "Lighthouse",
+   "required": [
+    {
+     "keyword": "lighthouse",
+     "mode": "m"
+    }
+   ],
+   "optional": [
+    {
+     "keyword": "beer",
+     "mode": "m"
+    },
+    {
+     "keyword": "cerveza",
+     "mode": "m"
+    },
+    {
+     "keyword": "cerveja",
+     "mode": "m"
+    },
+    {
+     "keyword": "bier",
+     "mode": "m"
+    },
+    {
+     "keyword": "birra",
+     "mode": "m"
+    },
+    {
+     "keyword": "biere",
+     "mode": "m"
+    },
+    {
+     "keyword": "piwo",
+     "mode": "m"
+    },
+    {
+     "keyword": "pivo",
+     "mode": "m"
+    },
+    {
+     "keyword": "light",
+     "mode": "m"
+    },
+    {
+     "keyword": "lager",
+     "mode": "m"
+    }
+   ],
+   "optionalThreshold": 1
+  },
+  {
+   "id": "Chaotic",
+   "required": [
+    {
+     "keyword": "chaotic",
+     "mode": "m"
+    }
+   ],
+   "optional": [
+    {
+     "keyword": "beer",
+     "mode": "m"
+    },
+    {
+     "keyword": "cerveza",
+     "mode": "m"
+    },
+    {
+     "keyword": "cerveja",
+     "mode": "m"
+    },
+    {
+     "keyword": "bier",
+     "mode": "m"
+    },
+    {
+     "keyword": "birra",
+     "mode": "m"
+    },
+    {
+     "keyword": "biere",
+     "mode": "m"
+    },
+    {
+     "keyword": "piwo",
+     "mode": "m"
+    },
+    {
+     "keyword": "pivo",
+     "mode": "m"
+    },
+    {
+     "keyword": "american",
+     "mode": "m"
+    },
+    {
+     "keyword": "double",
+     "mode": "m"
+    }
+   ],
+   "optionalThreshold": 1
+  },
+  {
+   "id": "Pivotal",
+   "required": [
+    {
+     "keyword": "pivotal",
+     "mode": "m"
+    }
+   ],
+   "optional": [
+    {
+     "keyword": "beer",
+     "mode": "m"
+    },
+    {
+     "keyword": "cerveza",
+     "mode": "m"
+    },
+    {
+     "keyword": "cerveja",
+     "mode": "m"
+    },
+    {
+     "keyword": "bier",
+     "mode": "m"
+    },
+    {
+     "keyword": "birra",
+     "mode": "m"
+    },
+    {
+     "keyword": "biere",
+     "mode": "m"
+    },
+    {
+     "keyword": "piwo",
+     "mode": "m"
+    },
+    {
+     "keyword": "pivo",
+     "mode": "m"
+    },
+    {
+     "keyword": "american",
+     "mode": "m"
+    },
+    {
+     "keyword": "porter",
+     "mode": "m"
+    }
+   ],
+   "optionalThreshold": 1
+  },
+  {
+   "id": "Next Door",
+   "required": [
+    {
+     "keyword": "next-door",
+     "mode": "m"
+    }
+   ],
+   "optional": [
+    {
+     "keyword": "beer",
+     "mode": "m"
+    },
+    {
+     "keyword": "cerveza",
+     "mode": "m"
+    },
+    {
+     "keyword": "cerveja",
+     "mode": "m"
+    },
+    {
+     "keyword": "bier",
+     "mode": "m"
+    },
+    {
+     "keyword": "birra",
+     "mode": "m"
+    },
+    {
+     "keyword": "biere",
+     "mode": "m"
+    },
+    {
+     "keyword": "piwo",
+     "mode": "m"
+    },
+    {
+     "keyword": "pivo",
+     "mode": "m"
+    },
+    {
+     "keyword": "english",
+     "mode": "m"
+    },
+    {
+     "keyword": "pale",
+     "mode": "m"
+    }
+   ],
+   "optionalThreshold": 1
+  },
+  {
+   "id": "Flyers",
+   "required": [
+    {
+     "keyword": "flyers",
+     "mode": "m"
+    }
+   ],
+   "optional": [
+    {
+     "keyword": "beer",
+     "mode": "m"
+    },
+    {
+     "keyword": "cerveza",
+     "mode": "m"
+    },
+    {
+     "keyword": "cerveja",
+     "mode": "m"
+    },
+    {
+     "keyword": "bier",
+     "mode": "m"
+    },
+    {
+     "keyword": "birra",
+     "mode": "m"
+    },
+    {
+     "keyword": "biere",
+     "mode": "m"
+    },
+    {
+     "keyword": "piwo",
+     "mode": "m"
+    },
+    {
+     "keyword": "pivo",
+     "mode": "m"
+    },
+    {
+     "keyword": "american",
+     "mode": "m"
+    },
+    {
+     "keyword": "barleywine",
+     "mode": "m"
+    }
+   ],
+   "optionalThreshold": 1
+  },
+  {
+   "id": "Proper",
+   "required": [
+    {
+     "keyword": "proper",
+     "mode": "m"
+    }
+   ],
+   "optional": [
+    {
+     "keyword": "beer",
+     "mode": "m"
+    },
+    {
+     "keyword": "cerveza",
+     "mode": "m"
+    },
+    {
+     "keyword": "cerveja",
+     "mode": "m"
+    },
+    {
+     "keyword": "bier",
+     "mode": "m"
+    },
+    {
+     "keyword": "birra",
+     "mode": "m"
+    },
+    {
+     "keyword": "biere",
+     "mode": "m"
+    },
+    {
+     "keyword": "piwo",
+     "mode": "m"
+    },
+    {
+     "keyword": "pivo",
+     "mode": "m"
+    },
+    {
+     "keyword": "english",
+     "mode": "m"
+    },
+    {
+     "keyword": "pale",
+     "mode": "m"
+    }
+   ],
+   "optionalThreshold": 1
+  },
+  {
+   "id": "Taps",
+   "required": [
+    {
+     "keyword": "taps",
+     "mode": "m"
+    }
+   ],
+   "optional": [
+    {
+     "keyword": "beer",
+     "mode": "m"
+    },
+    {
+     "keyword": "cerveza",
+     "mode": "m"
+    },
+    {
+     "keyword": "cerveja",
+     "mode": "m"
+    },
+    {
+     "keyword": "bier",
+     "mode": "m"
+    },
+    {
+     "keyword": "birra",
+     "mode": "m"
+    },
+    {
+     "keyword": "biere",
+     "mode": "m"
+    },
+    {
+     "keyword": "piwo",
+     "mode": "m"
+    },
+    {
+     "keyword": "pivo",
+     "mode": "m"
+    },
+    {
+     "keyword": "english",
+     "mode": "m"
+    },
+    {
+     "keyword": "brown",
+     "mode": "m"
+    }
+   ],
+   "optionalThreshold": 1
+  },
+  {
+   "id": "Joes",
+   "required": [
+    {
+     "keyword": "joes",
+     "mode": "m"
+    }
+   ],
+   "optional": [
+    {
+     "keyword": "beer",
+     "mode": "m"
+    },
+    {
+     "keyword": "cerveza",
+     "mode": "m"
+    },
+    {
+     "keyword": "cerveja",
+     "mode": "m"
+    },
+    {
+     "keyword": "bier",
+     "mode": "m"
+    },
+    {
+     "keyword": "birra",
+     "mode": "m"
+    },
+    {
+     "keyword": "biere",
+     "mode": "m"
+    },
+    {
+     "keyword": "piwo",
+     "mode": "m"
+    },
+    {
+     "keyword": "pivo",
+     "mode": "m"
+    },
+    {
+     "keyword": "schwarzbier",
+     "mode": "m"
+    },
+    {
+     "keyword": "harvest",
+     "mode": "m"
+    }
+   ],
+   "optionalThreshold": 1
+  },
+  {
+   "id": "Michelob",
+   "required": [
+    {
+     "keyword": "michelob",
+     "mode": "m"
+    }
+   ],
+   "optional": [
+    {
+     "keyword": "beer",
+     "mode": "m"
+    },
+    {
+     "keyword": "cerveza",
+     "mode": "m"
+    },
+    {
+     "keyword": "cerveja",
+     "mode": "m"
+    },
+    {
+     "keyword": "bier",
+     "mode": "m"
+    },
+    {
+     "keyword": "birra",
+     "mode": "m"
+    },
+    {
+     "keyword": "biere",
+     "mode": "m"
+    },
+    {
+     "keyword": "piwo",
+     "mode": "m"
+    },
+    {
+     "keyword": "pivo",
+     "mode": "m"
+    },
+    {
+     "keyword": "american",
+     "mode": "m"
+    },
+    {
+     "keyword": "pale",
+     "mode": "m"
+    }
+   ],
+   "optionalThreshold": 1
+  },
+  {
+   "id": "Busch",
+   "required": [
+    {
+     "keyword": "busch",
+     "mode": "m"
+    }
+   ],
+   "optional": [
+    {
+     "keyword": "beer",
+     "mode": "m"
+    },
+    {
+     "keyword": "cerveza",
+     "mode": "m"
+    },
+    {
+     "keyword": "cerveja",
+     "mode": "m"
+    },
+    {
+     "keyword": "bier",
+     "mode": "m"
+    },
+    {
+     "keyword": "birra",
+     "mode": "m"
+    },
+    {
+     "keyword": "biere",
+     "mode": "m"
+    },
+    {
+     "keyword": "piwo",
+     "mode": "m"
+    },
+    {
+     "keyword": "pivo",
+     "mode": "m"
+    },
+    {
+     "keyword": "american",
+     "mode": "m"
+    },
+    {
+     "keyword": "adjunct",
+     "mode": "m"
+    }
+   ],
+   "optionalThreshold": 1
+  },
+  {
+   "id": "Michelob Ultra",
+   "required": [
+    {
+     "keyword": "michelob-ultra",
+     "mode": "m"
+    }
+   ],
+   "optional": [
+    {
+     "keyword": "beer",
+     "mode": "m"
+    },
+    {
+     "keyword": "cerveza",
+     "mode": "m"
+    },
+    {
+     "keyword": "cerveja",
+     "mode": "m"
+    },
+    {
+     "keyword": "bier",
+     "mode": "m"
+    },
+    {
+     "keyword": "birra",
+     "mode": "m"
+    },
+    {
+     "keyword": "biere",
+     "mode": "m"
+    },
+    {
+     "keyword": "piwo",
+     "mode": "m"
+    },
+    {
+     "keyword": "pivo",
+     "mode": "m"
+    },
+    {
+     "keyword": "light",
+     "mode": "m"
+    },
+    {
+     "keyword": "lager",
+     "mode": "m"
+    }
+   ],
+   "optionalThreshold": 1
+  },
+  {
+   "id": "Anheuser",
+   "required": [
+    {
+     "keyword": "anheuser",
+     "mode": "m"
+    }
+   ],
+   "optional": [
+    {
+     "keyword": "beer",
+     "mode": "m"
+    },
+    {
+     "keyword": "cerveza",
+     "mode": "m"
+    },
+    {
+     "keyword": "cerveja",
+     "mode": "m"
+    },
+    {
+     "keyword": "bier",
+     "mode": "m"
+    },
+    {
+     "keyword": "birra",
+     "mode": "m"
+    },
+    {
+     "keyword": "biere",
+     "mode": "m"
+    },
+    {
+     "keyword": "piwo",
+     "mode": "m"
+    },
+    {
+     "keyword": "pivo",
+     "mode": "m"
+    },
+    {
+     "keyword": "euro",
+     "mode": "m"
+    },
+    {
+     "keyword": "pale",
+     "mode": "m"
+    }
+   ],
+   "optionalThreshold": 1
+  },
+  {
+   "id": "Congo",
+   "required": [
+    {
+     "keyword": "congo",
+     "mode": "m"
+    }
+   ],
+   "optional": [
+    {
+     "keyword": "beer",
+     "mode": "m"
+    },
+    {
+     "keyword": "cerveza",
+     "mode": "m"
+    },
+    {
+     "keyword": "cerveja",
+     "mode": "m"
+    },
+    {
+     "keyword": "bier",
+     "mode": "m"
+    },
+    {
+     "keyword": "birra",
+     "mode": "m"
+    },
+    {
+     "keyword": "biere",
+     "mode": "m"
+    },
+    {
+     "keyword": "piwo",
+     "mode": "m"
+    },
+    {
+     "keyword": "pivo",
+     "mode": "m"
+    },
+    {
+     "keyword": "belgian",
+     "mode": "m"
+    },
+    {
+     "keyword": "ipa",
+     "mode": "m"
+    }
+   ],
+   "optionalThreshold": 1
+  },
+  {
+   "id": "Beam",
+   "required": [
+    {
+     "keyword": "beam",
+     "mode": "m"
+    }
+   ],
+   "optional": [
+    {
+     "keyword": "beer",
+     "mode": "m"
+    },
+    {
+     "keyword": "cerveza",
+     "mode": "m"
+    },
+    {
+     "keyword": "cerveja",
+     "mode": "m"
+    },
+    {
+     "keyword": "bier",
+     "mode": "m"
+    },
+    {
+     "keyword": "birra",
+     "mode": "m"
+    },
+    {
+     "keyword": "biere",
+     "mode": "m"
+    },
+    {
+     "keyword": "piwo",
+     "mode": "m"
+    },
+    {
+     "keyword": "pivo",
+     "mode": "m"
+    },
+    {
+     "keyword": "american",
+     "mode": "m"
+    },
+    {
+     "keyword": "porter",
+     "mode": "m"
+    }
+   ],
+   "optionalThreshold": 1
+  },
+  {
+   "id": "Plum",
+   "required": [
+    {
+     "keyword": "plum",
+     "mode": "m"
+    }
+   ],
+   "optional": [
+    {
+     "keyword": "beer",
+     "mode": "m"
+    },
+    {
+     "keyword": "cerveza",
+     "mode": "m"
+    },
+    {
+     "keyword": "cerveja",
+     "mode": "m"
+    },
+    {
+     "keyword": "bier",
+     "mode": "m"
+    },
+    {
+     "keyword": "birra",
+     "mode": "m"
+    },
+    {
+     "keyword": "biere",
+     "mode": "m"
+    },
+    {
+     "keyword": "piwo",
+     "mode": "m"
+    },
+    {
+     "keyword": "pivo",
+     "mode": "m"
+    },
+    {
+     "keyword": "fruit",
+     "mode": "m"
+    },
+    {
+     "keyword": "vegetable",
+     "mode": "m"
+    }
+   ],
+   "optionalThreshold": 1
+  },
+  {
+   "id": "First Class",
+   "required": [
+    {
+     "keyword": "first-class",
+     "mode": "m"
+    }
+   ],
+   "optional": [
+    {
+     "keyword": "beer",
+     "mode": "m"
+    },
+    {
+     "keyword": "cerveza",
+     "mode": "m"
+    },
+    {
+     "keyword": "cerveja",
+     "mode": "m"
+    },
+    {
+     "keyword": "bier",
+     "mode": "m"
+    },
+    {
+     "keyword": "birra",
+     "mode": "m"
+    },
+    {
+     "keyword": "biere",
+     "mode": "m"
+    },
+    {
+     "keyword": "piwo",
+     "mode": "m"
+    },
+    {
+     "keyword": "pivo",
+     "mode": "m"
+    },
+    {
+     "keyword": "american",
+     "mode": "m"
+    },
+    {
+     "keyword": "ipa",
+     "mode": "m"
+    }
+   ],
+   "optionalThreshold": 1
+  },
+  {
+   "id": "Chocolate Cherry",
+   "required": [
+    {
+     "keyword": "chocolate-cherry",
+     "mode": "m"
+    }
+   ],
+   "optional": [
+    {
+     "keyword": "beer",
+     "mode": "m"
+    },
+    {
+     "keyword": "cerveza",
+     "mode": "m"
+    },
+    {
+     "keyword": "cerveja",
+     "mode": "m"
+    },
+    {
+     "keyword": "bier",
+     "mode": "m"
+    },
+    {
+     "keyword": "birra",
+     "mode": "m"
+    },
+    {
+     "keyword": "biere",
+     "mode": "m"
+    },
+    {
+     "keyword": "piwo",
+     "mode": "m"
+    },
+    {
+     "keyword": "pivo",
+     "mode": "m"
+    },
+    {
+     "keyword": "english",
+     "mode": "m"
+    },
+    {
+     "keyword": "dark",
+     "mode": "m"
+    }
+   ],
+   "optionalThreshold": 1
+  },
+  {
+   "id": "Redhook",
+   "required": [
+    {
+     "keyword": "redhook",
+     "mode": "m"
+    }
+   ],
+   "optional": [
+    {
+     "keyword": "beer",
+     "mode": "m"
+    },
+    {
+     "keyword": "cerveza",
+     "mode": "m"
+    },
+    {
+     "keyword": "cerveja",
+     "mode": "m"
+    },
+    {
+     "keyword": "bier",
+     "mode": "m"
+    },
+    {
+     "keyword": "birra",
+     "mode": "m"
+    },
+    {
+     "keyword": "biere",
+     "mode": "m"
+    },
+    {
+     "keyword": "piwo",
+     "mode": "m"
+    },
+    {
+     "keyword": "pivo",
+     "mode": "m"
+    },
+    {
+     "keyword": "english",
+     "mode": "m"
+    },
+    {
+     "keyword": "brown",
+     "mode": "m"
+    }
+   ],
+   "optionalThreshold": 1
+  },
+  {
+   "id": "Nurnberger",
+   "required": [
+    {
+     "keyword": "nurnberger",
+     "mode": "m"
+    }
+   ],
+   "optional": [
+    {
+     "keyword": "beer",
+     "mode": "m"
+    },
+    {
+     "keyword": "cerveza",
+     "mode": "m"
+    },
+    {
+     "keyword": "cerveja",
+     "mode": "m"
+    },
+    {
+     "keyword": "bier",
+     "mode": "m"
+    },
+    {
+     "keyword": "birra",
+     "mode": "m"
+    },
+    {
+     "keyword": "biere",
+     "mode": "m"
+    },
+    {
+     "keyword": "piwo",
+     "mode": "m"
+    },
+    {
+     "keyword": "pivo",
+     "mode": "m"
+    },
+    {
+     "keyword": "munich",
+     "mode": "m"
+    },
+    {
+     "keyword": "helles",
+     "mode": "m"
+    }
+   ],
+   "optionalThreshold": 1
+  },
+  {
+   "id": "Centurion",
+   "required": [
+    {
+     "keyword": "centurion",
+     "mode": "m"
+    }
+   ],
+   "optional": [
+    {
+     "keyword": "beer",
+     "mode": "m"
+    },
+    {
+     "keyword": "cerveza",
+     "mode": "m"
+    },
+    {
+     "keyword": "cerveja",
+     "mode": "m"
+    },
+    {
+     "keyword": "bier",
+     "mode": "m"
+    },
+    {
+     "keyword": "birra",
+     "mode": "m"
+    },
+    {
+     "keyword": "biere",
+     "mode": "m"
+    },
+    {
+     "keyword": "piwo",
+     "mode": "m"
+    },
+    {
+     "keyword": "pivo",
+     "mode": "m"
+    },
+    {
+     "keyword": "american",
+     "mode": "m"
+    },
+    {
+     "keyword": "barleywine",
+     "mode": "m"
+    }
+   ],
+   "optionalThreshold": 1
+  },
+  {
+   "id": "Chatham",
+   "required": [
+    {
+     "keyword": "chatham",
+     "mode": "m"
+    }
+   ],
+   "optional": [
+    {
+     "keyword": "beer",
+     "mode": "m"
+    },
+    {
+     "keyword": "cerveza",
+     "mode": "m"
+    },
+    {
+     "keyword": "cerveja",
+     "mode": "m"
+    },
+    {
+     "keyword": "bier",
+     "mode": "m"
+    },
+    {
+     "keyword": "birra",
+     "mode": "m"
+    },
+    {
+     "keyword": "biere",
+     "mode": "m"
+    },
+    {
+     "keyword": "piwo",
+     "mode": "m"
+    },
+    {
+     "keyword": "pivo",
+     "mode": "m"
+    },
+    {
+     "keyword": "american",
+     "mode": "m"
+    },
+    {
+     "keyword": "double",
+     "mode": "m"
+    }
+   ],
+   "optionalThreshold": 1
+  },
+  {
+   "id": "Greens",
+   "required": [
+    {
+     "keyword": "greens",
+     "mode": "m"
+    }
+   ],
+   "optional": [
+    {
+     "keyword": "beer",
+     "mode": "m"
+    },
+    {
+     "keyword": "cerveza",
+     "mode": "m"
+    },
+    {
+     "keyword": "cerveja",
+     "mode": "m"
+    },
+    {
+     "keyword": "bier",
+     "mode": "m"
+    },
+    {
+     "keyword": "birra",
+     "mode": "m"
+    },
+    {
+     "keyword": "biere",
+     "mode": "m"
+    },
+    {
+     "keyword": "piwo",
+     "mode": "m"
+    },
+    {
+     "keyword": "pivo",
+     "mode": "m"
+    },
+    {
+     "keyword": "dubbel",
+     "mode": "m"
+    },
+    {
+     "keyword": "green",
+     "mode": "m"
+    }
+   ],
+   "optionalThreshold": 1
+  },
+  {
+   "id": "Brass",
+   "required": [
+    {
+     "keyword": "brass",
+     "mode": "m"
+    }
+   ],
+   "optional": [
+    {
+     "keyword": "beer",
+     "mode": "m"
+    },
+    {
+     "keyword": "cerveza",
+     "mode": "m"
+    },
+    {
+     "keyword": "cerveja",
+     "mode": "m"
+    },
+    {
+     "keyword": "bier",
+     "mode": "m"
+    },
+    {
+     "keyword": "birra",
+     "mode": "m"
+    },
+    {
+     "keyword": "biere",
+     "mode": "m"
+    },
+    {
+     "keyword": "piwo",
+     "mode": "m"
+    },
+    {
+     "keyword": "pivo",
+     "mode": "m"
+    },
+    {
+     "keyword": "american",
+     "mode": "m"
+    },
+    {
+     "keyword": "pale",
+     "mode": "m"
+    }
+   ],
+   "optionalThreshold": 1
+  },
+  {
+   "id": "Greed",
+   "required": [
+    {
+     "keyword": "greed",
+     "mode": "m"
+    }
+   ],
+   "optional": [
+    {
+     "keyword": "beer",
+     "mode": "m"
+    },
+    {
+     "keyword": "cerveza",
+     "mode": "m"
+    },
+    {
+     "keyword": "cerveja",
+     "mode": "m"
+    },
+    {
+     "keyword": "bier",
+     "mode": "m"
+    },
+    {
+     "keyword": "birra",
+     "mode": "m"
+    },
+    {
+     "keyword": "biere",
+     "mode": "m"
+    },
+    {
+     "keyword": "piwo",
+     "mode": "m"
+    },
+    {
+     "keyword": "pivo",
+     "mode": "m"
+    },
+    {
+     "keyword": "belgian",
+     "mode": "m"
+    },
+    {
+     "keyword": "pale",
+     "mode": "m"
+    }
+   ],
+   "optionalThreshold": 1
+  },
+  {
+   "id": "Biker",
+   "required": [
+    {
+     "keyword": "biker",
+     "mode": "m"
+    }
+   ],
+   "optional": [
+    {
+     "keyword": "beer",
+     "mode": "m"
+    },
+    {
+     "keyword": "cerveza",
+     "mode": "m"
+    },
+    {
+     "keyword": "cerveja",
+     "mode": "m"
+    },
+    {
+     "keyword": "bier",
+     "mode": "m"
+    },
+    {
+     "keyword": "birra",
+     "mode": "m"
+    },
+    {
+     "keyword": "biere",
+     "mode": "m"
+    },
+    {
+     "keyword": "piwo",
+     "mode": "m"
+    },
+    {
+     "keyword": "pivo",
+     "mode": "m"
+    },
+    {
+     "keyword": "american",
+     "mode": "m"
+    },
+    {
+     "keyword": "stout",
+     "mode": "m"
+    }
+   ],
+   "optionalThreshold": 1
+  },
+  {
+   "id": "Coleman",
+   "required": [
+    {
+     "keyword": "coleman",
+     "mode": "m"
+    }
+   ],
+   "optional": [
+    {
+     "keyword": "beer",
+     "mode": "m"
+    },
+    {
+     "keyword": "cerveza",
+     "mode": "m"
+    },
+    {
+     "keyword": "cerveja",
+     "mode": "m"
+    },
+    {
+     "keyword": "bier",
+     "mode": "m"
+    },
+    {
+     "keyword": "birra",
+     "mode": "m"
+    },
+    {
+     "keyword": "biere",
+     "mode": "m"
+    },
+    {
+     "keyword": "piwo",
+     "mode": "m"
+    },
+    {
+     "keyword": "pivo",
+     "mode": "m"
+    },
+    {
+     "keyword": "american",
+     "mode": "m"
+    },
+    {
+     "keyword": "stout",
+     "mode": "m"
+    }
+   ],
+   "optionalThreshold": 1
+  },
+  {
+   "id": "Single Malt",
+   "required": [
+    {
+     "keyword": "single-malt",
+     "mode": "m"
+    }
+   ],
+   "optional": [
+    {
+     "keyword": "beer",
+     "mode": "m"
+    },
+    {
+     "keyword": "cerveza",
+     "mode": "m"
+    },
+    {
+     "keyword": "cerveja",
+     "mode": "m"
+    },
+    {
+     "keyword": "bier",
+     "mode": "m"
+    },
+    {
+     "keyword": "birra",
+     "mode": "m"
+    },
+    {
+     "keyword": "biere",
+     "mode": "m"
+    },
+    {
+     "keyword": "piwo",
+     "mode": "m"
+    },
+    {
+     "keyword": "pivo",
+     "mode": "m"
+    },
+    {
+     "keyword": "american",
+     "mode": "m"
+    },
+    {
+     "keyword": "amber",
+     "mode": "m"
+    }
+   ],
+   "optionalThreshold": 1
+  },
+  {
+   "id": "Islander",
+   "required": [
+    {
+     "keyword": "islander",
+     "mode": "m"
+    }
+   ],
+   "optional": [
+    {
+     "keyword": "beer",
+     "mode": "m"
+    },
+    {
+     "keyword": "cerveza",
+     "mode": "m"
+    },
+    {
+     "keyword": "cerveja",
+     "mode": "m"
+    },
+    {
+     "keyword": "bier",
+     "mode": "m"
+    },
+    {
+     "keyword": "birra",
+     "mode": "m"
+    },
+    {
+     "keyword": "biere",
+     "mode": "m"
+    },
+    {
+     "keyword": "piwo",
+     "mode": "m"
+    },
+    {
+     "keyword": "pivo",
+     "mode": "m"
+    },
+    {
+     "keyword": "american",
+     "mode": "m"
+    },
+    {
+     "keyword": "ipa",
+     "mode": "m"
+    }
+   ],
+   "optionalThreshold": 1
+  },
+  {
+   "id": "Idiot",
+   "required": [
+    {
+     "keyword": "idiot",
+     "mode": "m"
+    }
+   ],
+   "optional": [
+    {
+     "keyword": "beer",
+     "mode": "m"
+    },
+    {
+     "keyword": "cerveza",
+     "mode": "m"
+    },
+    {
+     "keyword": "cerveja",
+     "mode": "m"
+    },
+    {
+     "keyword": "bier",
+     "mode": "m"
+    },
+    {
+     "keyword": "birra",
+     "mode": "m"
+    },
+    {
+     "keyword": "biere",
+     "mode": "m"
+    },
+    {
+     "keyword": "piwo",
+     "mode": "m"
+    },
+    {
+     "keyword": "pivo",
+     "mode": "m"
+    },
+    {
+     "keyword": "american",
+     "mode": "m"
+    },
+    {
+     "keyword": "double",
+     "mode": "m"
+    }
+   ],
+   "optionalThreshold": 1
+  },
+  {
+   "id": "Alaskan",
+   "required": [
+    {
+     "keyword": "alaskan",
+     "mode": "m"
+    }
+   ],
+   "optional": [
+    {
+     "keyword": "beer",
+     "mode": "m"
+    },
+    {
+     "keyword": "cerveza",
+     "mode": "m"
+    },
+    {
+     "keyword": "cerveja",
+     "mode": "m"
+    },
+    {
+     "keyword": "bier",
+     "mode": "m"
+    },
+    {
+     "keyword": "birra",
+     "mode": "m"
+    },
+    {
+     "keyword": "biere",
+     "mode": "m"
+    },
+    {
+     "keyword": "piwo",
+     "mode": "m"
+    },
+    {
+     "keyword": "pivo",
+     "mode": "m"
+    },
+    {
+     "keyword": "american",
+     "mode": "m"
+    },
+    {
+     "keyword": "porter",
+     "mode": "m"
+    }
+   ],
+   "optionalThreshold": 1
+  },
+  {
+   "id": "Wolverine",
+   "required": [
+    {
+     "keyword": "wolverine",
+     "mode": "m"
+    }
+   ],
+   "optional": [
+    {
+     "keyword": "beer",
+     "mode": "m"
+    },
+    {
+     "keyword": "cerveza",
+     "mode": "m"
+    },
+    {
+     "keyword": "cerveja",
+     "mode": "m"
+    },
+    {
+     "keyword": "bier",
+     "mode": "m"
+    },
+    {
+     "keyword": "birra",
+     "mode": "m"
+    },
+    {
+     "keyword": "biere",
+     "mode": "m"
+    },
+    {
+     "keyword": "piwo",
+     "mode": "m"
+    },
+    {
+     "keyword": "pivo",
+     "mode": "m"
+    },
+    {
+     "keyword": "euro",
+     "mode": "m"
+    },
+    {
+     "keyword": "dark",
+     "mode": "m"
+    }
+   ],
+   "optionalThreshold": 1
+  },
+  {
+   "id": "Eugene",
+   "required": [
+    {
+     "keyword": "eugene",
+     "mode": "m"
+    }
+   ],
+   "optional": [
+    {
+     "keyword": "beer",
+     "mode": "m"
+    },
+    {
+     "keyword": "cerveza",
+     "mode": "m"
+    },
+    {
+     "keyword": "cerveja",
+     "mode": "m"
+    },
+    {
+     "keyword": "bier",
+     "mode": "m"
+    },
+    {
+     "keyword": "birra",
+     "mode": "m"
+    },
+    {
+     "keyword": "biere",
+     "mode": "m"
+    },
+    {
+     "keyword": "piwo",
+     "mode": "m"
+    },
+    {
+     "keyword": "pivo",
+     "mode": "m"
+    },
+    {
+     "keyword": "american",
+     "mode": "m"
+    },
+    {
+     "keyword": "porter",
+     "mode": "m"
+    }
+   ],
+   "optionalThreshold": 1
+  },
+  {
+   "id": "Absolut",
+   "required": [
+    {
+     "keyword": "absolut",
+     "mode": "m"
+    }
+   ],
+   "optional": [
+    {
+     "keyword": "vodka",
+     "mode": "m"
+    },
+    {
+     "keyword": "wodka",
+     "mode": "m"
+    }
+   ],
+   "optionalThreshold": 1
+  },
+  {
+   "id": "Amstel",
+   "required": [
+    {
+     "keyword": "amstel",
+     "mode": "m"
+    }
+   ]
+  },
+  {
+   "id": "Aperol",
+   "required": [
+    {
+     "keyword": "aperol",
+     "mode": "m"
+    }
+   ]
+  },
+  {
+   "id": "Appleton",
+   "required": [
+    {
+     "keyword": "appleton",
+     "mode": "m"
+    }
+   ],
+   "optional": [
+    {
+     "keyword": "rum",
+     "mode": "m"
+    },
+    {
+     "keyword": "rhum",
+     "mode": "m"
+    }
+   ],
+   "optionalThreshold": 1
+  },
+  {
+   "id": "Asahi",
+   "required": [
+    {
+     "keyword": "asahi",
+     "mode": "m"
+    }
+   ],
+   "optional": [
+    {
+     "keyword": "beer",
+     "mode": "m"
+    },
+    {
+     "keyword": "cerveza",
+     "mode": "m"
+    },
+    {
+     "keyword": "cerveja",
+     "mode": "m"
+    },
+    {
+     "keyword": "bier",
+     "mode": "m"
+    },
+    {
+     "keyword": "birra",
+     "mode": "m"
+    },
+    {
+     "keyword": "biere",
+     "mode": "m"
+    },
+    {
+     "keyword": "piwo",
+     "mode": "m"
+    },
+    {
+     "keyword": "pivo",
+     "mode": "m"
+    },
+    {
+     "keyword": "english",
+     "mode": "m"
+    },
+    {
+     "keyword": "stout",
+     "mode": "m"
+    }
+   ],
+   "optionalThreshold": 1
+  },
+  {
+   "id": "Baileys",
+   "required": [
+    {
+     "keyword": "baileys",
+     "mode": "m"
+    }
+   ]
+  },
+  {
+   "id": "Ballantines",
+   "required": [
+    {
+     "keyword": "ballantines",
+     "mode": "m"
+    }
+   ],
+   "optional": [
+    {
+     "keyword": "whisky",
+     "mode": "m"
+    },
+    {
+     "keyword": "whiskey",
+     "mode": "m"
+    },
+    {
+     "keyword": "scotch",
+     "mode": "m"
+    },
+    {
+     "keyword": "bourbon",
+     "mode": "m"
+    },
+    {
+     "keyword": "pernod",
+     "mode": "m"
+    },
+    {
+     "keyword": "ricard",
+     "mode": "m"
+    }
+   ],
+   "optionalThreshold": 1
+  },
+  {
+   "id": "Becks",
+   "required": [
+    {
+     "keyword": "becks",
+     "mode": "m"
+    }
+   ]
+  },
+  {
+   "id": "Beefeater",
+   "required": [
+    {
+     "keyword": "beefeater",
+     "mode": "m"
+    }
+   ],
+   "optional": [
+    {
+     "keyword": "gin",
+     "mode": "m"
+    },
+    {
+     "keyword": "ginebra",
+     "mode": "m"
+    }
+   ],
+   "optionalThreshold": 1
+  },
+  {
+   "id": "Bollinger",
+   "required": [
+    {
+     "keyword": "bollinger",
+     "mode": "m"
+    }
+   ]
+  },
+  {
+   "id": "Bombay Sapphire",
+   "required": [
+    {
+     "keyword": "bombay-sapphire",
+     "mode": "m"
+    }
+   ],
+   "optional": [
+    {
+     "keyword": "gin",
+     "mode": "m"
+    },
+    {
+     "keyword": "ginebra",
+     "mode": "m"
+    }
+   ],
+   "optionalThreshold": 1
+  },
+  {
+   "id": "Bushmills",
+   "required": [
+    {
+     "keyword": "bushmills",
+     "mode": "m"
+    }
+   ]
+  },
+  {
+   "id": "Campari",
+   "required": [
+    {
+     "keyword": "campari",
+     "mode": "m"
+    }
+   ],
+   "optional": [
+    {
+     "keyword": "liqueur",
+     "mode": "m"
+    },
+    {
+     "keyword": "licor",
+     "mode": "m"
+    },
+    {
+     "keyword": "likor",
+     "mode": "m"
+    },
+    {
+     "keyword": "liquore",
+     "mode": "m"
+    },
+    {
+     "keyword": "vermouth",
+     "mode": "m"
+    },
+    {
+     "keyword": "vermut",
+     "mode": "m"
+    },
+    {
+     "keyword": "group",
+     "mode": "m"
+    }
+   ],
+   "optionalThreshold": 1
+  },
+  {
+   "id": "Captain Morgan",
+   "required": [
+    {
+     "keyword": "captain-morgan",
+     "mode": "m"
+    }
+   ]
+  },
+  {
+   "id": "Carlsberg",
+   "required": [
+    {
+     "keyword": "carlsberg",
+     "mode": "m"
+    }
+   ]
+  },
+  {
+   "id": "Chambord",
+   "required": [
+    {
+     "keyword": "chambord",
+     "mode": "m"
+    }
+   ],
+   "optional": [
+    {
+     "keyword": "liqueur",
+     "mode": "m"
+    },
+    {
+     "keyword": "licor",
+     "mode": "m"
+    },
+    {
+     "keyword": "likor",
+     "mode": "m"
+    },
+    {
+     "keyword": "liquore",
+     "mode": "m"
+    }
+   ],
+   "optionalThreshold": 1
+  },
+  {
+   "id": "Chivas Regal",
+   "required": [
+    {
+     "keyword": "chivas-regal",
+     "mode": "m"
+    }
+   ]
+  },
+  {
+   "id": "Corona",
+   "required": [
+    {
+     "keyword": "corona",
+     "mode": "m"
+    }
+   ],
+   "optional": [
+    {
+     "keyword": "beer",
+     "mode": "m"
+    },
+    {
+     "keyword": "cerveza",
+     "mode": "m"
+    },
+    {
+     "keyword": "cerveja",
+     "mode": "m"
+    },
+    {
+     "keyword": "bier",
+     "mode": "m"
+    },
+    {
+     "keyword": "birra",
+     "mode": "m"
+    },
+    {
+     "keyword": "biere",
+     "mode": "m"
+    },
+    {
+     "keyword": "piwo",
+     "mode": "m"
+    },
+    {
+     "keyword": "pivo",
+     "mode": "m"
+    },
+    {
+     "keyword": "grupo",
+     "mode": "m"
+    },
+    {
+     "keyword": "modelo",
+     "mode": "m"
+    }
+   ],
+   "optionalThreshold": 1
+  },
+  {
+   "id": "Crown Royal",
+   "required": [
+    {
+     "keyword": "crown-royal",
+     "mode": "m"
+    }
+   ]
+  },
+  {
+   "id": "Disaronno",
+   "required": [
+    {
+     "keyword": "disaronno",
+     "mode": "m"
+    }
+   ],
+   "optional": [
+    {
+     "keyword": "liqueur",
+     "mode": "m"
+    },
+    {
+     "keyword": "licor",
+     "mode": "m"
+    },
+    {
+     "keyword": "likor",
+     "mode": "m"
+    },
+    {
+     "keyword": "liquore",
+     "mode": "m"
+    }
+   ],
+   "optionalThreshold": 1
+  },
+  {
+   "id": "Erdinger",
+   "required": [
+    {
+     "keyword": "erdinger",
+     "mode": "m"
+    }
+   ]
+  },
+  {
+   "id": "Espolon",
+   "required": [
+    {
+     "keyword": "espolon",
+     "mode": "m"
+    }
+   ]
+  },
+  {
+   "id": "Estrella",
+   "required": [
+    {
+     "keyword": "estrella",
+     "mode": "m"
+    }
+   ],
+   "optional": [
+    {
+     "keyword": "beer",
+     "mode": "m"
+    },
+    {
+     "keyword": "cerveza",
+     "mode": "m"
+    },
+    {
+     "keyword": "cerveja",
+     "mode": "m"
+    },
+    {
+     "keyword": "bier",
+     "mode": "m"
+    },
+    {
+     "keyword": "birra",
+     "mode": "m"
+    },
+    {
+     "keyword": "biere",
+     "mode": "m"
+    },
+    {
+     "keyword": "piwo",
+     "mode": "m"
+    },
+    {
+     "keyword": "pivo",
+     "mode": "m"
+    },
+    {
+     "keyword": "american",
+     "mode": "m"
+    },
+    {
+     "keyword": "adjunct",
+     "mode": "m"
+    }
+   ],
+   "optionalThreshold": 1
+  },
+  {
+   "id": "Finlandia",
+   "required": [
+    {
+     "keyword": "finlandia",
+     "mode": "m"
+    }
+   ]
+  },
+  {
+   "id": "Fosters",
+   "required": [
+    {
+     "keyword": "fosters",
+     "mode": "m"
+    }
+   ],
+   "optional": [
+    {
+     "keyword": "beer",
+     "mode": "m"
+    },
+    {
+     "keyword": "cerveza",
+     "mode": "m"
+    },
+    {
+     "keyword": "cerveja",
+     "mode": "m"
+    },
+    {
+     "keyword": "bier",
+     "mode": "m"
+    },
+    {
+     "keyword": "birra",
+     "mode": "m"
+    },
+    {
+     "keyword": "biere",
+     "mode": "m"
+    },
+    {
+     "keyword": "piwo",
+     "mode": "m"
+    },
+    {
+     "keyword": "pivo",
+     "mode": "m"
+    },
+    {
+     "keyword": "english",
+     "mode": "m"
+    },
+    {
+     "keyword": "bitter",
+     "mode": "m"
+    }
+   ],
+   "optionalThreshold": 1
+  },
+  {
+   "id": "Glenfiddich",
+   "required": [
+    {
+     "keyword": "glenfiddich",
+     "mode": "m"
+    }
+   ]
+  },
+  {
+   "id": "Glenlivet",
+   "required": [
+    {
+     "keyword": "glenlivet",
+     "mode": "m"
+    }
+   ],
+   "optional": [
+    {
+     "keyword": "whisky",
+     "mode": "m"
+    },
+    {
+     "keyword": "whiskey",
+     "mode": "m"
+    },
+    {
+     "keyword": "scotch",
+     "mode": "m"
+    },
+    {
+     "keyword": "bourbon",
+     "mode": "m"
+    }
+   ],
+   "optionalThreshold": 1
+  },
+  {
+   "id": "Gordons",
+   "required": [
+    {
+     "keyword": "gordons",
+     "mode": "m"
+    }
+   ]
+  },
+  {
+   "id": "Grand Marnier",
+   "required": [
+    {
+     "keyword": "grand-marnier",
+     "mode": "m"
+    }
+   ]
+  },
+  {
+   "id": "Havana Club",
+   "required": [
+    {
+     "keyword": "havana-club",
+     "mode": "m"
+    }
+   ],
+   "optional": [
+    {
+     "keyword": "rum",
+     "mode": "m"
+    },
+    {
+     "keyword": "rhum",
+     "mode": "m"
+    },
+    {
+     "keyword": "liqueur",
+     "mode": "m"
+    },
+    {
+     "keyword": "licor",
+     "mode": "m"
+    },
+    {
+     "keyword": "likor",
+     "mode": "m"
+    },
+    {
+     "keyword": "liquore",
+     "mode": "m"
+    }
+   ],
+   "optionalThreshold": 1
+  },
+  {
+   "id": "Herradura",
+   "required": [
+    {
+     "keyword": "herradura",
+     "mode": "m"
+    }
+   ],
+   "optional": [
+    {
+     "keyword": "tequila",
+     "mode": "m"
+    },
+    {
+     "keyword": "mezcal",
+     "mode": "m"
+    }
+   ],
+   "optionalThreshold": 1
+  },
+  {
+   "id": "Jägermeister",
+   "required": [
+    {
+     "keyword": "jagermeister",
+     "mode": "m"
+    }
+   ]
+  },
+  {
+   "id": "Jose Cuervo",
+   "required": [
+    {
+     "keyword": "jose-cuervo",
+     "mode": "m"
+    }
+   ]
+  },
+  {
+   "id": "Kahlúa",
+   "required": [
+    {
+     "keyword": "kahlua",
+     "mode": "m"
+    }
+   ],
+   "optional": [
+    {
+     "keyword": "liqueur",
+     "mode": "m"
+    },
+    {
+     "keyword": "licor",
+     "mode": "m"
+    },
+    {
+     "keyword": "likor",
+     "mode": "m"
+    },
+    {
+     "keyword": "liquore",
+     "mode": "m"
+    },
+    {
+     "keyword": "pernod",
+     "mode": "m"
+    },
+    {
+     "keyword": "ricard",
+     "mode": "m"
+    }
+   ],
+   "optionalThreshold": 1
+  },
+  {
+   "id": "Ketel One",
+   "required": [
+    {
+     "keyword": "ketel-one",
+     "mode": "m"
+    }
+   ]
+  },
+  {
+   "id": "Leffe",
+   "required": [
+    {
+     "keyword": "leffe",
+     "mode": "m"
+    }
+   ]
+  },
+  {
+   "id": "Limoncello",
+   "required": [
+    {
+     "keyword": "limoncello",
+     "mode": "m"
+    }
+   ],
+   "optional": [
+    {
+     "keyword": "liqueur",
+     "mode": "m"
+    },
+    {
+     "keyword": "licor",
+     "mode": "m"
+    },
+    {
+     "keyword": "likor",
+     "mode": "m"
+    },
+    {
+     "keyword": "liquore",
+     "mode": "m"
+    }
+   ],
+   "optionalThreshold": 1
+  },
+  {
+   "id": "Makers Mark",
+   "required": [
+    {
+     "keyword": "makers-mark",
+     "mode": "m"
+    }
+   ]
+  },
+  {
+   "id": "Martell",
+   "required": [
+    {
+     "keyword": "martell",
+     "mode": "m"
+    }
+   ]
+  },
+  {
+   "id": "Martini",
+   "required": [
+    {
+     "keyword": "martini",
+     "mode": "m"
+    }
+   ],
+   "optional": [
+    {
+     "keyword": "wine",
+     "mode": "m"
+    },
+    {
+     "keyword": "vino",
+     "mode": "m"
+    },
+    {
+     "keyword": "vinho",
+     "mode": "m"
+    },
+    {
+     "keyword": "wein",
+     "mode": "m"
+    },
+    {
+     "keyword": "vinos",
+     "mode": "m"
+    },
+    {
+     "keyword": "sparkling",
+     "mode": "m"
+    },
+    {
+     "keyword": "spumante",
+     "mode": "m"
+    },
+    {
+     "keyword": "espumante",
+     "mode": "m"
+    },
+    {
+     "keyword": "cava",
+     "mode": "m"
+    },
+    {
+     "keyword": "prosecco",
+     "mode": "m"
+    }
+   ],
+   "optionalThreshold": 1
+  },
+  {
+   "id": "Midori",
+   "required": [
+    {
+     "keyword": "midori",
+     "mode": "m"
+    }
+   ]
+  },
+  {
+   "id": "Miller",
+   "required": [
+    {
+     "keyword": "miller",
+     "mode": "m"
+    }
+   ],
+   "optional": [
+    {
+     "keyword": "beer",
+     "mode": "m"
+    },
+    {
+     "keyword": "cerveza",
+     "mode": "m"
+    },
+    {
+     "keyword": "cerveja",
+     "mode": "m"
+    },
+    {
+     "keyword": "bier",
+     "mode": "m"
+    },
+    {
+     "keyword": "birra",
+     "mode": "m"
+    },
+    {
+     "keyword": "biere",
+     "mode": "m"
+    },
+    {
+     "keyword": "piwo",
+     "mode": "m"
+    },
+    {
+     "keyword": "pivo",
+     "mode": "m"
+    },
+    {
+     "keyword": "light",
+     "mode": "m"
+    },
+    {
+     "keyword": "lager",
+     "mode": "m"
+    }
+   ],
+   "optionalThreshold": 1
+  },
+  {
+   "id": "Monkey Shoulder",
+   "required": [
+    {
+     "keyword": "monkey-shoulder",
+     "mode": "m"
+    }
+   ]
+  },
+  {
+   "id": "Mumm",
+   "required": [
+    {
+     "keyword": "mumm",
+     "mode": "m"
+    }
+   ]
+  },
+  {
+   "id": "Peroni",
+   "required": [
+    {
+     "keyword": "peroni",
+     "mode": "m"
+    }
+   ]
+  },
+  {
+   "id": "Remy Martin",
+   "required": [
+    {
+     "keyword": "remy-martin",
+     "mode": "m"
+    }
+   ]
+  },
+  {
+   "id": "Ron Zacapa",
+   "required": [
+    {
+     "keyword": "ron-zacapa",
+     "mode": "m"
+    }
+   ],
+   "optional": [
+    {
+     "keyword": "rum",
+     "mode": "m"
+    },
+    {
+     "keyword": "rhum",
+     "mode": "m"
+    }
+   ],
+   "optionalThreshold": 1
+  },
+  {
+   "id": "Sambuca",
+   "required": [
+    {
+     "keyword": "sambuca",
+     "mode": "m"
+    }
+   ]
+  },
+  {
+   "id": "Sapporo",
+   "required": [
+    {
+     "keyword": "sapporo",
+     "mode": "m"
+    }
+   ]
+  },
+  {
+   "id": "SKYY",
+   "required": [
+    {
+     "keyword": "skyy",
+     "mode": "m"
+    }
+   ]
+  },
+  {
+   "id": "Smirnoff",
+   "required": [
+    {
+     "keyword": "smirnoff",
+     "mode": "m"
+    }
+   ]
+  },
+  {
+   "id": "Stella Artois",
+   "required": [
+    {
+     "keyword": "stella-artois",
+     "mode": "m"
+    }
+   ]
+  },
+  {
+   "id": "Tanqueray",
+   "required": [
+    {
+     "keyword": "tanqueray",
+     "mode": "m"
+    }
+   ],
+   "optional": [
+    {
+     "keyword": "gin",
+     "mode": "m"
+    },
+    {
+     "keyword": "ginebra",
+     "mode": "m"
+    },
+    {
+     "keyword": "diageo",
+     "mode": "m"
+    }
+   ],
+   "optionalThreshold": 1
+  },
+  {
+   "id": "Veuve Clicquot",
+   "required": [
+    {
+     "keyword": "veuve-clicquot",
+     "mode": "m"
+    }
+   ],
+   "optional": [
+    {
+     "keyword": "champagne",
+     "mode": "m"
+    }
+   ],
+   "optionalThreshold": 1
+  },
+  {
+   "id": "Wild Turkey",
+   "required": [
+    {
+     "keyword": "wild-turkey",
+     "mode": "m"
+    }
+   ],
+   "optional": [
+    {
+     "keyword": "whisky",
+     "mode": "m"
+    },
+    {
+     "keyword": "whiskey",
+     "mode": "m"
+    },
+    {
+     "keyword": "scotch",
+     "mode": "m"
+    },
+    {
+     "keyword": "bourbon",
+     "mode": "m"
+    },
+    {
+     "keyword": "campari",
+     "mode": "m"
+    },
+    {
+     "keyword": "group",
+     "mode": "m"
+    }
+   ],
+   "optionalThreshold": 1
+  },
+  {
+   "id": "Żubrówka",
+   "required": [
+    {
+     "keyword": "zubrowka",
+     "mode": "m"
+    }
+   ]
+  }
+ ]
+}

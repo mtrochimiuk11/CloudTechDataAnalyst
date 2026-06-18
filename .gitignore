@@ -1,0 +1,8 @@
+# systemowe
+.DS_Store
+
+# duży lokalny zrzut korpusu URL-i (nie wersjonujemy)
+output.json
+
+# zbiór recenzji piw – za duży na repo (172 MB)
+data/beer_reviews.csv
