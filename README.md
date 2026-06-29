@@ -36,7 +36,7 @@ Pobrałem też dane ze stron:
 - <https://www.thewhiskyexchange.com/brands/spirits/365/vermouths-aperitifs-and-digestifs>
 - <https://www.thewhiskyexchange.com/brands/spirits/366/other-spirits>
 
-za pomocą skryptu `scripts/scraping/twe_brands.txt`, uruchamianego z poziomu zakładki w
+za pomocą skryptu `scripts/scraping/twe_brands.js`, uruchamianego z poziomu zakładki w
 przeglądarce. Pobrałem dane z tych stron za pomocą skryptu JS, ponieważ przy skrypcie pythonowym
 występowały problemy z CAPTCHĄ. Następnie dane połączyłem w jeden plik za pomocą
 `scripts/scraping/merge_csv.py`.
